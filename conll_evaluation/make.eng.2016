@@ -1,0 +1,110 @@
+#!/bin/bash
+# make.eng.2016: create English data files for CoNLL-2003 shared task
+# usage: make.eng.2016
+# note: this script requires the Reuters Corpus file rcv1.tar.xz
+# 20030204 erikt(at)uia.ua.ac.be (base)
+# 20160816 erikt(at)xs4all.nl (update)
+
+LANG="en_US.UTF-8"
+export LANG
+REUTERS=rcv1.tar.xz
+ETC="../etc"
+TRAINLENGTH=219554
+TESTALENGTH=55044
+TESTBLENGTH=50350
+
+if [ ! -f $REUTERS ]
+then
+   echo "cannot find Reuters Corpus file: $REUTERS" >&2
+   exit 1
+fi
+
+if [ "`ls`" != "`ls ../ner`" ]
+then
+   echo "incorrect start directory (expected ner)" >&2
+   exit 1
+fi
+
+TMPDIR=tmp.$$
+/bin/rm -rf $TMPDIR
+mkdir $TMPDIR
+cd $TMPDIR >/dev/null
+
+echo "extracting corpus files for eng.train and eng.testa..."
+unxz -c ../$REUTERS | tar xf - `cat $ETC/files.eng | sed 's?^?rcv1/?'`
+mv rcv1/*/*xml .
+rm -rf rcv1
+
+echo "removing all xml codes..."
+../bin/xml2txt.eng *.xml
+
+echo "tokenizing..."
+for file in `ls *.txt|sort -n`
+do
+   cat $ETC/files.head $file | ../bin/tokenize.eng
+done |\
+   paste -d' ' - $ETC/tags.eng |\
+   (sed 's/^ *$//';echo) > tokenized
+
+head -$TRAINLENGTH tokenized > ../eng.train
+tail -n +$((1+$TRAINLENGTH)) tokenized | head -$TESTALENGTH > ../eng.testa
+
+cd ..
+/bin/rm -rf $TMPDIR
+
+# make eng.testb
+TMPDIR=tmp.$$
+/bin/rm -rf $TMPDIR
+mkdir $TMPDIR
+cd $TMPDIR
+
+echo "extracting corpus files for eng.testb..."
+unxz -c ../$REUTERS | tar xf - `cat $ETC/files.eng.testb | sed 's?^?rcv1/?'`
+mv rcv1/*/*xml .
+rm -rf rcv1
+
+echo "removing all xml codes..."
+../bin/xml2txt.eng *.xml
+
+echo "tokenizing..."
+for file in `ls *.txt|sort -n`
+do
+   cat $ETC/files.head $file | ../bin/tokenize.eng
+done |\
+   paste -d' ' - $ETC/tags.eng.testb |\
+   (sed 's/^ *$//';echo) | head -$TESTBLENGTH > ../eng.testb
+
+cd ..
+/bin/rm -rf $TMPDIR
+
+if [ `wc -l < eng.train` != $TRAINLENGTH ]
+then
+   echo -e "incorrect number of lines in in data file eng.train: \c" >&2
+   wc -l < eng.train >&2
+   exit 1
+fi
+
+if [ `wc -l < eng.testa` != $TESTALENGTH ]
+then
+   echo -e "incorrect number of lines in data file eng.testa: \c" >&2
+   wc -l < eng.testa >&2
+   exit 1
+fi
+
+if [ `wc -l < eng.testb` != $TESTBLENGTH ]
+then
+   echo -e "incorrect number of lines in data file eng.testb: \c" >&2
+   wc -l < eng.testb >&2
+   exit 1
+fi
+
+for FILE in eng.train eng.testa eng.testb
+do
+   if [ -n "`grep '^ [^ ]' $FILE`" ]
+   then
+      echo "alignment problem in data file $FILE" >&2
+      exit 1
+   fi
+done
+
+exit 0
