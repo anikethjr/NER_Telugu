@@ -1,14 +1,14 @@
 కాంగ్రెస్‌ B-ORG B-ORG
-పార్టీకి I-ORG O
+పార్టీకి I-ORG I-ORG
 గుడ్‌ O O
 బై O O
 చెప్పి O O
 ఇటీవల O O
-టీఆర్‌ B-ORG O
-ఎస్‌ I-ORG O
+టీఆర్‌ B-ORG B-ORG
+ఎస్‌ I-ORG I-ORG
 తీర్థం O O
 పుచ్చుకున్న O O
-డీఎస్‌ B-PERSON B-PERSON
+డీఎస్‌ B-PERSON B-ORG
 కు O O
 కేసీఆర్‌ B-PERSON B-PERSON
 ఈ O O
@@ -46,7 +46,7 @@
 అడిగి O O
 తెలుసుకోవాల్సిందిగా O O
 మంత్రి O O
-పుల్లారావును B-PERSON B-PERSON
+పుల్లారావును B-PERSON O
 ఆదేశించారు O O
 . O O
 
@@ -62,7 +62,7 @@
 ప్రాజెక్టు O O
 నివేదికను O O
 రూపొందించాలని O O
-ఇంటేక్ B-ORG O
+ఇంటేక్ B-ORG B-ORG
 అనే O O
 సంస్థకు O O
 అప్పగించామని O O
@@ -98,7 +98,7 @@
 ఇరాక్ B-LOC B-LOC
 , O O
 సిరియాలతోపాటు B-LOC B-LOC
-భారత్ B-LOC I-LOC
+భారత్ B-LOC B-LOC
 , O O
 అమెరికా B-LOC B-LOC
 , O O
@@ -111,13 +111,13 @@
 ను O O
 స్థాపించినది O O
 అబు B-PERSON O
-బాఖర్‌ I-PERSON B-ORG
-అల్ I-PERSON O
-బాగ్దాదీ B-PERSON O
-అల్ I-PERSON O
-హుస్సేనీ B-PERSON O
-అల్ I-PERSON O
-ఖురేషి B-PERSON O
+బాఖర్‌ I-PERSON B-PERSON
+అల్ I-PERSON I-PERSON
+బాగ్దాదీ B-PERSON I-ORG
+అల్ I-PERSON B-ORG
+హుస్సేనీ B-PERSON I-ORG
+అల్ I-PERSON I-PERSON
+ఖురేషి B-PERSON I-PERSON
 ! O O
 
 ఈ O O
@@ -130,7 +130,7 @@
 చేసింది O O
 . O O
 
-అన్సారీకి B-PERSON O
+అన్సారీకి B-PERSON B-LOC
 పీస్ O O
 ప్యాలెస్ O O
 వద్ద O O
@@ -191,7 +191,7 @@
 . O O
 
 పటేల్ O B-PERSON
-పటీదార్ O O
+పటీదార్ O I-PERSON
 కులస్థులను O O
 ఓబిసి O O
 జాబితాలో O O
@@ -216,7 +216,7 @@
 తెలిసిందే O O
 . O O
 
-తాటిపూడి B-LOC B-LOC
+తాటిపూడి B-LOC O
 ఎత్తిపోతల O O
 పథకం O O
 నుంచి O O
@@ -290,7 +290,7 @@
 ) O O
 : O O
 శ్రీలంకతో B-LOC O
-కొలంబో B-LOC O
+కొలంబో B-LOC B-LOC
 వేదికగా O O
 జరుగుతున్న O O
 రెండో B-MISC B-MISC
@@ -322,8 +322,8 @@
 పై O O
 ప్రజాభిప్రాయసేకరణ O O
 జరపాలంటూ O O
-ఐరాసలో B-ORG B-LOC
-పాకిస్తాన్ B-LOC I-LOC
+ఐరాసలో B-ORG B-ORG
+పాకిస్తాన్ B-LOC B-LOC
 డిమాండ్ O O
 చేయడాన్ని O O
 భారత్ B-LOC B-LOC
@@ -363,7 +363,7 @@
 తెగలు O O
 సున్ని O O
 , O O
-షియా O B-LOC
+షియా O O
 ! O O
 
 భారత్ B-LOC B-LOC
@@ -419,7 +419,7 @@
 . O O
 
 సరిగ్గా O O
-విజయదశమి O O
+విజయదశమి O B-MISC
 రోజునే O O
 రాష్ట్ర O O
 రాజధాని O O
@@ -429,7 +429,7 @@
 ఈదఫా O O
 వివిఐపి O B-ORG
 , O O
-విఐపిలు O O
+విఐపిలు O B-ORG
 పెద్దసంఖ్యలో O O
 తరలివస్తారనే O O
 అంచనాలతో O O
@@ -438,7 +438,7 @@
 చేస్తున్నారు O O
 . O O
 
-ఉత్తరాఖండ్‌ B-LOC O
+ఉత్తరాఖండ్‌ B-LOC B-LOC
 తరహా O O
 ప్రత్యేక O O
 ప్యాకేజీతోపాటు O O
@@ -507,8 +507,8 @@
 ముఖ్యఅతిధిగా O O
 పాల్గొనే O O
 కార్యక్రమంలో O O
-రామినేని B-ORG O
-ఫౌండేషన్ I-ORG O
+రామినేని B-ORG B-ORG
+ఫౌండేషన్ I-ORG I-ORG
 పురస్కారాలు O O
 అందజేయనున్నట్టు O O
 ఆయన O O
@@ -556,8 +556,8 @@
 సుదీర్ఘంగా O O
 మాట్లాడితే O O
 అధికారపక్షమైన O O
-టిఆర్ B-ORG O
-ఎస్ I-ORG O
+టిఆర్ B-ORG B-ORG
+ఎస్ I-ORG I-ORG
 తక్కువ O O
 మాట్లాడి O O
 విపక్షాల O O
@@ -602,7 +602,7 @@
 విమర్శించారు O O
 . O O
 
-మంగరాజుకు B-PERSON B-PERSON
+మంగరాజుకు B-PERSON B-MISC
 తొమ్మిది B-MISC B-MISC
 నెలల I-MISC I-MISC
 క్రితమే O O
@@ -614,7 +614,7 @@
 వివి O O
 ) O O
 : O O
-సీమాంధ్రలో B-LOC B-LOC
+సీమాంధ్రలో B-LOC O
 పర్యటించడం O O
 ద్వారా O O
 తెలంగాణపై B-LOC B-LOC
@@ -765,7 +765,7 @@
 21 I-MISC I-MISC
 : O O
 గ్రామకంఠాల O O
-ఖరారుపై O O
+ఖరారుపై O B-LOC
 రాజధాని O O
 ప్రాంత O O
 రైతుల్లో O O
@@ -874,8 +874,8 @@
 ప్రకటించింది O O
 . O O
 
-ఉన్నత B-ORG O
-విద్యామండలి I-ORG O
+ఉన్నత B-ORG B-ORG
+విద్యామండలి I-ORG I-ORG
 ప్రతిపాదనను O O
 న్యాయస్థానం O O
 తిరస్కరించిన O O
@@ -1015,7 +1015,7 @@
 గోదావరి I-LOC I-LOC
 జిల్లా O O
 కాంగ్రెస్ B-ORG B-ORG
-కమిటీ O O
+కమిటీ O I-ORG
 అధ్యక్షుడు O O
 రఫీయుల్లాబేగ్ B-PERSON B-PERSON
 సహా O O
@@ -1076,7 +1076,7 @@
 వారు O O
 తోపులాటలో O O
 ఎవరు O O
-విసిరారో O O
+విసిరారో O B-PERSON
 తెలియదు O O
 గానీ O O
 విసిరిన O O
@@ -1095,7 +1095,7 @@
 వెల్లడి O O
 . O O
 
-ఆటోగ్రాఫ్ O O
+ఆటోగ్రాఫ్ O B-PERSON
 ఇస్తాను O O
 . O O
 
@@ -1160,7 +1160,7 @@
 కూడా O O
 అవసరమే O O
 అన్నది O O
-అమెరికన్‌ B-ORG O
+అమెరికన్‌ B-ORG B-LOC
 ఫెడరల్‌ I-ORG O
 రిజర్వ్‌ I-ORG O
 కు O O
@@ -1337,7 +1337,7 @@
 తెలిపారు O O
 . O O
 
-అమృత్ O B-LOC
+అమృత్ O O
 పథకం O O
 కింద O O
 మరో O O
@@ -1378,12 +1378,12 @@
 2003 B-MISC B-MISC
 బ్రహ్మోత్సవాల O O
 సమయంలో O O
-అలిపిరి B-LOC O
+అలిపిరి B-LOC B-LOC
 వద్ద O O
 తనపై O O
 జరిగిన O O
 దాడినుంచి O O
-వేంకటేశ్వరుడి O B-PERSON
+వేంకటేశ్వరుడి O B-MISC
 ఆశీస్సులతో O O
 ప్రాణాలతో O O
 బయటపడింది O O
@@ -1465,7 +1465,7 @@
 . O O
 
 2013-14 B-MISC B-MISC
-సంవత్సరానికి O I-MISC
+సంవత్సరానికి O O
 స్ర్తినిధిపై O O
 68 B-MISC B-MISC
 కోట్ల I-MISC I-MISC
@@ -1484,7 +1484,7 @@
 లక్షలను O I-MISC
 సంస్థ O B-ORG
 మేనేజింగ్ O I-ORG
-డైరక్టర్ O O
+డైరక్టర్ O I-ORG
 కెవివి B-PERSON B-PERSON
 సత్యనారాయణ I-PERSON I-PERSON
 , O O
@@ -1590,7 +1590,7 @@
 . O O
 
 సోమవారం B-MISC B-MISC
-ఒక్కరోజే B-MISC I-MISC
+ఒక్కరోజే B-MISC O
 రాష్ట్రంలో O O
 ముగ్గురు B-MISC B-MISC
 రైతులు O O
@@ -1649,7 +1649,7 @@
 ) O O
 ను O O
 మోర్కెల్ B-PERSON B-PERSON
-క్లీన్ O I-PERSON
+క్లీన్ O O
 బౌల్డ్ O O
 చేశాడు O O
 . O O
@@ -1740,19 +1740,19 @@
 కూడా O O
 జైత్రయాత్ర O O
 కొనసాగిస్తున్న O O
-బొపన్న B-PERSON B-PERSON
+బొపన్న B-PERSON O
 , O O
 అతని O O
-భాగస్వామి O B-PERSON
-ఫ్లోరిన్ B-PERSON I-PERSON
+భాగస్వామి O O
+ఫ్లోరిన్ B-PERSON B-PERSON
 మెర్గియా I-PERSON I-PERSON
 ( O O
 రొమేనియా B-LOC B-LOC
 ) O O
 క్వార్టర్ O O
 ఫైనల్ O O
-బెర్తును O B-PERSON
-బుక్ O I-PERSON
+బెర్తును O O
+బుక్ O O
 చేసుకున్నారు O O
 . O O
 
@@ -1832,11 +1832,11 @@
 జట్లకు O O
 నాయకత్వం O O
 వహిస్తున్న O O
-ధోనీకి B-PERSON B-PERSON
-ఒక O O
-స్పోర్ట్స్ O O
-ప్రమోషన్ O O
-సంస్థ O O
+ధోనీకి B-PERSON B-ORG
+ఒక O I-ORG
+స్పోర్ట్స్ O I-ORG
+ప్రమోషన్ O I-ORG
+సంస్థ O I-ORG
 ఉంది O O
 . O O
 
@@ -1917,10 +1917,10 @@
 యుఎస్ B-LOC B-LOC
 ఓపెన్ O O
 గ్రాండ్ O O
-శ్లామ్స్ O B-PERSON
+శ్లామ్స్ O O
 లో O O
 ఆమె O O
-మిక్స్ O B-PERSON
+మిక్స్ O O
 డ్ O O
 డబుల్స్ O O
 టైటిళ్లను O O
@@ -1980,8 +1980,8 @@
 , O O
 డిప్యూటీ O O
 స్పీకర్ O O
-మండలి B-PERSON O
-బుద్ధప్రసాద్ I-PERSON B-PERSON
+మండలి B-PERSON B-PERSON
+బుద్ధప్రసాద్ I-PERSON I-PERSON
 , O O
 రాష్ట్ర O O
 మంత్రులు O O
@@ -2036,7 +2036,7 @@
 ప్రజాప్రతినిధులు O O
 , O O
 రైతు O O
-సంఘాల O B-ORG
+సంఘాల O O
 నేతలు O O
 మాట్లాడారు O O
 . O O
@@ -2044,7 +2044,7 @@
 జమ్మూ B-LOC B-LOC
 నుంచి O O
 రెస్క్యూ O O
-మిషన్‌ O B-ORG
+మిషన్‌ O O
 ఒకటి B-MISC B-MISC
 అక్కడికి O O
 బయలుదేరి O O
@@ -2057,12 +2057,12 @@
 షేక్ B-PERSON B-PERSON
 దర్బార్ I-PERSON I-PERSON
 బాషా I-PERSON I-PERSON
-అలియాస్ O I-PERSON
-రాయచోటి B-PERSON O
-దర్బార్ I-PERSON O
 అలియాస్ O O
-కుంటి B-PERSON O
-బాషా I-PERSON B-PERSON
+రాయచోటి B-PERSON O
+దర్బార్ I-PERSON B-PERSON
+అలియాస్ O O
+కుంటి B-PERSON B-PERSON
+బాషా I-PERSON I-PERSON
 ( O O
 50 B-MISC B-MISC
 ) O O
@@ -2126,16 +2126,16 @@
 ఇరాక్‌ I-ORG I-ORG
 గా O O
 మార్చినపుడు O O
-జనరల్‌ O O
-సూపర్‌ O O
-వైజర్‌ O B-PERSON
+జనరల్‌ O B-ORG
+సూపర్‌ O I-ORG
+వైజర్‌ O I-ORG
 గా O O
 ఉన్నతిని O O
 పొందాడు O O
 . O O
 
-ఒకటి B-MISC B-MISC
-రెండు I-MISC I-MISC
+ఒకటి B-MISC O
+రెండు I-MISC B-MISC
 రోజుల్లో I-MISC I-MISC
 అధికారుల O O
 స్థాయిలో O O
@@ -2184,7 +2184,7 @@
 చేజిక్కించుకున్న O O
 నెలరోజులకే B-PERSON O
 మజ్లిస్ B-LOC B-ORG
-గ్రేటర్ I-LOC O
+గ్రేటర్ I-LOC I-ORG
 లో O O
 పట్టు O O
 సాధించుకుంది O O
@@ -2207,10 +2207,10 @@
 సిరీస్ O O
 లు O O
 అంటూ O O
-భారత B-ORG B-LOC
-క్రికెట్ I-ORG O
-నియంత్రణ I-ORG O
-బోర్డు I-ORG O
+భారత B-ORG B-ORG
+క్రికెట్ I-ORG I-ORG
+నియంత్రణ I-ORG I-ORG
+బోర్డు I-ORG I-ORG
 ( O O
 బిసిసిఐ B-ORG B-ORG
 ) O O
@@ -2228,9 +2228,9 @@
 పై O O
 దృష్టి O O
 పెట్టాలని O O
-పాకిస్తాన్ B-ORG B-LOC
-క్రికెట్ I-ORG O
-బోర్డు I-ORG O
+పాకిస్తాన్ B-ORG B-ORG
+క్రికెట్ I-ORG I-ORG
+బోర్డు I-ORG I-ORG
 ( O O
 పిసిబి B-ORG B-ORG
 ) O O
@@ -2248,7 +2248,7 @@
 గురించి O O
 పాడుకున్న O O
 ఈ O O
-కవిత O O
+కవిత O B-PERSON
 అక్షరాలా O O
 ఆయన O O
 జీవితవేదం O O
@@ -2287,7 +2287,7 @@
 
 ఒకవేళ O O
 ఇది O O
-చట్టబద్ధమైనదే O O
+చట్టబద్ధమైనదే O B-LOC
 అయితే O O
 తామే O O
 ఏమీ O O
@@ -2377,7 +2377,7 @@
 ఏం O O
 చేశామో O O
 రెండు B-MISC B-MISC
-రోజుల్లో I-MISC O
+రోజుల్లో I-MISC I-MISC
 మీరే O O
 చూస్తారు O O
 అని O O
@@ -2480,7 +2480,7 @@
 , O O
 అదే O O
 సమయంలో O O
-ఏపీకి B-LOC O
+ఏపీకి B-LOC B-LOC
 న్యాయం O O
 జరగాలని O O
 పట్టుబట్టింది O O
@@ -2559,9 +2559,9 @@
 లో O O
 టీచర్ల O O
 సంఘాలతోపాటు O O
-ఐటి O O
-రంగంలోనూ O O
-సంఘం O O
+ఐటి O B-ORG
+రంగంలోనూ O I-ORG
+సంఘం O I-ORG
 ఏర్పాటు O O
 చేయడం O O
 జరిగింది O O
@@ -2576,7 +2576,7 @@
 పన్నుల O O
 ద్వారా O O
 రు. B-MISC B-MISC
-177612 I-MISC I-MISC
+177612 I-MISC B-MISC
 కోట్లు I-MISC I-MISC
 ఆదాయం O O
 . O O
@@ -2597,7 +2597,7 @@
 
 ఈ O O
 సందర్భంగా O O
-మార్షల్స్ O O
+మార్షల్స్ O B-PERSON
 కు O O
 , O O
 వారికి O O
@@ -2671,7 +2671,7 @@
 1 B-MISC B-MISC
 బిలియన్ I-MISC I-MISC
 డాలర్లతో I-MISC I-MISC
-27 B-MISC I-MISC
+27 B-MISC B-MISC
 అంతస్తుల O O
 భవనాన్ని O O
 తన O O
@@ -2697,7 +2697,7 @@
 38 B-MISC B-MISC
 పరుగులు O O
 చేసి O O
-యుంబు B-PERSON B-PERSON
+యుంబు B-PERSON I-PERSON
 బౌలింగ్ O O
 లో O O
 ముతుంబొజికి B-PERSON B-PERSON
@@ -2811,7 +2811,7 @@
 వ్యయాలు O O
 అదుపులోకి O O
 రావడంతో O O
-జిడిపిలో O O
+జిడిపిలో O B-ORG
 కరెంట్‌ O O
 ఖాతా O O
 లోటు O O
@@ -2967,12 +2967,12 @@
 
 రాబోయే O O
 నాలుగేళ్ళలో B-MISC B-MISC
-లక్షా B-MISC I-MISC
+లక్షా B-MISC B-MISC
 5 I-MISC I-MISC
 వేల I-MISC I-MISC
 కోట్ల I-MISC I-MISC
 రూపాయలతో I-MISC I-MISC
-24 B-MISC I-MISC
+24 B-MISC B-MISC
 వేల I-MISC I-MISC
 మెగావాట్ల O O
 విద్యుత్ O O
@@ -2983,8 +2983,8 @@
 మధ్యప్రదేశ్ B-LOC B-LOC
 అసెంబ్లీ O O
 స్పీకర్ O O
-డాక్టర్ O O
-సీతాశరణ్ B-PERSON B-PERSON
+డాక్టర్ O B-PERSON
+సీతాశరణ్ B-PERSON I-PERSON
 శర్మ I-PERSON I-PERSON
 , O O
 చత్తీస్ B-LOC B-LOC
@@ -3014,7 +3014,7 @@
 వెళ్ళారు O O
 . O O
 
-ఆధార్‌ O O
+ఆధార్‌ O B-PERSON
 తో O O
 అనుసంధానం O O
 చేయడం O O
@@ -3097,7 +3097,7 @@
 ధ్వజమెత్తారు O O
 . O O
 
-ముంబయిలో B-LOC O
+ముంబయిలో B-LOC B-ORG
 బ్యాంకులు O O
 , O O
 బీమా B-ORG O
@@ -3174,7 +3174,7 @@
 చిత్తూరు B-LOC B-LOC
 జిల్లా O O
 గంగాధర B-PERSON B-LOC
-నెల్లూరు B-LOC I-LOC
+నెల్లూరు B-LOC B-LOC
 మండలం O O
 కట్టక్రిందపల్లెకు B-LOC B-LOC
 చెందిన O O
@@ -3188,7 +3188,7 @@
 గతంలో O O
 సిఐఎస్ B-ORG B-ORG
 ఎఫ్ I-ORG I-ORG
-కానిస్టేబుల్ O O
+కానిస్టేబుల్ O I-ORG
 గా O O
 పనిచేసి O O
 స్వగ్రామానికి O O
@@ -3364,7 +3364,7 @@
 దాదాపు O O
 283 B-MISC B-MISC
 స్విస్ B-ORG B-ORG
-బ్యాంకుల్లో I-ORG O
+బ్యాంకుల్లో I-ORG I-ORG
 విదేశీ O O
 క్లయింట్లకు O O
 చెందిన O O
@@ -3384,7 +3384,7 @@
 విదితమే O O
 . O O
 
-శాంతీపురం B-LOC B-MISC
+శాంతీపురం B-LOC B-LOC
 , O O
 అక్టోబర్ B-MISC B-MISC
 5 I-MISC I-MISC
@@ -3483,8 +3483,8 @@
 తీగలకు O O
 కొక్కెలు O O
 వేయబోయిన O O
-సంగ B-PERSON O
-రాకేశ్ I-PERSON B-PERSON
+సంగ B-PERSON B-PERSON
+రాకేశ్ I-PERSON I-PERSON
 ( O O
 22 B-MISC B-MISC
 ) O O
@@ -3515,8 +3515,8 @@
 సోమవారం B-MISC B-MISC
 అరెస్టు O O
 చేసినట్లు O O
-ఓఎస్ O O
-డి O O
+ఓఎస్ O B-ORG
+డి O I-ORG
 ( O O
 ఆపరేషన్ O O
 ) O O
@@ -3541,7 +3541,7 @@
 
 ఆస్ట్రియా O B-ORG
 మోటర్ O I-ORG
-వే O O
+వే O I-ORG
 నిర్వహణ O O
 కార్మికులు O O
 గురువారం B-MISC B-MISC
@@ -3633,10 +3633,10 @@
 ముర్రే I-PERSON I-PERSON
 , O O
 చెక్ B-LOC B-LOC
-రిపబ్లిక్ I-LOC I-LOC
+రిపబ్లిక్ I-LOC B-LOC
 కు O O
 చెందిన O O
-ఆరో B-MISC B-PERSON
+ఆరో B-MISC B-MISC
 సీడ్ O O
 ఆటగాడు O O
 థామస్ B-PERSON B-PERSON
@@ -3734,7 +3734,7 @@
 ఇంద్రకీలాద్రిపై O O
 కొలువుదీరిన O O
 శ్రీ O B-PERSON
-దుర్గామల్లేశ్వర O O
+దుర్గామల్లేశ్వర O I-PERSON
 స్వామివార్లు O O
 . O O
 
@@ -3760,9 +3760,9 @@
 లైన్‌ O O
 లు O O
 నిర్మించే O O
-పవర్‌ B-ORG O
-గ్రిడ్ I-ORG O
-సంస్థ I-ORG O
+పవర్‌ B-ORG B-ORG
+గ్రిడ్ I-ORG I-ORG
+సంస్థ I-ORG I-ORG
 విద్యుత్ O O
 ఉత్పత్తి O O
 సంస్థల O O
@@ -3884,7 +3884,7 @@
 రోజులలో O O
 ఏడవ B-MISC B-MISC
 వేతన O O
-సంఘం O B-ORG
+సంఘం O I-ORG
 తన O O
 నివేదికను O O
 కేంద్ర O O
@@ -4039,7 +4039,7 @@
 తెరిచిన O O
 వెంటనే O O
 రెండు B-MISC B-MISC
-రౌండ్లు O I-MISC
+రౌండ్లు O O
 కాల్పులు O O
 జరిపి O O
 పారిపోయారని O O
@@ -4051,7 +4051,7 @@
 ఛాతీపైన O O
 తీవ్ర O O
 గాయాలైన O O
-కల్బర్గీని O O
+కల్బర్గీని O B-LOC
 ప్రభుత్వాసుపత్రికి O O
 తరలించగా O O
 చికిత్సకు O O
@@ -4070,11 +4070,11 @@
 కార్యక్రమంలో O O
 ఎపిఆర్ B-PERSON O
 వో I-PERSON O
-సిహెచ్ I-PERSON B-PERSON
-కె. I-PERSON I-PERSON
+సిహెచ్ I-PERSON O
+కె. I-PERSON B-PERSON
 దుర్గాప్రసాద్ I-PERSON I-PERSON
 , O O
-ఎవిఎస్ B-PERSON B-PERSON
+ఎవిఎస్ B-PERSON B-ORG
 ఇ. I-PERSON O
 ర. I-PERSON B-PERSON
 రామలింగేశ్వరరావు I-PERSON I-PERSON
@@ -4088,7 +4088,7 @@
 సాయిబాబా I-PERSON I-PERSON
 , O O
 కెటిఎంకె B-PERSON B-PERSON
-రాజు I-PERSON I-PERSON
+రాజు I-PERSON O
 తదితరులు O O
 పాల్గొన్నారు O O
 . O O
@@ -4146,7 +4146,7 @@
 ఆర్థిక O O
 సంవత్సరం O O
 2014 B-MISC B-MISC
-15 B-MISC I-MISC
+15 B-MISC B-MISC
 లో O O
 టాటా B-ORG B-ORG
 గ్రూప్ I-ORG I-ORG
@@ -4156,7 +4156,7 @@
 ఆర్థిక O O
 సంవత్సరం O O
 2013 B-MISC B-MISC
-14 B-MISC I-MISC
+14 B-MISC B-MISC
 తో O O
 పోల్చితే O O
 5.3 B-MISC B-MISC
@@ -4241,10 +4241,10 @@
 హైవేలు O O
 , O O
 వైజాగ్ B-LOC B-LOC
-చెన్నై B-LOC I-LOC
+చెన్నై B-LOC B-LOC
 , O O
 చెన్నై B-LOC B-LOC
-బెంగుళూరు B-LOC I-LOC
+బెంగుళూరు B-LOC B-LOC
 పారిశ్రామిక O O
 కారిడార్లు O O
 , O O
@@ -4265,7 +4265,7 @@
 . O O
 
 స్విస్ B-ORG B-ORG
-బ్యాంకుల్లో I-ORG O
+బ్యాంకుల్లో I-ORG I-ORG
 భారతీయుల O O
 సంపదే O O
 లక్షల B-MISC B-MISC
@@ -4282,8 +4282,8 @@
 పోలీసు O O
 కమిషనర్‌ O O
 , O O
-ఆర్గనైజేషన్‌ O O
-ఐజీను O O
+ఆర్గనైజేషన్‌ O B-ORG
+ఐజీను O I-ORG
 కూడా O O
 కమిటీలో O O
 చేర్చారు O O
@@ -4367,7 +4367,7 @@
 విలువ O O
 4147 B-MISC B-MISC
 కోట్ల I-MISC I-MISC
-రూపాయలని I-MISC O
+రూపాయలని I-MISC I-MISC
 తాజాగా O O
 ఇక్కడ O O
 రెవిన్యూ O O
@@ -4442,12 +4442,12 @@
 ఆగస్టు B-MISC B-MISC
 30 I-MISC I-MISC
 : O O
-శ్రీలంకతో B-LOC O
+శ్రీలంకతో B-LOC B-LOC
 జరుగుతున్న O O
 చివరిదైన O O
 మూడో B-MISC B-MISC
 టెస్టులో O O
-భారత B-LOC B-LOC
+భారత B-LOC O
 జట్టు O O
 నిలకడ O O
 లేని O O
@@ -4632,7 +4632,7 @@
 
 ఇండోనేషియా B-LOC B-LOC
 : O O
-సులవెసి B-LOC O
+సులవెసి B-LOC B-LOC
 , O O
 హల్మహెరా B-LOC B-LOC
 దీవుల్లో O O
@@ -4681,7 +4681,7 @@
 చెందిన O O
 గంధం B-PERSON O
 పూజ్య I-PERSON O
-నరసింహ I-PERSON B-PERSON
+నరసింహ I-PERSON I-PERSON
 బాపూజీ I-PERSON I-PERSON
 అనే O O
 వ్యక్తి O O
@@ -4872,7 +4872,7 @@
 చైర్మన్ O O
 ధర్మప్రచారక్ B-PERSON B-PERSON
 రామినేని I-PERSON I-PERSON
-విశాఖలో B-LOC I-PERSON
+విశాఖలో B-LOC B-LOC
 సోమవారం B-MISC B-MISC
 ఏర్పాటు O O
 చేసిన O O
@@ -4938,7 +4938,7 @@
 నెగ్గింది O O
 . O O
 
-నవ్యాంధ్రప్రదేశ్ B-LOC B-LOC
+నవ్యాంధ్రప్రదేశ్ B-LOC O
 నూతన O O
 రాజధాని O O
 నిర్మాణానికి O O
@@ -5094,7 +5094,7 @@
 మూడు B-MISC B-MISC
 క్యాంపస్ O O
 లలో O O
-ఒకటి B-MISC B-MISC
+ఒకటి B-MISC O
 ఎలక్ట్రానిక్ O O
 సిటీవద్ద O O
 , O O
@@ -5283,8 +5283,8 @@
 
 ఆ O O
 మహానగరాన్ని O O
-వారం O O
-రోజుల O B-MISC
+వారం O B-MISC
+రోజుల O I-MISC
 పాటు O O
 ఒక O O
 బ్రహ్మాండమైన O O
@@ -5385,8 +5385,8 @@
 అన్నారు O O
 . O O
 
-డిఎన్ O O
-ఎ O O
+డిఎన్ O B-ORG
+ఎ O I-ORG
 వ్యాఖ్యలతో O O
 మోదీ B-PERSON B-PERSON
 బిహార్ B-LOC I-PERSON
@@ -5419,7 +5419,7 @@
 ఇన్వెస్టిగేషన్ O O
 టీమ్ O O
 ( O O
-సిట్ O O
+సిట్ O B-ORG
 ) O O
 కు O O
 సారథ్యం O O
@@ -5436,7 +5436,7 @@
 కు O O
 సుమారు O O
 250 B-MISC B-MISC
-కిలోమీటర్ల O I-MISC
+కిలోమీటర్ల O O
 దూరంలో O O
 ఉన్న O O
 ఎడిర్నె B-LOC O
@@ -5447,10 +5447,10 @@
 మంది O O
 శరణార్థులు O O
 రెండో B-MISC B-MISC
-రోజు I-MISC O
+రోజు I-MISC I-MISC
 రాత్రి O O
 కూడా O O
-ఇస్తాంబుల్ B-LOC O
+ఇస్తాంబుల్ B-LOC B-LOC
 బస్టాండ్‌ O O
 లోనే O O
 ఆగడపాల్సి O O
@@ -5486,7 +5486,7 @@
 చిత్తుచేసింది O O
 . O O
 
-కోటి B-MISC B-MISC
+కోటి B-MISC O
 మందికి O O
 ఉద్యోగాలు O O
 కల్పిస్తామని O O
@@ -5503,9 +5503,9 @@
 సంఖ్యను O O
 కుదించడంతో O O
 పాటు O O
-ఎంజిఎన్ O O
-ఆర్ O O
-ఇజిఎ O O
+ఎంజిఎన్ O B-ORG
+ఆర్ O I-ORG
+ఇజిఎ O I-ORG
 వంటి O O
 ప్రధాన O O
 సామాజిక O O
@@ -5526,7 +5526,7 @@
 పార్టీకి O O
 చెందిన O O
 వారికి O O
-ఇందిరమ్మ O B-PERSON
+ఇందిరమ్మ O O
 , O O
 ఇందిర O O
 ఆవాస్ O O
@@ -5620,7 +5620,7 @@
 విజృంభిస్తున్నాయి O O
 . O O
 
-సిరియాపై B-LOC O
+సిరియాపై B-LOC B-LOC
 వైమానిక O O
 దాడులకు O O
 అమెరికా B-LOC B-LOC
@@ -5633,7 +5633,7 @@
 దాడులకు O O
 సిద్ధం O O
 కావడం O O
-ఒబామా B-PERSON O
+ఒబామా B-PERSON B-PERSON
 ఆలోచనా O O
 విధానంలో O O
 పెనుమార్పు O O
@@ -5649,10 +5649,10 @@
 పీకల్లోతు O O
 అప్పుల్లో O O
 కూరుకుపోయిన O O
-గ్రీస్ B-LOC O
+గ్రీస్ B-LOC B-LOC
 ను O O
 ఆదుకునేందుకు O O
-యూరోజోన్ O O
+యూరోజోన్ O B-LOC
 అంగీకరించడం O O
 , O O
 న్లూక్లియర్ O O
@@ -5675,8 +5675,8 @@
 పెంచాయంటున్నారు O O
 . O O
 
-పస్ O O
-ప్యాలెస్‌ O B-LOC
+పస్ O B-LOC
+ప్యాలెస్‌ O I-LOC
 కు O O
 వెళ్లే O O
 మార్గానికి O O
@@ -5694,7 +5694,7 @@
 , O O
 పుష్పాలు O O
 చల్లుతూ O O
-అన్సారీకి B-PERSON O
+అన్సారీకి B-PERSON B-PERSON
 స్వాగతం O O
 పలికారు O O
 . O O
@@ -5733,20 +5733,20 @@
 , O O
 మెడిసిన్ O O
 , O O
-బిజినెస్ O O
+బిజినెస్ O B-ORG
 , O O
-హ్యూమానిటీస్‌ O O
-లాంటివి O O
+హ్యూమానిటీస్‌ O B-ORG
+లాంటివి O I-ORG
 రంగాల్లో O O
 ప్రతిష్ఠాత్మక O O
 ప్రొఫెసర్ O O
 పదవులు O O
 పొందినవారు O O
 , O O
-వివిధ O O
-విద్యా O O
-సంస్థల O O
-డీన్స్ O O
+వివిధ O B-ORG
+విద్యా O I-ORG
+సంస్థల O I-ORG
+డీన్స్ O I-ORG
 , O O
 విద్యావేత్తలు O O
 ఉన్నారు O O
@@ -5835,7 +5835,7 @@
 , O O
 లిబియా B-LOC B-LOC
 , O O
-ట్యునీసియా B-LOC O
+ట్యునీసియా B-LOC B-ORG
 , O O
 వంటి O O
 దేశాలలో O O
@@ -5888,7 +5888,7 @@
 తాత్కాలికంగా O O
 అధ్యక్షుడిగా O O
 కొనసాగుతున్న O O
-బ్లాటర్ B-PERSON B-PERSON
+బ్లాటర్ B-PERSON O
 తనపై O O
 ఎలాంటి O O
 విమర్శలు O O
@@ -5923,7 +5923,7 @@
 తమిళనాడు B-LOC B-LOC
 ఎప్పటికీ O O
 అంగీకరించదని O O
-ఎండీఎంకే B-ORG O
+ఎండీఎంకే B-ORG B-ORG
 అధ్యక్షుడు O O
 వైకో B-PERSON B-PERSON
 స్పష్టం O O
@@ -6107,7 +6107,7 @@
 జిడిపి O O
 వృద్ధిరేటు O O
 7.5 B-MISC B-MISC
-శాతాన్ని O O
+శాతాన్ని O I-MISC
 అధిగమించగలదని O O
 ఆర్థిక B-ORG O
 వ్యవహారాల I-ORG O
@@ -6196,7 +6196,7 @@
 
 వెంకటాపురం B-LOC B-LOC
 సమీపాన O O
-లంకగ్రామాలు B-LOC O
+లంకగ్రామాలు B-LOC B-LOC
 వరద O O
 ఉధృతిలో O O
 చిక్కుకు O O
@@ -6240,7 +6240,7 @@
 భారత B-LOC B-LOC
 ప్రభుత్వానికి O O
 ఒక B-MISC O
-రూపాయి I-MISC B-MISC
+రూపాయి I-MISC O
 డినామినేషన్‌ O O
 గల O O
 నోట్ల O O
@@ -6289,7 +6289,7 @@
 . O O
 
 ప్రపంచ O O
-నెం.1 B-MISC O
+నెం.1 B-MISC B-MISC
 సెరెనా B-PERSON B-PERSON
 ఒక్క B-MISC O
 సెట్‌ O O
@@ -6347,7 +6347,7 @@
 ప్రాణాలు O O
 కోల్పోయిన O O
 పొట్టి B-PERSON O
-శ్రీరాములు I-PERSON B-PERSON
+శ్రీరాములు I-PERSON O
 కృషి O O
 ఫలితంగా O O
 ప్రత్యేక O O
@@ -6421,7 +6421,7 @@
 వివరించలేదు O O
 . O O
 
-పెంటగాన్ B-LOC O
+పెంటగాన్ B-LOC B-LOC
 ఒక O O
 దేశం O O
 కోసం O O
@@ -6549,7 +6549,7 @@
 చంద్రన్న B-PERSON O
 చేయూత O O
 పాటల O O
-సిడిని O O
+సిడిని O B-ORG
 ఆయన O O
 ఆవిష్కరించారు O O
 . O O
@@ -6721,7 +6721,7 @@
 బ్రిటన్ B-LOC B-LOC
 2 B-MISC B-MISC
 నిమిషాల I-MISC I-MISC
-58.51 B-MISC I-MISC
+58.51 B-MISC B-MISC
 సెకన్లలో I-MISC I-MISC
 గమ్యాన్ని O O
 చేరింది O O
@@ -6830,7 +6830,7 @@
 వెల్లడించారు O O
 . O O
 
-బిహార్ B-LOC B-PERSON
+బిహార్ B-LOC B-LOC
 ను O O
 అవమానించడం O O
 ద్వారా O O
@@ -6916,8 +6916,8 @@
 
 నల్లధనానికి O O
 సంబంధించి O O
-హెచ్ఎస్ B-ORG O
-బిసి I-ORG B-ORG
+హెచ్ఎస్ B-ORG B-ORG
+బిసి I-ORG I-ORG
 జాబితా O O
 అనుకోకుండా O O
 లీక్ O O
@@ -6944,7 +6944,7 @@
 , O O
 ఈజిప్ట్ B-LOC B-LOC
 , O O
-ట్యునీసియా B-LOC O
+ట్యునీసియా B-LOC B-ORG
 వంటి O O
 దేశాలలో O O
 నియంతలకు O O
@@ -7010,8 +7010,8 @@
 వివరాలను O O
 కూడా O O
 అందిస్తున్నట్లు O O
-ఇవో B-PERSON O
-నరసింగరావు I-PERSON B-PERSON
+ఇవో B-PERSON B-PERSON
+నరసింగరావు I-PERSON I-PERSON
 తెలిపారు O O
 . O O
 
@@ -7056,7 +7056,7 @@
 . O O
 
 2013 B-MISC B-MISC
-ఆగస్టు B-MISC I-MISC
+ఆగస్టు B-MISC B-MISC
 నెలలో O O
 ఇదే O O
 మాదిరిగా O O
@@ -7244,7 +7244,7 @@
 . O O
 
 పిల్లకి O O
-సిరిలాక్ O O
+సిరిలాక్ O B-PERSON
 తినిపిస్తూ O O
 తీసి O O
 పక్కన O O
@@ -7276,10 +7276,10 @@
 తెరచింది O O
 . O O
 
-గూగుల్ B-ORG O
+గూగుల్ B-ORG B-ORG
 ఏటా O O
 13 B-MISC B-MISC
-18 B-MISC I-MISC
+18 B-MISC B-MISC
 ఏళ్ల I-MISC I-MISC
 వయసు O O
 లోపు O O
@@ -7300,7 +7300,7 @@
 సిఫార్సులు O O
 వచ్చే O O
 ఏడాది B-MISC B-MISC
-జనవరి B-MISC I-MISC
+జనవరి B-MISC B-MISC
 నుంచి O O
 అమలులోకి O O
 రావాలి O O
@@ -7326,8 +7326,8 @@
 ఫిబ్రవరి B-MISC B-MISC
 15 I-MISC I-MISC
 : O O
-ప్రభుత్వరంగ O O
-సంస్థ O B-ORG
+ప్రభుత్వరంగ O B-ORG
+సంస్థ O I-ORG
 నైవేలి B-ORG I-ORG
 లిగ్నైట్ I-ORG I-ORG
 కార్పొరేషన్ I-ORG I-ORG
@@ -7340,7 +7340,7 @@
 ఆర్థిక O O
 సంవత్సరం O O
 డిసెంబర్ B-MISC B-MISC
-31 I-MISC I-MISC
+31 I-MISC B-MISC
 తో O O
 అంతమైన O O
 మూడవ B-MISC B-MISC
@@ -7423,7 +7423,7 @@
 గూడూరు B-LOC B-LOC
 మండలం O O
 లోని O O
-గాజులగట్టు B-LOC B-LOC
+గాజులగట్టు B-LOC O
 లో O O
 సోమవారం B-MISC B-MISC
 ఉదయం O O
@@ -7561,8 +7561,8 @@
 రంగం O O
 ఈ O O
 ఏడాది B-MISC B-MISC
-ఏప్రిల్ B-MISC I-MISC
-జూన్‌ B-MISC I-MISC
+ఏప్రిల్ B-MISC B-MISC
+జూన్‌ B-MISC B-MISC
 త్రైమాసికంలో O O
 5.7 B-MISC B-MISC
 శాతం I-MISC I-MISC
@@ -7592,8 +7592,8 @@
 నుండి O O
 రాహుల్ B-PERSON B-PERSON
 అంటే O O
-లాలూ B-PERSON O
-ప్రసాద్ I-PERSON B-PERSON
+లాలూ B-PERSON B-PERSON
+ప్రసాద్ I-PERSON I-PERSON
 యాదవ్‌ I-PERSON I-PERSON
 కు O O
 మంట O O
@@ -7678,7 +7678,7 @@
 మంది O O
 ఒక్క O O
 లెస్ B-LOC O
-బోస్ I-LOC B-PERSON
+బోస్ I-LOC O
 ద్వీపకల్పాల్లోనే O O
 ఉన్నారని O O
 ఐరాస B-ORG B-ORG
@@ -7757,7 +7757,7 @@
 అణు O O
 ఇంధనం O O
 అన్నది O O
-పశ్చిమ O O
+పశ్చిమ O B-LOC
 దేశాల O O
 గుత్త O O
 సొత్తు O O
@@ -7771,7 +7771,7 @@
 వెంటనే O O
 , O O
 దాల్మియాను B-PERSON O
-ఐసియుకు O O
+ఐసియుకు O B-ORG
 తరిలించిన O O
 వైద్యులు O O
 పరీక్షలు O O
@@ -8011,7 +8011,7 @@
 రాజధాని O O
 నిర్మాణానికి O O
 సింగపూర్ B-LOC B-LOC
-మూడు B-MISC B-MISC
+మూడు B-MISC O
 మాస్టర్ O O
 ప్లాన్లు O O
 అందించిందని O O
@@ -8112,7 +8112,7 @@
 ఖమ్మం B-LOC B-LOC
 : O O
 కొద్ది O O
-రోజులుగా O B-MISC
+రోజులుగా O O
 కురుస్తున్న O O
 భారీ O O
 వర్షాలకు O O
@@ -8233,7 +8233,7 @@
 . O O
 
 సనేటా B-PERSON B-PERSON
-విజోయెన్ I-PERSON I-PERSON
+విజోయెన్ I-PERSON B-PERSON
 ( O O
 దక్షిణాఫ్రికా B-LOC B-LOC
 ) O O
@@ -8261,9 +8261,9 @@
 జనవరి B-MISC B-MISC
 18 I-MISC I-MISC
 : O O
-ఒంగోలును B-LOC B-MISC
-నగరపాలక B-ORG O
-సంస్థగా I-ORG O
+ఒంగోలును B-LOC B-ORG
+నగరపాలక B-ORG I-ORG
+సంస్థగా I-ORG I-ORG
 మారుస్తూ O O
 రాష్ట్ర O O
 ప్రభుత్వం O O
@@ -8319,8 +8319,8 @@
 పెన్షన్ల O O
 పథకంతో O O
 పాటు O O
-పంచాయతీరాజ్ B-ORG O
-శాఖలో I-ORG O
+పంచాయతీరాజ్ B-ORG B-ORG
+శాఖలో I-ORG I-ORG
 ఆయన O O
 ఎన్నో O O
 మార్పులు O O
@@ -8366,11 +8366,11 @@
 లేదు O O
 . O O
 
-సెనెసక్స్ O B-PERSON
+సెనెసక్స్ O I-PERSON
 974 B-MISC B-MISC
 పాయింట్లు O O
 , O O
-నిఫ్టీ B-ORG O
+నిఫ్టీ B-ORG B-ORG
 298 B-MISC B-MISC
 పాయింట్లు O O
 క్షీణించాయి O O
@@ -8422,7 +8422,7 @@
 లో O O
 ఐక్యరాజ్య B-ORG B-ORG
 సమితి I-ORG I-ORG
-జనరల్ O I-ORG
+జనరల్ O O
 అసెంబ్లీ O O
 సమావేశాల O O
 సందర్భంగా O O
@@ -8548,7 +8548,7 @@
 భారత B-LOC O
 ఈక్విటీ O O
 , O O
-డెట్‌ O O
+డెట్‌ O B-ORG
 మార్కెట్లలోకి O O
 ప్రవహించాయి O O
 . O O
@@ -8739,8 +8739,8 @@
 భారత్ B-LOC B-LOC
 సంతతికి O O
 చెందిన O O
-అన్ B-PERSON B-PERSON
-మోల్ I-PERSON I-PERSON
+అన్ B-PERSON O
+మోల్ I-PERSON O
 రాక్రెల్ I-PERSON I-PERSON
 అనే O O
 16 B-MISC B-MISC
@@ -8758,9 +8758,9 @@
 . O O
 
 స్లోవేకియా B-LOC B-LOC
-హంగేరీ B-LOC I-LOC
+హంగేరీ B-LOC B-LOC
 సరిహద్దులోని O O
-జనవాసాలకు O O
+జనవాసాలకు O B-LOC
 దూరంగా O O
 పోలీసులు O O
 ఓ O O
@@ -8793,7 +8793,7 @@
 
 కొంత O O
 కాలంగా O O
-పద్దెనిమిది B-MISC B-MISC
+పద్దెనిమిది B-MISC O
 కోసం O O
 పాట్లు O O
 పడుతున్న O O
@@ -8819,14 +8819,14 @@
 బిజెపి B-ORG B-ORG
 ఆశిస్తోంది O O
 ఈసారి O O
-ఎన్ B-ORG B-PERSON
-డిఏ I-ORG O
+ఎన్ B-ORG B-ORG
+డిఏ I-ORG I-ORG
 కూటమిలోకి O O
 మాంఝీ B-PERSON B-PERSON
 నాయకత్వంలోని O O
 హిందూస్తానీ O B-PERSON
 అవామ్ O I-PERSON
-మోర్చా O I-PERSON
+మోర్చా O O
 చేరింది O O
 . O O
 
@@ -8843,14 +8843,14 @@
 . O O
 
 సర్దార్ B-LOC B-PERSON
-షహర్ I-LOC B-LOC
+షహర్ I-LOC I-PERSON
 నుంచి O O
 బికనీర్ B-LOC B-LOC
 వెళ్తున్న O O
 ఒక B-MISC O
 బస్సు O O
 శ్రీదుంగార్ B-LOC B-LOC
-గఢ్ I-LOC I-LOC
+గఢ్ I-LOC B-LOC
 ఏరియాలోని O O
 టోలీయాసర్ B-LOC B-LOC
 గ్రామం O O
@@ -8932,7 +8932,7 @@
 
 రాజధాని O O
 అవసరాలకు O O
-వెంకయ్య B-PERSON O
+వెంకయ్య B-PERSON B-PERSON
 ముందుగానే O O
 స్పందించారని O O
 , O O
@@ -9033,7 +9033,7 @@
 అడగడంతో O O
 వచ్చే O O
 ఏడాది B-MISC B-MISC
-మార్చి B-MISC I-MISC
+మార్చి B-MISC B-MISC
 నాటికి O O
 పూర్తిస్థాయిలో O O
 24 B-MISC B-MISC
@@ -9054,7 +9054,7 @@
 సత్యనారాయణ I-PERSON I-PERSON
 , O O
 వేముల B-PERSON B-PERSON
-వీరేశం I-PERSON O
+వీరేశం I-PERSON I-PERSON
 తదితరులు O O
 పాల్గొన్నారు O O
 . O O
@@ -9131,7 +9131,7 @@
 న్యూఢిల్లీ B-LOC B-LOC
 : O O
 ఢిల్లీ B-LOC B-LOC
-ముంబయి B-LOC O
+ముంబయి B-LOC I-ORG
 పారిశ్రామిక O O
 కారిడార్ O O
 ను O O
@@ -9140,7 +9140,7 @@
 తీర్చిదిద్దుతామని O O
 కేంద్ర B-ORG B-ORG
 పునర్వినియోగ I-ORG I-ORG
-ఇంధన I-ORG I-ORG
+ఇంధన I-ORG B-ORG
 శాఖ I-ORG I-ORG
 మంత్రి O O
 ఫరూక్ B-PERSON B-PERSON
@@ -9175,7 +9175,7 @@
 
 ఒకవేళ O O
 ఆ O O
-ఇద్దరిలో B-MISC O
+ఇద్దరిలో B-MISC B-MISC
 ఏ O O
 ఒక్కరు B-MISC O
 దాచేసి O O
@@ -9210,7 +9210,7 @@
 
 విజయనగరంలో B-LOC B-LOC
 గిరిజన B-ORG O
-యూనివర్సిటీకి I-ORG B-ORG
+యూనివర్సిటీకి I-ORG O
 , O O
 అనంతపురంలో B-LOC B-LOC
 సెంట్రల్‌ B-ORG B-ORG
@@ -9288,7 +9288,7 @@
 మంత్రి O O
 ఆష్టన్ B-PERSON B-PERSON
 కార్టర్ I-PERSON I-PERSON
-పెంటగాన్ B-LOC I-PERSON
+పెంటగాన్ B-LOC O
 నాయకత్వ O O
 బాధ్యతలు O O
 చేపట్టిన O O
@@ -9312,12 +9312,12 @@
 కార్యాలయంలో O O
 స్వాధీనాలకు O O
 సంబంధించిన O O
-అంతర్జాతీయ O O
-సహకార O O
+అంతర్జాతీయ O B-ORG
+సహకార O I-ORG
 కార్యాలయం O O
 డైరెక్టర్ O O
 కీత్ B-PERSON B-PERSON
-వెబ్‌ I-PERSON O
+వెబ్‌ I-PERSON I-PERSON
 స్టర్ I-PERSON O
 నాయకత్వం O O
 వహిస్తున్నారు O O
@@ -9363,11 +9363,11 @@
 పుస్తకంలో O O
 20 B-MISC B-MISC
 వ I-MISC O
-శతాబ్ది I-MISC B-MISC
+శతాబ్ది I-MISC I-MISC
 మజిలీ O O
 అంతా O O
-వాల్ B-ORG O
-స్ట్రీట్ I-ORG O
+వాల్ B-ORG B-ORG
+స్ట్రీట్ I-ORG I-ORG
 వైభవమే O O
 అని O O
 పేర్కొన్నారు O O
@@ -9389,7 +9389,7 @@
 సూచీ O O
 సెనెసక్స్ O O
 లోని O O
-టాప్ O O
+టాప్ O B-ORG
 10 B-MISC B-MISC
 సంస్థల O O
 మార్కెట్ O O
@@ -9444,8 +9444,8 @@
 మూడు B-MISC B-MISC
 నెలలు I-MISC I-MISC
 ఉండి O O
-టాటా O O
-బైబై O O
+టాటా O B-ORG
+బైబై O I-ORG
 చెప్పిన O O
 ఆయన O O
 మరో O O
@@ -9512,11 +9512,11 @@
 
 మొనాకో O O
 రన్నర్ O O
-అబ్దాలా B-PERSON B-PERSON
-టిగైడర్ I-PERSON I-PERSON
+అబ్దాలా B-PERSON O
+టిగైడర్ I-PERSON B-PERSON
 3 B-MISC B-MISC
 నిమిషాల I-MISC I-MISC
-34.67 B-MISC I-MISC
+34.67 B-MISC B-MISC
 సెకన్లతో I-MISC I-MISC
 కాంస్య O O
 పతకాన్ని O O
@@ -9582,8 +9582,8 @@
 పేస్ I-PERSON I-PERSON
 , O O
 అతని O O
-భాగస్వామి O B-PERSON
-మార్టినా B-PERSON I-PERSON
+భాగస్వామి O O
+మార్టినా B-PERSON B-PERSON
 హింగిస్ I-PERSON I-PERSON
 ( O O
 స్విట్జర్లాండ్ B-LOC B-LOC
@@ -9592,7 +9592,7 @@
 క్వార్టర్ O O
 ఫైనల్ O O
 లో O O
-రొమేనియాకు B-LOC B-PERSON
+రొమేనియాకు B-LOC B-LOC
 చెందిన O O
 సిమోనా B-PERSON B-PERSON
 హాలెప్ I-PERSON I-PERSON
@@ -9714,7 +9714,7 @@
 కాగా O O
 , O O
 2013 B-MISC B-MISC
-14 B-MISC I-MISC
+14 B-MISC B-MISC
 ఆర్థిక O O
 సంవత్సరంలో O O
 ఎఫ్ B-ORG B-ORG
@@ -9811,7 +9811,7 @@
 ఉపక్రమిస్తున్నది O O
 . O O
 
-సూర్యరశ్మిలోని O O
+సూర్యరశ్మిలోని O B-LOC
 అతినీల O O
 లోహిత O O
 కిరణాలను O O
@@ -9853,8 +9853,8 @@
 , O O
 ఇంటెలిజెన్స్ O O
 , O O
-క్లీన్ O O
-ఎనర్జీ O O
+క్లీన్ O B-ORG
+ఎనర్జీ O I-ORG
 వంటి O O
 కీలక O O
 రంగాలలో O O
@@ -10077,7 +10077,7 @@
 ఇప్పటికే O O
 నిష్క్రమించగా O O
 జయరాం B-PERSON B-PERSON
-జైత్రయాత్రను O I-PERSON
+జైత్రయాత్రను O O
 కొనసాగిస్తున్నాడు O O
 . O O
 
@@ -10185,7 +10185,7 @@
 ప్రతినిధి O O
 జాన్ B-PERSON B-PERSON
 కిర్బీ I-PERSON I-PERSON
-విలేఖర్ల O O
+విలేఖర్ల O I-PERSON
 సమావేశంలో O O
 తెలిపారు O O
 . O O
@@ -10227,7 +10227,7 @@
 
 పోలవరం B-LOC B-LOC
 కాల్వకు O O
-ఏడెకరాల B-MISC O
+ఏడెకరాల B-MISC B-LOC
 భూమిని O O
 ఇచ్చిన O O
 తెలుగురైతు O O
@@ -10235,12 +10235,12 @@
 జిల్లా O O
 నేత O O
 ఆళ్ల B-PERSON B-PERSON
-గోపాలకృష్ణచే I-PERSON O
+గోపాలకృష్ణచే I-PERSON I-PERSON
 మాట్లాడించారు O O
 . O O
 
 ఇప్పటికే O O
-వ్యవసాయశాఖ B-ORG O
+వ్యవసాయశాఖ B-ORG B-LOC
 రాష్ట్రంలో O O
 క్రాప్ O O
 కాలనీలుగా O O
@@ -10336,7 +10336,7 @@
 అతను O O
 3 B-MISC B-MISC
 నిమిషాల I-MISC I-MISC
-34.4 B-MISC I-MISC
+34.4 B-MISC B-MISC
 సెకన్లలో I-MISC I-MISC
 లక్ష్యాన్ని O O
 చేరాడు O O
@@ -10348,7 +10348,7 @@
 వ్యక్తిత్వం O O
 కనుకనే O O
 , O O
-కాళోజీని B-PERSON O
+కాళోజీని B-PERSON B-PERSON
 ఫ్రెంచి B-LOC O
 కవి O O
 , O O
@@ -10366,7 +10366,7 @@
 విడుదల O O
 చేసే O O
 ఏప్రిల్ B-MISC B-MISC
-జూన్ B-MISC I-MISC
+జూన్ B-MISC B-MISC
 త్రైమాసిక O O
 జిడిపి O O
 వృద్ధిరేటు O O
@@ -10375,10 +10375,10 @@
 మంగళవారం B-MISC B-MISC
 వెల్లడయ్యే O O
 నికీ O O
-ఇండియా B-LOC O
-తయారీ O O
-పిఎమ్ O O
-ఐ O O
+ఇండియా B-LOC B-ORG
+తయారీ O I-ORG
+పిఎమ్ O I-ORG
+ఐ O I-ORG
 మార్కెట్ O O
 తీరును O O
 ప్రభావితం O O
@@ -10390,7 +10390,7 @@
 : O O
 మాఫియా O O
 డాన్ O O
-దావూద్ B-PERSON B-PERSON
+దావూద్ B-PERSON I-PERSON
 పాక్ B-LOC B-LOC
 లోనే O O
 ఉన్నాడని O O
