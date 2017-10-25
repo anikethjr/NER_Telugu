@@ -64,7 +64,7 @@ class Config():
 
 
     # general config
-    dir_output = "../data/LSTM-CRF/checkpoints/0/"
+    dir_output = "../data/LSTM-CRF/checkpoints/9/"
     dir_model  = dir_output + "model.weights/"
     path_log   = dir_output + "log.txt"
 
@@ -78,22 +78,22 @@ class Config():
     filename_trimmed = "../data/vectors/wiki.te.vec.trimmed.npz"
     use_pretrained = True
 
-    # dataset
-    filename_dev = "../data/Gold_Data_Telugu/test_sentences_0_IOB.txt"
-    filename_test = "../data/Gold_Data_Telugu/test_sentences_0_IOB.txt"
-    filename_train = "../data/Gold_Data_Telugu/train_sentences_0_IOB.txt"
+    # dataset7
+    filename_dev = "../data/Gold_Data_Telugu/test_sentences_9_IOB.txt"
+    filename_test = "../data/Gold_Data_Telugu/test_sentences_9_IOB.txt"
+    filename_train = "../data/Gold_Data_Telugu/train_sentences_9_IOB.txt"
 
     max_iter = None # if not None, max number of examples in Dataset
 
     # vocab (created from dataset with build_data.py)
-    dir_vocab = "../data/LSTM-CRF/vocab/0/"
+    dir_vocab = "../data/LSTM-CRF/vocab/9/"
     filename_words = dir_vocab +  "words.txt"
     filename_tags = dir_vocab +  "tags.txt"
     filename_chars = dir_vocab +  "chars.txt"
 
     # predictions
     dir_predictions = "../data/LSTM-CRF/predictions/"
-    filename_predictions = dir_predictions + "predictions_0.txt"
+    filename_predictions = dir_predictions + "predictions_9.txt"
 
     # training
     train_embeddings = False

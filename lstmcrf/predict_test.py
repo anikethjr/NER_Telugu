@@ -2,7 +2,7 @@ from model.ner_model import NERModel
 from model.config import Config
 
 def predict_test_sansIOB(model):
-    test_file = open(config.filename_test,"r")
+    test_file = open(config.filename_test[:-4] + "_IOB.txt","r")
     out_file = open(config.filename_predictions,"w+")    
     sentence = []
     orig_tags = []
@@ -45,6 +45,7 @@ def predict_test(model):
             pred_tags = model.predict(sentence) 
             for word,tag,otag in zip(sentence,pred_tags,orig_tags):
                 out_file.write(word + " " + otag + " " + tag + "\n")
+            out_file.write("\n")
             sentence = []
             orig_tags = []
         else:
