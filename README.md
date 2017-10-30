@@ -1,4 +1,4 @@
-# LSTM-CRF for Named Entity Recognition in Telugu Texts
+# Named Entity Recognition for Telugu using LSTM-CRF
 
 The code for the paper titled "Named Entity Recognition for Telugu using LSTM-CRF".
 
