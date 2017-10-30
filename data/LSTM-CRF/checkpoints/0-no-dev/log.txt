@@ -1,0 +1,64 @@
+2017-10-27 15:15:08,238:INFO: Initializing tf session
+2017-10-27 15:15:09,040:INFO: Reloading the latest trained model...
+2017-10-27 15:15:09,040:INFO: Restoring parameters from ../data/LSTM-CRF/checkpoints/0-no-dev/model.weights/
+2017-10-27 15:19:08,058:INFO: Initializing tf session
+2017-10-27 15:19:17,917:INFO: Epoch 1 out of 20
+2017-10-27 15:21:10,625:INFO: acc 92.44 - f1 63.29
+2017-10-27 15:21:13,392:INFO: - new best score!
+2017-10-27 15:21:13,393:INFO: Epoch 2 out of 20
+2017-10-27 15:23:10,252:INFO: acc 94.87 - f1 76.61
+2017-10-27 15:23:10,607:INFO: - new best score!
+2017-10-27 15:23:10,607:INFO: Epoch 3 out of 20
+2017-10-27 15:25:03,854:INFO: acc 95.90 - f1 82.11
+2017-10-27 15:25:04,702:INFO: - new best score!
+2017-10-27 15:25:04,703:INFO: Epoch 4 out of 20
+2017-10-27 15:26:53,450:INFO: acc 96.37 - f1 84.43
+2017-10-27 15:26:53,736:INFO: - new best score!
+2017-10-27 15:26:53,737:INFO: Epoch 5 out of 20
+2017-10-27 15:28:40,942:INFO: acc 96.87 - f1 86.01
+2017-10-27 15:28:41,708:INFO: - new best score!
+2017-10-27 15:28:41,708:INFO: Epoch 6 out of 20
+2017-10-27 15:30:28,863:INFO: acc 97.30 - f1 87.96
+2017-10-27 15:30:29,149:INFO: - new best score!
+2017-10-27 15:30:29,149:INFO: Epoch 7 out of 20
+2017-10-27 15:32:18,154:INFO: acc 97.61 - f1 89.32
+2017-10-27 15:32:18,518:INFO: - new best score!
+2017-10-27 15:32:18,519:INFO: Epoch 8 out of 20
+2017-10-27 15:34:05,664:INFO: acc 97.89 - f1 90.57
+2017-10-27 15:34:05,952:INFO: - new best score!
+2017-10-27 15:34:05,952:INFO: Epoch 9 out of 20
+2017-10-27 15:35:53,730:INFO: acc 98.13 - f1 91.57
+2017-10-27 15:35:54,025:INFO: - new best score!
+2017-10-27 15:35:54,025:INFO: Epoch 10 out of 20
+2017-10-27 15:37:42,955:INFO: acc 98.37 - f1 92.60
+2017-10-27 15:37:43,321:INFO: - new best score!
+2017-10-27 15:37:43,321:INFO: Epoch 11 out of 20
+2017-10-27 15:39:30,717:INFO: acc 98.45 - f1 92.89
+2017-10-27 15:39:30,998:INFO: - new best score!
+2017-10-27 15:39:30,999:INFO: Epoch 12 out of 20
+2017-10-27 15:41:18,336:INFO: acc 98.60 - f1 93.55
+2017-10-27 15:41:18,618:INFO: - new best score!
+2017-10-27 15:41:18,618:INFO: Epoch 13 out of 20
+2017-10-27 15:43:05,941:INFO: acc 98.78 - f1 94.57
+2017-10-27 15:43:06,304:INFO: - new best score!
+2017-10-27 15:43:06,304:INFO: Epoch 14 out of 20
+2017-10-27 15:44:53,820:INFO: acc 98.97 - f1 95.36
+2017-10-27 15:44:54,099:INFO: - new best score!
+2017-10-27 15:44:54,099:INFO: Epoch 15 out of 20
+2017-10-27 15:46:41,458:INFO: acc 98.97 - f1 95.32
+2017-10-27 15:46:41,458:INFO: Epoch 16 out of 20
+2017-10-27 15:48:28,906:INFO: acc 99.04 - f1 95.63
+2017-10-27 15:48:29,187:INFO: - new best score!
+2017-10-27 15:48:29,187:INFO: Epoch 17 out of 20
+2017-10-27 15:50:16,631:INFO: acc 99.24 - f1 96.44
+2017-10-27 15:50:16,908:INFO: - new best score!
+2017-10-27 15:50:16,908:INFO: Epoch 18 out of 20
+2017-10-27 15:52:04,328:INFO: acc 99.17 - f1 96.10
+2017-10-27 15:52:04,328:INFO: Epoch 19 out of 20
+2017-10-27 15:53:51,618:INFO: acc 99.31 - f1 96.78
+2017-10-27 15:53:51,972:INFO: - new best score!
+2017-10-27 15:53:51,972:INFO: Epoch 20 out of 20
+2017-10-27 15:55:39,350:INFO: acc 99.31 - f1 96.73
+2017-10-27 16:46:08,451:INFO: Initializing tf session
+2017-10-27 16:46:09,253:INFO: Reloading the latest trained model...
+2017-10-27 16:46:09,253:INFO: Restoring parameters from ../data/LSTM-CRF/checkpoints/0-no-dev/model.weights/

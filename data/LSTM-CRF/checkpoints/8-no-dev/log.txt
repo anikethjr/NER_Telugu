@@ -1,0 +1,128 @@
+2017-10-27 13:53:24,284:INFO: Initializing tf session
+2017-10-27 13:53:25,532:INFO: Epoch 1 out of 20
+2017-10-27 13:55:11,084:INFO: acc 85.14 - f1 25.92
+2017-10-27 13:55:11,365:INFO: - new best score!
+2017-10-27 13:55:11,365:INFO: Epoch 2 out of 20
+2017-10-27 13:56:56,346:INFO: acc 87.99 - f1 46.75
+2017-10-27 13:56:56,624:INFO: - new best score!
+2017-10-27 13:56:56,625:INFO: Epoch 3 out of 20
+2017-10-27 13:58:44,461:INFO: acc 89.47 - f1 55.49
+2017-10-27 13:58:44,826:INFO: - new best score!
+2017-10-27 13:58:44,826:INFO: Epoch 4 out of 20
+2017-10-27 14:00:30,239:INFO: acc 90.94 - f1 61.68
+2017-10-27 14:00:30,523:INFO: - new best score!
+2017-10-27 14:00:30,523:INFO: Epoch 5 out of 20
+2017-10-27 14:02:26,823:INFO: acc 91.77 - f1 65.44
+2017-10-27 14:02:27,167:INFO: - new best score!
+2017-10-27 14:02:27,167:INFO: Epoch 6 out of 20
+2017-10-27 14:04:11,634:INFO: acc 92.83 - f1 70.05
+2017-10-27 14:04:12,016:INFO: - new best score!
+2017-10-27 14:04:12,016:INFO: Epoch 7 out of 20
+2017-10-27 14:06:02,273:INFO: acc 94.00 - f1 75.27
+2017-10-27 14:06:03,097:INFO: - new best score!
+2017-10-27 14:06:03,097:INFO: Epoch 8 out of 20
+2017-10-27 14:07:52,925:INFO: acc 94.79 - f1 78.33
+2017-10-27 14:07:53,274:INFO: - new best score!
+2017-10-27 14:07:53,275:INFO: Epoch 9 out of 20
+2017-10-27 14:09:45,320:INFO: acc 95.62 - f1 81.46
+2017-10-27 14:09:45,625:INFO: - new best score!
+2017-10-27 14:09:45,625:INFO: Epoch 10 out of 20
+2017-10-27 14:11:36,729:INFO: acc 95.94 - f1 82.39
+2017-10-27 14:11:37,093:INFO: - new best score!
+2017-10-27 14:11:37,094:INFO: Epoch 11 out of 20
+2017-10-27 14:13:27,498:INFO: acc 96.69 - f1 85.64
+2017-10-27 14:13:27,825:INFO: - new best score!
+2017-10-27 14:13:27,825:INFO: Epoch 12 out of 20
+2017-10-27 14:15:22,612:INFO: acc 97.12 - f1 87.39
+2017-10-27 14:15:22,922:INFO: - new best score!
+2017-10-27 14:15:22,922:INFO: Epoch 13 out of 20
+2017-10-27 14:17:14,786:INFO: acc 97.44 - f1 88.80
+2017-10-27 14:17:15,155:INFO: - new best score!
+2017-10-27 14:17:15,155:INFO: Epoch 14 out of 20
+2017-10-27 14:19:09,526:INFO: acc 97.56 - f1 89.44
+2017-10-27 14:19:09,846:INFO: - new best score!
+2017-10-27 14:19:09,847:INFO: Epoch 15 out of 20
+2017-10-27 14:21:02,948:INFO: acc 97.84 - f1 90.57
+2017-10-27 14:21:03,240:INFO: - new best score!
+2017-10-27 14:21:03,240:INFO: Epoch 16 out of 20
+2017-10-27 14:23:00,769:INFO: acc 97.93 - f1 91.04
+2017-10-27 14:23:01,207:INFO: - new best score!
+2017-10-27 14:23:01,208:INFO: Epoch 17 out of 20
+2017-10-27 14:24:55,299:INFO: acc 98.37 - f1 92.67
+2017-10-27 14:24:55,615:INFO: - new best score!
+2017-10-27 14:24:55,616:INFO: Epoch 18 out of 20
+2017-10-27 14:26:47,192:INFO: acc 98.47 - f1 93.16
+2017-10-27 14:26:47,547:INFO: - new best score!
+2017-10-27 14:26:47,547:INFO: Epoch 19 out of 20
+2017-10-27 14:28:40,521:INFO: acc 98.60 - f1 93.72
+2017-10-27 14:28:40,811:INFO: - new best score!
+2017-10-27 14:28:40,811:INFO: Epoch 20 out of 20
+2017-10-27 14:30:29,162:INFO: acc 98.69 - f1 94.18
+2017-10-27 14:30:29,522:INFO: - new best score!
+2017-10-27 15:09:25,508:INFO: Initializing tf session
+2017-10-27 15:09:26,285:INFO: Reloading the latest trained model...
+2017-10-27 15:09:26,285:INFO: Restoring parameters from ../data/LSTM-CRF/checkpoints/8-no-dev/model.weights/
+2017-10-27 18:30:13,488:INFO: Initializing tf session
+2017-10-27 18:30:14,756:INFO: Epoch 1 out of 20
+2017-10-27 18:32:05,177:INFO: acc 91.81 - f1 62.85
+2017-10-27 18:32:05,654:INFO: - new best score!
+2017-10-27 18:32:05,654:INFO: Epoch 2 out of 20
+2017-10-27 18:33:58,832:INFO: acc 94.26 - f1 74.99
+2017-10-27 18:33:59,543:INFO: - new best score!
+2017-10-27 18:33:59,544:INFO: Epoch 3 out of 20
+2017-10-27 18:35:46,009:INFO: acc 95.44 - f1 79.73
+2017-10-27 18:35:46,392:INFO: - new best score!
+2017-10-27 18:35:46,392:INFO: Epoch 4 out of 20
+2017-10-27 18:37:33,343:INFO: acc 95.68 - f1 81.07
+2017-10-27 18:37:33,648:INFO: - new best score!
+2017-10-27 18:37:33,648:INFO: Epoch 5 out of 20
+2017-10-27 18:39:21,238:INFO: acc 96.04 - f1 82.72
+2017-10-27 18:39:21,528:INFO: - new best score!
+2017-10-27 18:39:21,528:INFO: Epoch 6 out of 20
+2017-10-27 18:41:08,874:INFO: acc 96.68 - f1 85.58
+2017-10-27 18:41:09,248:INFO: - new best score!
+2017-10-27 18:41:09,248:INFO: Epoch 7 out of 20
+2017-10-27 18:42:56,107:INFO: acc 96.94 - f1 86.67
+2017-10-27 18:42:56,426:INFO: - new best score!
+2017-10-27 18:42:56,427:INFO: Epoch 8 out of 20
+2017-10-27 18:44:44,717:INFO: acc 97.49 - f1 88.73
+2017-10-27 18:44:45,036:INFO: - new best score!
+2017-10-27 18:44:45,036:INFO: Epoch 9 out of 20
+2017-10-27 18:46:31,173:INFO: acc 97.69 - f1 89.92
+2017-10-27 18:46:31,463:INFO: - new best score!
+2017-10-27 18:46:31,464:INFO: Epoch 10 out of 20
+2017-10-27 18:48:19,015:INFO: acc 97.97 - f1 91.06
+2017-10-27 18:48:19,412:INFO: - new best score!
+2017-10-27 18:48:19,412:INFO: Epoch 11 out of 20
+2017-10-27 18:50:09,732:INFO: acc 98.44 - f1 92.66
+2017-10-27 18:50:10,030:INFO: - new best score!
+2017-10-27 18:50:10,030:INFO: Epoch 12 out of 20
+2017-10-27 18:52:00,723:INFO: acc 98.50 - f1 93.29
+2017-10-27 18:52:01,295:INFO: - new best score!
+2017-10-27 18:52:01,295:INFO: Epoch 13 out of 20
+2017-10-27 18:53:47,107:INFO: acc 98.74 - f1 94.18
+2017-10-27 18:53:47,476:INFO: - new best score!
+2017-10-27 18:53:47,476:INFO: Epoch 14 out of 20
+2017-10-27 18:55:33,929:INFO: acc 98.92 - f1 94.77
+2017-10-27 18:55:34,255:INFO: - new best score!
+2017-10-27 18:55:34,255:INFO: Epoch 15 out of 20
+2017-10-27 18:57:21,592:INFO: acc 98.97 - f1 95.15
+2017-10-27 18:57:21,888:INFO: - new best score!
+2017-10-27 18:57:21,888:INFO: Epoch 16 out of 20
+2017-10-27 18:59:12,028:INFO: acc 99.04 - f1 95.38
+2017-10-27 18:59:12,903:INFO: - new best score!
+2017-10-27 18:59:12,903:INFO: Epoch 17 out of 20
+2017-10-27 19:00:58,706:INFO: acc 99.12 - f1 95.79
+2017-10-27 19:00:59,081:INFO: - new best score!
+2017-10-27 19:00:59,082:INFO: Epoch 18 out of 20
+2017-10-27 19:02:51,328:INFO: acc 99.19 - f1 96.17
+2017-10-27 19:02:51,622:INFO: - new best score!
+2017-10-27 19:02:51,623:INFO: Epoch 19 out of 20
+2017-10-27 19:04:40,758:INFO: acc 99.20 - f1 96.25
+2017-10-27 19:04:41,061:INFO: - new best score!
+2017-10-27 19:04:41,061:INFO: Epoch 20 out of 20
+2017-10-27 19:06:31,950:INFO: acc 99.27 - f1 96.58
+2017-10-27 19:06:32,388:INFO: - new best score!
+2017-10-27 19:36:47,160:INFO: Initializing tf session
+2017-10-27 19:36:47,959:INFO: Reloading the latest trained model...
+2017-10-27 19:36:47,960:INFO: Restoring parameters from ../data/LSTM-CRF/checkpoints/8-no-dev/model.weights/
