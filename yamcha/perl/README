@@ -1,0 +1,8 @@
+YamCha perl module
+
+% perl Makefile.PL
+% make
+% su
+# make install
+
+See test.pl as an example

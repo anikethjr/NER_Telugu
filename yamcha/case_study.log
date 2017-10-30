@@ -1,0 +1,58 @@
+3 labeled  classes are found
+          B : 475
+          I : 578
+          O : 840
+
+
+Learning B vs I 0 (/usr/local/bin/svm_learn -t 1 -d 2 -c 1 case_study.svmdata.23254 case_study.svmmodel.23254)
+TinySVM - tiny SVM package
+Copyright (C) 2000-2002 Taku Kudo, All rights reserved.
+
+  1053 examples, cache size: 1550
+....................   1000   1053  1550 0.0028  70.0%  70.0%
+....
+Checking optimality of inactive variables  re-activated: 0
+
+Done! 1233 iterations
+
+Number of SVs (BSVs)		600 (0)
+Empirical Risk:			0 (0/1053)
+L1 Loss:			0
+Object value:			-0.47344
+CPU Time:			00:00:00
+
+
+Learning B vs O 0 (/usr/local/bin/svm_learn -t 1 -d 2 -c 1 case_study.svmdata.23254 case_study.svmmodel.23254)
+TinySVM - tiny SVM package
+Copyright (C) 2000-2002 Taku Kudo, All rights reserved.
+
+  1315 examples, cache size: 1713
+....................   1000   1315  1713 0.0161  62.4%  62.4%
+..............
+Checking optimality of inactive variables  re-activated: 0
+
+Done! 1735 iterations
+
+Number of SVs (BSVs)		768 (0)
+Empirical Risk:			0 (0/1315)
+L1 Loss:			0
+Object value:			-1.27504
+CPU Time:			00:00:00
+
+
+Learning I vs O 0 (/usr/local/bin/svm_learn -t 1 -d 2 -c 1 case_study.svmdata.23254 case_study.svmmodel.23254)
+TinySVM - tiny SVM package
+Copyright (C) 2000-2002 Taku Kudo, All rights reserved.
+
+  1418 examples, cache size: 1787
+....................   1000   1418  1787 0.0102  64.2%  64.2%
+...........
+Checking optimality of inactive variables  re-activated: 0
+
+Done! 1595 iterations
+
+Number of SVs (BSVs)		725 (0)
+Empirical Risk:			0 (0/1418)
+L1 Loss:			0
+Object value:			-0.926588
+CPU Time:			00:00:00

@@ -1,0 +1,36 @@
+CC   = bcc32
+CXXC = bcc32 -P
+CFLAGS = -w- -O2 -WC
+DEFS = -DDLL_EXPORT -DHAVE_WINDOWS_H -DVERSION="\"@VERSION@\"" -DMODEL_VERSION=@MODEL_VERSION@ -DPACKAGE="\"yamcha\""
+INC = -I. -I..
+DEL = del
+
+OBJ = chunker.obj  feature_index.obj  param.obj  svm.obj
+
+.cpp.obj:
+	$(CXXC) $(CFLAGS) $(INC) $(DEFS) -c $<
+	              
+.c.obj:
+	$(CC) $(CFLAGS) $(INC) $(DEFS) -c  $<
+			      
+all: libyamcha yamcha mkdarts mktrie pkemine
+
+libyamcha: $(OBJ) libyamcha.obj
+        $(CXXC) -WD -e$@.dll $(OBJ) libyamcha.obj
+        implib -a $@.lib $@.dll
+        impdef $@ $@
+
+yamcha: $(OBJ) yamcha.obj
+	$(CXXC) $(LDFLAGS) -e$@.exe yamcha.obj libyamcha.lib
+	
+mkdarts:	
+	$(CXXC) $(CFLAGS) $(LDFLAGS) -I. -e..\libexec\$@.exe ..\libexec\mkdarts.cpp
+
+mktrie:	
+	$(CXXC) $(CFLAGS) $(LDFLAGS) -I. -e..\libexec\$@.exe ..\libexec\mktrie.cpp
+
+pkemine:	
+	$(CXXC) $(CFLAGS) $(LDFLAGS) -I. -e..\libexec\$@.exe ..\libexec\pkemine.cpp
+	
+clean:
+	$(DEL) *.exe *.obj *.dll *.a *.lib *.o *.exp *.def

@@ -1,0 +1,61 @@
+3 labeled  classes are found
+          B : 475
+          I : 578
+          O : 840
+
+
+Learning B vs ___OTHER___ 0 (/usr/local/bin/svm_learn -t 1 -d 2 -c 1 tmp.svmdata.22677 tmp.svmmodel.22677)
+TinySVM - tiny SVM package
+Copyright (C) 2000-2002 Taku Kudo, All rights reserved.
+
+  1893 examples, cache size: 2169
+....................   1000   1893  2169 0.0321  55.3%  55.3%
+....................   2000   1893  2169 0.0021  97.2%  76.2%
+....
+Checking optimality of inactive variables  re-activated: 0
+
+Done! 2213 iterations
+
+Number of SVs (BSVs)		951 (0)
+Empirical Risk:			0 (0/1893)
+L1 Loss:			0
+Object value:			-1.62988
+CPU Time:			00:00:00
+
+
+Learning I vs ___OTHER___ 0 (/usr/local/bin/svm_learn -t 1 -d 2 -c 1 tmp.svmdata.22677 tmp.svmmodel.22677)
+TinySVM - tiny SVM package
+Copyright (C) 2000-2002 Taku Kudo, All rights reserved.
+
+  1893 examples, cache size: 2169
+....................   1000   1893  2169 0.0344  54.5%  54.5%
+....................   2000   1893  2169 0.0020  97.0%  75.7%
+.....
+Checking optimality of inactive variables  re-activated: 0
+
+Done! 2270 iterations
+
+Number of SVs (BSVs)		970 (0)
+Empirical Risk:			0 (0/1893)
+L1 Loss:			0
+Object value:			-1.5963
+CPU Time:			00:00:00
+
+
+Learning O vs ___OTHER___ 0 (/usr/local/bin/svm_learn -t 1 -d 2 -c 1 tmp.svmdata.22677 tmp.svmmodel.22677)
+TinySVM - tiny SVM package
+Copyright (C) 2000-2002 Taku Kudo, All rights reserved.
+
+  1893 examples, cache size: 2169
+....................   1000   1893  2169 0.0272  54.6%  54.6%
+....................   2000   1893  2169 0.0016  96.5%  75.5%
+...
+Checking optimality of inactive variables  re-activated: 0
+
+Done! 2175 iterations
+
+Number of SVs (BSVs)		976 (0)
+Empirical Risk:			0 (0/1893)
+L1 Loss:			0
+Object value:			-1.02638
+CPU Time:			00:00:00

@@ -1,0 +1,10704 @@
+<Support Example Score=36.082238881525>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Chancellor	NNP	O
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=30.9550398170699>
+'s	POS	B
+promise	NN	I
+Friday	NNP	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=28.1526612589254>
+for	IN	O
+release	NN	B
+tomorrow	NN	B
+,	,
+fail	VB
+</Support Example>
+
+<Support Example Score=26.3937148682696>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Both	DT	O
+Westwood	NNP
+Brick	NNP
+</Support Example>
+
+<Support Example Score=25.4624543313269>
+Hong	NNP	B
+Kong	NNP	I
+Monday	NNP	B
+,	,
+gold	NN
+</Support Example>
+
+<Support Example Score=24.503030238601>
+the	DT	B
+Exchequer	NNP	I
+Nigel	NNP	O
+Lawson	NNP
+'s	POS
+</Support Example>
+
+<Support Example Score=23.4912239701816>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Confidence	NN	B
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=23.0549197984226>
+Robert	NNP	I
+MacDonald	NNP	I
+control	NN	O
+East	NNP
+Rock	NNP
+</Support Example>
+
+<Support Example Score=22.9436874539182>
+is	VBZ	O
+little	JJ	B
+holding	NN	O
+sterling	NN
+firm	NN
+</Support Example>
+
+<Support Example Score=20.1112481051662>
+interest	NN	B
+rates	NNS	I
+earlier	RBR	B
+this	DT
+month	NN
+</Support Example>
+
+<Support Example Score=19.8729880076526>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Thursday	NNP	B
+,	,
+he	PRP
+</Support Example>
+
+<Support Example Score=18.5137854002209>
+trucking	NN	I
+companies	NNS	I
+that	WDT	B
+began	VBD
+in	IN
+</Support Example>
+
+<Support Example Score=18.4991824852149>
+holding	NN	O
+sterling	NN	B
+firm	NN	O
+at	IN
+the	DT
+</Support Example>
+
+<Support Example Score=18.1803726406925>
+this	DT	B
+promise	NN	I
+sound	NN	O
+hollow	JJ
+.	.
+</Support Example>
+
+<Support Example Score=18.1640295620013>
+Exchequer	NNP	I
+Nigel	NNP	O
+Lawson	NNP	O
+'s	POS
+restated	VBN
+</Support Example>
+
+<Support Example Score=18.0628189397417>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Only	RB	B
+10	CD
+%	NN
+</Support Example>
+
+<Support Example Score=17.9196108255116>
+Menlo	NNP	I
+Park	NNP	I
+,	,	I
+Calif.	NNP
+,	,
+</Support Example>
+
+<Support Example Score=17.8757437688426>
+to	TO	O
+overcapacity	NN	B
+they	PRP	B
+were	VBD
+eager	JJ
+</Support Example>
+
+<Support Example Score=17.7859325610371>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Forecasts	NNS	B
+for	IN
+the	DT
+</Support Example>
+
+<Support Example Score=17.6185715123333>
+European	JJ	B
+trading	NN	I
+it	PRP	B
+declined	VBD
+to	TO
+</Support Example>
+
+<Support Example Score=17.3205042160042>
+system	NN	I
+,	,	O
+rising	VBG	B
+costs	NNS
+are	VBP
+</Support Example>
+
+<Support Example Score=17.2267472548799>
+its	PRP$	B
+rates	NNS	I
+5.3	CD	B
+%	NN
+late	JJ
+</Support Example>
+
+<Support Example Score=16.933219889055>
+$	$	B
+35.50	CD	I
+to	TO	I
+$	$
+36.50	CD
+</Support Example>
+
+<Support Example Score=16.5611483852474>
+New	NNP	B
+York	NNP	I
+late	JJ	B
+Thursday	NNP
+.	.
+</Support Example>
+
+<Support Example Score=16.3856506678196>
+4	CD	I
+%	NN	I
+this	DT	B
+year	NN
+.	.
+</Support Example>
+
+<Support Example Score=16.2655883803279>
+the	DT	B
+party	NN	I
+'s	POS	O
+over	IN
+,	,
+</Support Example>
+
+<Support Example Score=16.1793176798309>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Not	RB	B
+everyone	NN
+believes	VBZ
+</Support Example>
+
+<Support Example Score=16.1104223906552>
+-1__BOS__	-1__BOS__
+Trucking	NNP	B
+,	,	I
+shipping	VBG
+and	CC
+</Support Example>
+
+<Support Example Score=15.9054116287039>
+price	NN	I
+cutting	VBG	I
+that	WDT	B
+occurred	VBD
+previously	RB
+</Support Example>
+
+<Support Example Score=15.6722520952311>
+raw	JJ	B
+material	NN	I
+stockbuilding	VBG	I
+by	IN
+industry	NN
+</Support Example>
+
+<Support Example Score=15.6101708293187>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+But	CC	O
+consumer	NN
+expenditure	NN
+</Support Example>
+
+<Support Example Score=15.5772840036689>
+30	CD	B
+%	NN	I
+who	WP	B
+had	VBD
+looked	VBN
+</Support Example>
+
+<Support Example Score=15.5504927143319>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+Demand	NN
+has	VBZ
+</Support Example>
+
+<Support Example Score=15.3250002451052>
+looked	VBN	O
+to	TO	O
+freight	VB	B
+transport	NN
+to	TO
+</Support Example>
+
+<Support Example Score=15.1697088028447>
+coming	VBG	I
+week	NN	I
+the	DT	B
+foreign	JJ
+exchange	NN
+</Support Example>
+
+<Support Example Score=15.102821413018>
+place	NN	B
+and	CC	O
+that	DT	O
+sterling	NN
+does	VBZ
+</Support Example>
+
+<Support Example Score=15.0324181010493>
+figures	NNS	I
+show	VBP	O
+that	DT	O
+spending	NN
+rose	VBD
+</Support Example>
+
+<Support Example Score=14.5320709987759>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Nevertheless	RB	O
+,	,
+he	PRP
+</Support Example>
+
+<Support Example Score=14.3633500078656>
+5.3	CD	B
+%	NN	I
+late	JJ	B
+this	DT
+year	NN
+</Support Example>
+
+<Support Example Score=14.3470334141636>
+House	NNP	I
+speech	NN	I
+last	JJ	B
+Thursday	NNP
+.	.
+</Support Example>
+
+<Support Example Score=14.3224254708029>
+,	,	O
+and	CC	O
+at	IN	B
+least	JJS
+two	CD
+</Support Example>
+
+<Support Example Score=14.316463948523>
+the	DT	B
+chancellor	NN	I
+'s	POS	B
+failure	NN
+to	TO
+</Support Example>
+
+<Support Example Score=14.2111724887318>
+to	TO	O
+rise	VB	O
+about	IN	B
+4	CD
+%	NN
+</Support Example>
+
+<Support Example Score=14.1242469317604>
+,	,	I
+Calif.	NNP	I
+,	,	I
+less-than-truckload	JJ
+carrier	NN
+</Support Example>
+
+<Support Example Score=14.0178474258068>
+A.P.	NNP	B
+Green	NNP	I
+'s	POS	B
+board	NN
+,	,
+</Support Example>
+
+<Support Example Score=13.7988346866081>
+-1__BOS__	-1__BOS__
+Friday	NNP	B
+'s	POS	B
+Market	NNP
+Activity	NN
+</Support Example>
+
+<Support Example Score=13.7248684587378>
+narrow	VB	O
+to	TO	O
+as	RB	B
+little	JJ
+as	IN
+</Support Example>
+
+<Support Example Score=13.6702264942501>
+the	DT	B
+government	NN	I
+'s	POS	B
+popularity	NN
+could	MD
+</Support Example>
+
+<Support Example Score=13.5798428280554>
+the	DT	B
+price	NN	I
+cutting	VBG	I
+that	WDT
+occurred	VBD
+</Support Example>
+
+<Support Example Score=13.5694112461203>
+September	NNP	B
+,	,	O
+due	JJ	O
+for	IN
+release	NN
+</Support Example>
+
+<Support Example Score=13.5255281240766>
+plunged	VBD	O
+more	JJR	B
+than	IN	I
+190	CD
+points	NNS
+</Support Example>
+
+<Support Example Score=13.5199974508004>
+opportunity	NN	I
+for	IN	O
+offsetting	VBG	O
+cost	NN
+increases	NNS
+</Support Example>
+
+<Support Example Score=13.4620532885128>
+month	NN	I
+takes	VBZ	O
+effect	NN	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=13.4340777624272>
+2,664,098	CD	B
+shares	NNS	I
+outstanding	JJ	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=13.4182938232524>
+and	CC	I
+August	NNP	I
+'s	POS	B
+near-record	JJ
+deficits	NNS
+</Support Example>
+
+<Support Example Score=13.2344076630078>
+Little	NNP	I
+Inc.	NNP	I
+,	,	O
+Cambridge	NNP
+,	,
+</Support Example>
+
+<Support Example Score=13.0765364968219>
+a	DT	B
+Mexico	NNP	I
+,	,	I
+Mo.	NNP
+,	,
+</Support Example>
+
+<Support Example Score=12.9197809307571>
+to	TO	O
+rise	VB	O
+at	IN	O
+least	JJS
+as	RB
+</Support Example>
+
+<Support Example Score=12.6845955700354>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+But	CC	O
+analysts	NNS
+reckon	VBP
+</Support Example>
+
+<Support Example Score=12.6255389404688>
+$	$	B
+367.30	CD	I
+an	DT	B
+ounce	NN
+,	,
+</Support Example>
+
+<Support Example Score=12.5645959095763>
+offer	NN	I
+is	VBZ	O
+subject	NN	O
+to	TO
+the	DT
+</Support Example>
+
+<Support Example Score=12.5525385894863>
+capital	NN	I
+goods	NNS	I
+inflows	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=12.4092789717288>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Late	RB	O
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=12.3219071182613>
+,	,	I
+Mo.	NNP	I
+,	,	I
+maker	NN
+of	IN
+</Support Example>
+
+<Support Example Score=12.2486479569644>
+turnaround	NN	I
+before	IN	O
+adjusting	VBG	O
+positions	NNS
+.	.
+</Support Example>
+
+<Support Example Score=12.0023782882225>
+'ve	VBP	O
+gotten	VBN	O
+all	PDT	B
+the	DT
+benefits	NNS
+</Support Example>
+
+<Support Example Score=11.9681568346315>
+from	IN	O
+July	NNP	B
+and	CC	I
+August	NNP
+'s	POS
+</Support Example>
+
+<Support Example Score=11.8425255471846>
+higher	JJR	O
+if	IN	O
+necessary	JJ	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=11.8240498549374>
+Combined	VBN	O
+with	IN	O
+at	IN	B
+least	JJS
+some	DT
+</Support Example>
+
+<Support Example Score=11.8025182561475>
+,	,	O
+Cambridge	NNP	B
+,	,	O
+Mass.	NNP
+,	,
+</Support Example>
+
+<Support Example Score=11.776032185355>
+1.8470	CD	B
+marks	NNS	I
+late	JJ	B
+Thursday	NNP
+in	IN
+</Support Example>
+
+<Support Example Score=11.7733266538793>
+as	RB	B
+little	JJ	I
+as	IN	I
+#	#
+1.3	CD
+</Support Example>
+
+<Support Example Score=11.7446260596364>
+is	VBZ	O
+transforming	VBG	O
+itself	PRP	B
+to	TO
+boost	VB
+</Support Example>
+
+<Support Example Score=11.5781482381242>
+their	PRP$	B
+annual	JJ	I
+,	,	I
+inter-city	JJ
+truck	NN
+</Support Example>
+
+<Support Example Score=11.5396337870682>
+Shippers	NNS	B
+cut	VBP	O
+about	RB	B
+$	$
+35	CD
+</Support Example>
+
+<Support Example Score=11.5293087220415>
+agreement	NN	I
+by	IN	O
+no	DT	O
+later	RB
+than	IN
+</Support Example>
+
+<Support Example Score=11.4676990930662>
+Westwood	NNP	B
+Brick	NNP	I
+and	CC	O
+Westwood	NNP
+Group	NNP
+</Support Example>
+
+<Support Example Score=11.4080233257505>
+both	DT	B
+rail	NN	I
+and	CC	I
+truck	NN
+,	,
+</Support Example>
+
+<Support Example Score=11.2584529230843>
+,	,	O
+or	CC	O
+about	IN	B
+6.4	CD
+%	NN
+</Support Example>
+
+<Support Example Score=11.2533099962127>
+n't	RB	O
+decline	VB	O
+further	JJ	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=11.233603903199>
+that	IN	O
+Britain	NNP	B
+'s	POS	B
+manufacturing	NN
+industry	NN
+</Support Example>
+
+<Support Example Score=11.2160562495416>
+,	,	O
+given	VBN	O
+continued	VBD	B
+high	JJ
+consumer	NN
+</Support Example>
+
+<Support Example Score=11.2071995640355>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+And	CC	O
+,	,
+they	PRP
+</Support Example>
+
+<Support Example Score=11.199494381934>
+Trucking	NNP	B
+,	,	I
+shipping	VBG	I
+and	CC
+air-freight	NN
+</Support Example>
+
+<Support Example Score=11.1846279248017>
+costs	NNS	I
+and	CC	O
+tightened	VBD	B
+demand	NN
+for	IN
+</Support Example>
+
+<Support Example Score=11.1776764024534>
+1980	CD	B
+enabled	VBD	O
+shippers	NNS	B
+to	TO
+bargain	VB
+</Support Example>
+
+<Support Example Score=11.0752032780334>
+in	IN	O
+1980	CD	B
+enabled	VBD	O
+shippers	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=11.0580678798897>
+of	IN	O
+railroads	NNS	B
+and	CC	I
+trucking	NN
+companies	NNS
+</Support Example>
+
+<Support Example Score=11.0483842711317>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+An	DT	B
+A.P.	NNP
+Green	NNP
+</Support Example>
+
+<Support Example Score=10.8799866040705>
+recent	JJ	B
+years	NNS	I
+when	WRB	O
+freight	NN
+haulage	NN
+</Support Example>
+
+<Support Example Score=10.8381599634548>
+Briscoe	NNP	I
+,	,	O
+who	WP	B
+also	RB
+forecasts	VBZ
+</Support Example>
+
+<Support Example Score=10.7389453018778>
+and	CC	O
+pay	VB	O
+more	JJR	B
+for	IN
+labor	NN
+</Support Example>
+
+<Support Example Score=10.5768373556739>
+at	IN	B
+least	JJS	I
+some	DT	I
+rebound	NN
+in	IN
+</Support Example>
+
+<Support Example Score=10.5619950336922>
+John	NNP	I
+Kuhns	NNP	I
+and	CC	I
+Robert	NNP
+MacDonald	NNP
+</Support Example>
+
+<Support Example Score=10.5096842930931>
+with	IN	O
+at	IN	B
+least	JJS	I
+some	DT
+rebound	NN
+</Support Example>
+
+<Support Example Score=10.4349309302767>
+-1__BOS__	-1__BOS__
+But	CC	O
+with	IN	O
+much	NN
+of	IN
+</Support Example>
+
+<Support Example Score=10.4114384032826>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Estimated	VBN	B
+volume	NN
+was	VBD
+</Support Example>
+
+<Support Example Score=10.4106628364525>
+a	DT	B
+firm	NN	I
+monetary	JJ	I
+policy	NN
+has	VBZ
+</Support Example>
+
+<Support Example Score=10.3079109015615>
+$	$	I
+36.50	CD	I
+a	DT	B
+share	NN
+.	.
+</Support Example>
+
+<Support Example Score=10.2443341520834>
+rates	NNS	I
+earlier	RBR	B
+this	DT	I
+month	NN
+takes	VBZ
+</Support Example>
+
+<Support Example Score=10.2335737446106>
+-1__BOS__	-1__BOS__
+That	DT	B
+'s	VBZ	O
+a	DT
+big	JJ
+</Support Example>
+
+<Support Example Score=10.1559703026569>
+Baring	NNP	B
+Brothers	NNPS	I
+&	CC	I
+Co.	NNP
+,	,
+</Support Example>
+
+<Support Example Score=10.1175671977188>
+have	VBP	O
+had	VBN	O
+such	JJ	B
+a	DT
+dramatic	JJ
+</Support Example>
+
+<Support Example Score=10.1099127734828>
+transportation	NN	I
+logistics	NNS	I
+professor	NN	I
+at	IN
+Ohio	NNP
+</Support Example>
+
+<Support Example Score=10.104952297733>
+contingent	JJ	O
+upon	IN	O
+obtaining	VBG	O
+satisfactory	JJ
+financing	NN
+</Support Example>
+
+<Support Example Score=10.0620465866366>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Combined	VBN	O
+with	IN
+at	IN
+</Support Example>
+
+<Support Example Score=10.0582275411124>
+transportation	NN	I
+,	,	O
+and	CC	O
+rates	NNS
+are	VBP
+</Support Example>
+
+<Support Example Score=10.0557167926747>
+rise	VB	O
+at	IN	O
+least	JJS	O
+as	RB
+fast	RB
+</Support Example>
+
+<Support Example Score=9.99969326636918>
+from	IN	O
+Friday	NNP	B
+'s	POS	B
+Tokyo	NNP
+close	NN
+</Support Example>
+
+<Support Example Score=9.94790894260244>
+A.P.	NNP	B
+Green	NNP	I
+currently	RB	O
+has	VBZ
+2,664,098	CD
+</Support Example>
+
+<Support Example Score=9.92723102082618>
+before	IN	O
+adjusting	VBG	O
+positions	NNS	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=9.91231865000401>
+made	VBN	O
+it	PRP	B
+clear	JJ	O
+that	IN
+he	PRP
+</Support Example>
+
+<Support Example Score=9.86494783881281>
+Average	NNP	I
+plunged	VBD	O
+more	JJR	B
+than	IN
+190	CD
+</Support Example>
+
+<Support Example Score=9.8632106889311>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Now	RB	O
+we	PRP
+are	VBP
+</Support Example>
+
+<Support Example Score=9.85997046915111>
+A.P.	NNP	B
+Green	NNP	I
+to	TO	O
+8.7	CD
+%	NN
+</Support Example>
+
+<Support Example Score=9.82049373183558>
+consumer	NN	B
+expenditure	NN	I
+data	NNS	I
+released	VBD
+Friday	NNP
+</Support Example>
+
+<Support Example Score=9.80344351592289>
+their	PRP$	B
+equipment	NN	I
+more	RBR	O
+efficiently	RB
+,	,
+</Support Example>
+
+<Support Example Score=9.78718448689881>
+policy	NN	I
+remains	VBZ	O
+unchanged	JJ	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=9.76523694904385>
+show	VB	O
+a	DT	B
+very	RB	I
+marked	VBN
+improvement	NN
+</Support Example>
+
+<Support Example Score=9.74089197462207>
+-1__BOS__	-1__BOS__
+It	PRP	B
+now	RB	O
+holds	VBZ
+233,000	CD
+</Support Example>
+
+<Support Example Score=9.69337968199033>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Trucking	NNP	B
+,	,
+shipping	VBG
+</Support Example>
+
+<Support Example Score=9.61818522288137>
+a	DT	B
+year	NN	I
+ago	RB	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=9.56943017347266>
+East	NNP	B
+Rock	NNP	I
+Partners	NNP	I
+L.P	NNP
+.	.
+</Support Example>
+
+<Support Example Score=9.4695458705316>
+pound	NN	I
+falls	VBZ	O
+much	JJ	B
+below	IN
+2.90	CD
+</Support Example>
+
+<Support Example Score=9.46373176716273>
+the	DT	B
+Securities	NNP	I
+and	CC	I
+Exchange	NNP
+Commission	NNP
+</Support Example>
+
+<Support Example Score=9.38607046029157>
+the	DT	B
+offer	NN	I
+is	VBZ	O
+subject	NN
+to	TO
+</Support Example>
+
+<Support Example Score=9.37634548651434>
+``	``	O
+No	DT	B
+one	PRP	I
+will	MD
+want	VB
+</Support Example>
+
+<Support Example Score=9.35699136739164>
+declining	VBG	O
+for	IN	O
+most	RBS	B
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=9.32559415328785>
+still	RB	O
+quite	RB	O
+strong	JJ	O
+,	,
+''	''
+</Support Example>
+
+<Support Example Score=9.31383221491438>
+-1__BOS__	-1__BOS__
+Now	RB	O
+we	PRP	B
+are	VBP
+starting	VBG
+</Support Example>
+
+<Support Example Score=9.28348870976703>
+after	IN	O
+August	NNP	B
+'s	POS	B
+unexpected	JJ
+decline	NN
+</Support Example>
+
+<Support Example Score=9.22753297013565>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Meanwhile	RB	O
+,	,
+overall	JJ
+</Support Example>
+
+<Support Example Score=9.12286507196471>
+declined	VBD	O
+to	TO	O
+$	$	B
+1.5890	CD
+and	CC
+</Support Example>
+
+<Support Example Score=9.11037514670086>
+n't	RB	O
+advance	VB	O
+much	JJ	B
+because	IN
+investors	NNS
+</Support Example>
+
+<Support Example Score=9.08868484186414>
+necessary	JJ	O
+to	TO	O
+both	DT	O
+ensure	VB
+that	IN
+</Support Example>
+
+<Support Example Score=9.05801097737114>
+inter-city	JJ	I
+truck	NN	I
+and	CC	I
+rail	NN
+costs	NNS
+</Support Example>
+
+<Support Example Score=9.0451086823657>
+-1__BOS__	-1__BOS__
+Carriers	NNP	B
+could	MD	O
+use	VB
+their	PRP$
+</Support Example>
+
+<Support Example Score=9.03341254582836>
+-1__BOS__	-1__BOS__
+New	NNP	B
+York-based	JJ	I
+John	NNP
+Kuhns	NNP
+</Support Example>
+
+<Support Example Score=9.03283256701297>
+companies	NNS	I
+,	,	O
+which	WDT	B
+carry	VBP
+the	DT
+</Support Example>
+
+<Support Example Score=8.98821718100399>
+number	NN	I
+,	,	O
+there	EX	B
+could	MD
+be	VB
+</Support Example>
+
+<Support Example Score=8.9721489350929>
+gotten	VBN	O
+all	PDT	B
+the	DT	I
+benefits	NNS
+of	IN
+</Support Example>
+
+<Support Example Score=8.93418072530777>
+high	JJ	I
+consumer	NN	I
+and	CC	I
+capital	NN
+goods	NNS
+</Support Example>
+
+<Support Example Score=8.92573827477368>
+A.P.	NNP	B
+Green	NNP	I
+Industries	NNP	I
+Inc.	NNP
+for	IN
+</Support Example>
+
+<Support Example Score=8.85870564212076>
+$	$	B
+1.5940	CD	I
+and	CC	O
+2.9429	CD
+marks	NNS
+</Support Example>
+
+<Support Example Score=8.84600141549267>
+second	JJ	I
+quarter	NN	I
+and	CC	O
+was	VBD
+up	IN
+</Support Example>
+
+<Support Example Score=8.83871479865089>
+analysts	NNS	B
+reckon	VBP	O
+underlying	VBG	B
+support	NN
+for	IN
+</Support Example>
+
+<Support Example Score=8.81777022574124>
+narrow	VB	O
+to	TO	O
+only	RB	B
+#	#
+1.8	CD
+</Support Example>
+
+<Support Example Score=8.80929304079081>
+$	$	B
+1.5890	CD	I
+and	CC	O
+2.9495	CD
+marks	NNS
+</Support Example>
+
+<Support Example Score=8.72659594590657>
+East	NNP	B
+Rock	NNP	I
+also	RB	O
+said	VBD
+in	IN
+</Support Example>
+
+<Support Example Score=8.67991116855832>
+3.2	CD	I
+billion	CD	I
+-RRB-	)	I
+deficit	NN
+in	IN
+</Support Example>
+
+<Support Example Score=8.67634398414442>
+restrained	VBN	O
+by	IN	O
+weakening	VBG	B
+rail-traffic	JJ
+levels	NNS
+</Support Example>
+
+<Support Example Score=8.60013310055616>
+'s	POS	B
+Market	NNP	I
+Activity	NN	I
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=8.5897973684354>
+35.50	CD	I
+to	TO	I
+$	$	I
+36.50	CD
+a	DT
+</Support Example>
+
+<Support Example Score=8.51699322681038>
+Foreign	JJ	B
+exchange	NN	I
+dealers	NNS	I
+said	VBD
+that	IN
+</Support Example>
+
+<Support Example Score=8.38709915585292>
+In	IN	O
+Tokyo	NNP	B
+on	IN	O
+Monday	NNP
+,	,
+</Support Example>
+
+<Support Example Score=8.37147886410496>
+Lawson	NNP	O
+'s	POS	B
+restated	VBN	I
+commitment	NN
+to	TO
+</Support Example>
+
+<Support Example Score=8.26471037598499>
+a	DT	B
+very	RB	I
+marked	VBN	I
+improvement	NN
+from	IN
+</Support Example>
+
+<Support Example Score=8.19413905878032>
+exchange	NN	I
+market	NN	I
+analysts	NNS	I
+say	VBP
+.	.
+</Support Example>
+
+<Support Example Score=8.13193170856538>
+%	NN	I
+,	,	O
+both	DT	O
+to	TO
+halt	VB
+</Support Example>
+
+<Support Example Score=8.08864120752821>
+more	JJR	B
+than	IN	I
+190	CD	I
+points	NNS
+.	.
+</Support Example>
+
+<Support Example Score=7.97095158988015>
+-1__BOS__	-1__BOS__
+Sterling	NNP	B
+was	VBD	O
+already	RB
+showing	VBG
+</Support Example>
+
+<Support Example Score=7.90223564827389>
+to	TO	O
+as	RB	B
+little	JJ	I
+as	IN
+#	#
+</Support Example>
+
+<Support Example Score=7.89232459363533>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+Shippers	NNS
+wo	MD
+</Support Example>
+
+<Support Example Score=7.83998388318527>
+last	JJ	I
+eight	CD	I
+or	CC	I
+nine	CD
+years	NNS
+</Support Example>
+
+<Support Example Score=7.80475601710482>
+it	PRP	B
+declined	VBD	O
+to	TO	O
+$	$
+1.5890	CD
+</Support Example>
+
+<Support Example Score=7.78566840440367>
+about	IN	O
+equities	NNS	B
+abated	VBN	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=7.76843214802115>
+-1__BOS__	-1__BOS__
+Both	DT	O
+Westwood	NNP	B
+Brick	NNP
+and	CC
+</Support Example>
+
+<Support Example Score=7.76731955691716>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+New	NNP	B
+York-based	JJ
+John	NNP
+</Support Example>
+
+<Support Example Score=7.75998288762703>
+the	DT	B
+moment	NN	I
+other	JJ	O
+than	IN
+Mr.	NNP
+</Support Example>
+
+<Support Example Score=7.75370071864574>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+It	PRP	B
+now	RB
+holds	VBZ
+</Support Example>
+
+<Support Example Score=7.74170580582635>
+be	VB	O
+pushed	VBN	O
+higher	JJR	O
+if	IN
+necessary	JJ
+</Support Example>
+
+<Support Example Score=7.707981518572>
+'s	POS	B
+manufacturing	NN	I
+industry	NN	I
+is	VBZ
+transforming	VBG
+</Support Example>
+
+<Support Example Score=7.67520930648764>
+New	NNP	B
+York	NNP	I
+,	,	O
+gold	NN
+for	IN
+</Support Example>
+
+<Support Example Score=7.65682391188032>
+again	RB	O
+if	IN	O
+necessary	JJ	O
+to	TO
+both	DT
+</Support Example>
+
+<Support Example Score=7.61932259035475>
+is	VBZ	O
+slowing	VBG	O
+that	DT	O
+quickly	RB
+.	.
+</Support Example>
+
+<Support Example Score=7.61744103883791>
+for	IN	O
+market	NN	B
+share	NN	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=7.61003581946273>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Railroad-rate	JJ	B
+increases	NNS
+are	VBP
+</Support Example>
+
+<Support Example Score=7.60377669528156>
+helping	VBG	O
+to	TO	O
+restrain	VB	O
+inflation	NN
+and	CC
+</Support Example>
+
+<Support Example Score=7.55545988777877>
+leading	VBG	O
+to	TO	O
+overcapacity	NN	B
+they	PRP
+were	VBD
+</Support Example>
+
+<Support Example Score=7.5514416514036>
+upturn	NN	I
+in	IN	O
+perceived	VBN	B
+transportation	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=7.54515654415127>
+agree	VBP	O
+there	EX	B
+is	VBZ	O
+little	JJ
+holding	NN
+</Support Example>
+
+<Support Example Score=7.53601937018803>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Currency	NN	B
+analysts	NNS
+predict	VBP
+</Support Example>
+
+<Support Example Score=7.51843671069755>
+,	,	O
+compared	VBN	O
+with	IN	O
+30	CD
+%	NN
+</Support Example>
+
+<Support Example Score=7.51499513841274>
+material	NN	I
+stockbuilding	VBG	I
+by	IN	O
+industry	NN
+could	MD
+</Support Example>
+
+<Support Example Score=7.49743766021037>
+promise	NN	I
+sound	NN	O
+hollow	JJ	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=7.4855167178669>
+as	IN	O
+carriers	NNS	B
+replace	VBP	O
+equipment	NN
+,	,
+</Support Example>
+
+<Support Example Score=7.4267354607533>
+this	DT	I
+month	NN	I
+takes	VBZ	O
+effect	NN
+.	.
+</Support Example>
+
+<Support Example Score=7.37289854327539>
+July	NNP	B
+and	CC	I
+August	NNP	I
+'s	POS
+near-record	JJ
+</Support Example>
+
+<Support Example Score=7.35254972009306>
+-1__BOS__	-1__BOS__
+The	DT	B
+$	$	I
+40-a-share	JJ
+proposal	NN
+</Support Example>
+
+<Support Example Score=7.30869088896125>
+York	NNP	I
+,	,	O
+gold	NN	B
+for	IN
+current	JJ
+</Support Example>
+
+<Support Example Score=7.29456337377923>
+-1__BOS__	-1__BOS__
+This	DT	B
+compares	VBZ	O
+with	IN
+a	DT
+</Support Example>
+
+<Support Example Score=7.28071828756657>
+market	NN	I
+analysts	NNS	I
+say	VBP	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=7.2800535918626>
+pound	NN	I
+,	,	O
+economists	NNS	B
+and	CC
+foreign	JJ
+</Support Example>
+
+<Support Example Score=7.13520685733394>
+2	CD	I
+billion	CD	I
+-LRB-	(	I
+$	$
+3.2	CD
+</Support Example>
+
+<Support Example Score=7.13074826251577>
+quarter	NN	I
+and	CC	O
+was	VBD	O
+up	IN
+3.8	CD
+</Support Example>
+
+<Support Example Score=7.10945161452989>
+a	DT	B
+light	NN	I
+2.4	CD	I
+million	CD
+ounces	NNS
+</Support Example>
+
+<Support Example Score=7.10585056655665>
+now	RB	O
+holds	VBZ	O
+233,000	CD	B
+A.P.	NNP
+Green	NNP
+</Support Example>
+
+<Support Example Score=7.09060578840394>
+,	,	O
+reflecting	VBG	O
+higher	JJR	B
+costs	NNS
+and	CC
+</Support Example>
+
+<Support Example Score=7.05674449939385>
+,	,	O
+leading	VBG	O
+to	TO	O
+overcapacity	NN
+they	PRP
+</Support Example>
+
+<Support Example Score=7.02359964022314>
+%	NN	I
+late	JJ	B
+this	DT	I
+year	NN
+or	CC
+</Support Example>
+
+<Support Example Score=7.0165373293313>
+in	IN	O
+July	NNP	B
+are	VBP	O
+topped	VBN
+only	RB
+</Support Example>
+
+<Support Example Score=7.01592999498799>
+dollar	NN	I
+posted	VBD	O
+gains	NNS	B
+in	IN
+quiet	JJ
+</Support Example>
+
+<Support Example Score=7.00988808650479>
+150	CD	I
+billion	CD	I
+,	,	O
+or	CC
+about	IN
+</Support Example>
+
+<Support Example Score=7.00135230557257>
+Mr.	NNP	B
+Lawson	NNP	I
+'s	POS	B
+promise	NN
+Friday	NNP
+</Support Example>
+
+<Support Example Score=6.98073059116102>
+the	DT	B
+government	NN	I
+being	VBG	O
+forced	VBN
+to	TO
+</Support Example>
+
+<Support Example Score=6.97050640931155>
+say	VBP	O
+they	PRP	B
+expect	VBP	O
+freight	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=6.96086014100857>
+233,000	CD	B
+A.P.	NNP	I
+Green	NNP	I
+common	JJ
+shares	NNS
+</Support Example>
+
+<Support Example Score=6.95754645414921>
+they	PRP	B
+were	VBD	O
+eager	JJ	O
+to	TO
+fill	VB
+</Support Example>
+
+<Support Example Score=6.95619096254898>
+the	DT	B
+currency	NN	I
+market	NN	I
+has	VBZ
+begun	VBN
+</Support Example>
+
+<Support Example Score=6.94275101351203>
+companies	NNS	I
+that	WDT	B
+began	VBD	O
+in	IN
+1980	CD
+</Support Example>
+
+<Support Example Score=6.92609599970192>
+A.P.	NNP	I
+Green	NNP	I
+common	JJ	I
+shares	NNS
+,	,
+</Support Example>
+
+<Support Example Score=6.92146641317879>
+n't	RB	O
+be	VB	O
+able	JJ	O
+to	TO
+look	VB
+</Support Example>
+
+<Support Example Score=6.86476974370265>
+15	CD	I
+%	NN	I
+level	NN	I
+to	TO
+defend	VB
+</Support Example>
+
+<Support Example Score=6.86007419390825>
+an	DT	B
+Oct.	NNP	I
+19	CD	I
+letter	NN
+to	TO
+</Support Example>
+
+<Support Example Score=6.85899072694651>
+forced	VBN	O
+to	TO	O
+increase	VB	O
+rates	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=6.85780860442271>
+inflation	NN	B
+and	CC	O
+make	VB	O
+U.S.	NNP
+industry	NN
+</Support Example>
+
+<Support Example Score=6.84836672754601>
+Clifford	NNP	B
+Sayre	NNP	I
+,	,	O
+director	NN
+of	IN
+</Support Example>
+
+<Support Example Score=6.82649492912076>
+costs	NNS	I
+and	CC	O
+pay	VB	O
+more	JJR
+for	IN
+</Support Example>
+
+<Support Example Score=6.78678985082892>
+they	PRP	B
+expect	VBP	O
+their	PRP$	B
+freight-transport	JJ
+,	,
+</Support Example>
+
+<Support Example Score=6.78577805788937>
+,	,	O
+turning	VBG	O
+upward	RB	O
+and	CC
+threatening	VBG
+</Support Example>
+
+<Support Example Score=6.77835597935227>
+of	IN	O
+competition	NN	B
+spurred	VBN	O
+by	IN
+deregulation	NN
+</Support Example>
+
+<Support Example Score=6.77003961905521>
+industry	NN	I
+more	RBR	O
+competitive	JJ	O
+abroad	RB
+.	.
+</Support Example>
+
+<Support Example Score=6.75542441038888>
+Sayre	NNP	I
+,	,	O
+director	NN	B
+of	IN
+logistics	NNS
+</Support Example>
+
+<Support Example Score=6.73690637339493>
+to	TO	O
+recoup	VB	O
+some	DT	B
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=6.72734485317816>
+%	NN	I
+rate	NN	I
+increase	NN	I
+implemented	VBD
+last	JJ
+</Support Example>
+
+<Support Example Score=6.72722203184344>
+-1__BOS__	-1__BOS__
+``	``	O
+There	EX	B
+'s	VBZ
+still	RB
+</Support Example>
+
+<Support Example Score=6.7046267766912>
+figures	NNS	I
+are	VBP	O
+bullish	JJ	O
+for	IN
+sterling	NN
+</Support Example>
+
+<Support Example Score=6.7036860477884>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Major	JJ	B
+shippers	NNS
+say	VBP
+</Support Example>
+
+<Support Example Score=6.69888607321055>
+more	JJR	B
+import	NN	I
+rises	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=6.66055385230278>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Transport	NN	B
+rates	NNS
+wo	MD
+</Support Example>
+
+<Support Example Score=6.65323364063115>
+and	CC	O
+at	IN	B
+least	JJS	I
+two	CD
+competitors	NNS
+</Support Example>
+
+<Support Example Score=6.60765235774957>
+went	VBD	O
+on	IN	O
+services	NNS	B
+rather	RB
+than	IN
+</Support Example>
+
+<Support Example Score=6.58631912803635>
+-1__BOS__	-1__BOS__
+Thursday	NNP	B
+,	,	O
+he	PRP
+reminded	VBD
+</Support Example>
+
+<Support Example Score=6.5780210438821>
+19	CD	I
+letter	NN	I
+to	TO	O
+A.P.	NNP
+Green	NNP
+</Support Example>
+
+<Support Example Score=6.54489497611883>
+-1__BOS__	-1__BOS__
+But	CC	O
+analysts	NNS	B
+reckon	VBP
+underlying	VBG
+</Support Example>
+
+<Support Example Score=6.54157585509694>
+at	IN	O
+Baring	NNP	B
+Brothers	NNPS	I
+&	CC
+Co.	NNP
+</Support Example>
+
+<Support Example Score=6.53399100163265>
+imports	NNS	B
+,	,	O
+given	VBN	O
+continued	VBD
+high	JJ
+</Support Example>
+
+<Support Example Score=6.5299623626073>
+the	DT	B
+coming	VBG	I
+week	NN	I
+the	DT
+foreign	JJ
+</Support Example>
+
+<Support Example Score=6.51324528013909>
+Ohio	NNP	B
+State	NNP	I
+University	NNP	I
+said	VBD
+they	PRP
+</Support Example>
+
+<Support Example Score=6.49372144800282>
+little	JJ	B
+holding	NN	O
+sterling	NN	B
+firm	NN
+at	IN
+</Support Example>
+
+<Support Example Score=6.47449517990302>
+flat	JJ	I
+position	NN	I
+''	''	O
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=6.46920206964005>
+for	IN	O
+September	NNP	B
+,	,	O
+due	JJ
+for	IN
+</Support Example>
+
+<Support Example Score=6.46904957346723>
+-1__BOS__	-1__BOS__
+But	CC	O
+consumer	NN	B
+expenditure	NN
+data	NNS
+</Support Example>
+
+<Support Example Score=6.449758936893>
+,	,	O
+''	''	O
+but	CC	O
+suggestions	NNS
+that	IN
+</Support Example>
+
+<Support Example Score=6.44450530779896>
+,	,	O
+who	WP	B
+also	RB	O
+forecasts	VBZ
+a	DT
+</Support Example>
+
+<Support Example Score=6.43618480152963>
+does	VBZ	O
+take	VB	O
+place	NN	B
+and	CC
+that	DT
+</Support Example>
+
+<Support Example Score=6.43190547151545>
+little	JJ	I
+as	IN	I
+#	#	I
+1.3	CD
+billion	CD
+</Support Example>
+
+<Support Example Score=6.4085856751125>
+higher	JJR	B
+costs	NNS	I
+and	CC	O
+tightened	VBD
+demand	NN
+</Support Example>
+
+<Support Example Score=6.39891373263739>
+U.S.	NNP	B
+industry	NN	I
+more	RBR	O
+competitive	JJ
+abroad	RB
+</Support Example>
+
+<Support Example Score=6.37791166994485>
+&	CC	I
+Co.	NNP	I
+,	,	O
+said	VBD
+there	EX
+</Support Example>
+
+<Support Example Score=6.37586020174134>
+,	,	I
+storage	NN	I
+and	CC	I
+distribution	NN
+costs	NNS
+</Support Example>
+
+<Support Example Score=6.37439136734875>
+slowdown	NN	I
+does	VBZ	O
+take	VB	O
+place	NN
+and	CC
+</Support Example>
+
+<Support Example Score=6.3592802885136>
+shares	NNS	I
+,	,	O
+including	VBG	O
+30,000	CD
+shares	NNS
+</Support Example>
+
+<Support Example Score=6.34729264810836>
+such	JJ	B
+a	DT	I
+dramatic	JJ	I
+and	CC
+broad-based	JJ
+</Support Example>
+
+<Support Example Score=6.34279299310867>
+letter	NN	I
+to	TO	O
+A.P.	NNP	B
+Green	NNP
+'s	POS
+</Support Example>
+
+<Support Example Score=6.26726684490702>
+1.5890	CD	I
+and	CC	O
+2.9495	CD	B
+marks	NNS
+from	IN
+</Support Example>
+
+<Support Example Score=6.24146508489503>
+billion	CD	I
+gap	NN	I
+registered	VBN	O
+in	IN
+July	NNP
+</Support Example>
+
+<Support Example Score=6.21518036614566>
+McCullough	NNP	I
+,	,	O
+lecturer	NN	B
+in	IN
+transportation	NN
+</Support Example>
+
+<Support Example Score=6.20607464558755>
+over	IN	O
+,	,	O
+'	''	O
+''	''
+said	VBD
+</Support Example>
+
+<Support Example Score=6.19954766818128>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+In	IN	O
+Tokyo	NNP
+on	IN
+</Support Example>
+
+<Support Example Score=6.1932106077565>
+widely	RB	O
+,	,	O
+but	CC	O
+few	JJ
+economists	NNS
+</Support Example>
+
+<Support Example Score=6.18435318754685>
+that	DT	O
+spending	NN	B
+rose	VBD	O
+0.1	CD
+%	NN
+</Support Example>
+
+<Support Example Score=6.17335764834817>
+,	,	O
+to	TO	O
+about	RB	B
+$	$
+150	CD
+</Support Example>
+
+<Support Example Score=6.17218011560625>
+1.6	CD	I
+%	NN	I
+rise	NN	I
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=6.15475937207438>
+-1__BOS__	-1__BOS__
+Transport	NN	B
+rates	NNS	I
+wo	MD
+n't	RB
+</Support Example>
+
+<Support Example Score=6.14462431625529>
+back	RB	O
+to	TO	O
+economic	JJ	B
+fundamentals	NNS
+,	,
+</Support Example>
+
+<Support Example Score=6.11359318883167>
+'s	POS	B
+popularity	NN	I
+could	MD	O
+swiftly	RB
+make	VB
+</Support Example>
+
+<Support Example Score=6.08800247693433>
+carrier	NN	I
+,	,	O
+said	VBD	O
+rate	NN
+discounting	NN
+</Support Example>
+
+<Support Example Score=6.0877194279568>
+released	VBD	O
+Friday	NNP	B
+do	VBP	O
+n't	RB
+suggest	VB
+</Support Example>
+
+<Support Example Score=6.08071966137705>
+dramatic	JJ	I
+and	CC	I
+broad-based	JJ	I
+upturn	NN
+in	IN
+</Support Example>
+
+<Support Example Score=6.07218022104047>
+the	DT	B
+next	JJ	I
+few	JJ	I
+years	NNS
+.	.
+</Support Example>
+
+<Support Example Score=6.07094343579939>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+However	RB	O
+,	,
+Mr.	NNP
+</Support Example>
+
+<Support Example Score=6.06087606234128>
+Kong	NNP	I
+Monday	NNP	B
+,	,	O
+gold	NN
+was	VBD
+</Support Example>
+
+<Support Example Score=6.04598610826379>
+and	CC	O
+was	VBD	O
+up	IN	O
+3.8	CD
+%	NN
+</Support Example>
+
+<Support Example Score=6.03720156448475>
+their	PRP$	B
+freight-transport	JJ	I
+,	,	I
+storage	NN
+and	CC
+</Support Example>
+
+<Support Example Score=6.02058677858562>
+pay	VB	O
+more	JJR	B
+for	IN	O
+labor	NN
+.	.
+</Support Example>
+
+<Support Example Score=5.99403934374401>
+by	IN	O
+exchange	NN	B
+rate	NN	I
+weakness	NN
+.	.
+</Support Example>
+
+<Support Example Score=5.98326806103461>
+1.8	CD	I
+billion	CD	I
+in	IN	O
+September	NNP
+.	.
+</Support Example>
+
+<Support Example Score=5.98300072922161>
+the	DT	B
+trade	NN	I
+figures	NNS	I
+without	IN
+a	DT
+</Support Example>
+
+<Support Example Score=5.97536580674759>
+exchange	NN	B
+rate	NN	I
+weakness	NN	I
+.	.
+''	''
+</Support Example>
+
+<Support Example Score=5.9740090991845>
+Analysts	NNS	B
+agree	VBP	O
+there	EX	B
+is	VBZ
+little	JJ
+</Support Example>
+
+<Support Example Score=5.96943870244389>
+,	,	O
+economists	NNS	B
+and	CC	O
+foreign	JJ
+exchange	NN
+</Support Example>
+
+<Support Example Score=5.94403111575115>
+eight	CD	I
+or	CC	I
+nine	CD	I
+years	NNS
+.	.
+</Support Example>
+
+<Support Example Score=5.92866544683821>
+-1__BOS__	-1__BOS__
+This	DT	B
+has	VBZ	O
+increased	VBN
+the	DT
+</Support Example>
+
+<Support Example Score=5.91474755921985>
+to	TO	O
+boost	VB	O
+exports	NNS	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=5.89762852736244>
+1.3	CD	I
+billion	CD	I
+current	JJ	I
+account	NN
+gap	NN
+</Support Example>
+
+<Support Example Score=5.84351306779337>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+He	PRP	B
+reckons	VBZ
+the	DT
+</Support Example>
+
+<Support Example Score=5.83246497939935>
+offsetting	VBG	O
+cost	NN	B
+increases	NNS	I
+in	IN
+other	JJ
+</Support Example>
+
+<Support Example Score=5.82962152562973>
+and	CC	O
+that	DT	O
+sterling	NN	B
+does	VBZ
+n't	RB
+</Support Example>
+
+<Support Example Score=5.80989080979333>
+,	,	O
+rising	VBG	B
+costs	NNS	I
+are	VBP
+likely	JJ
+</Support Example>
+
+<Support Example Score=5.8043016750711>
+was	VBD	O
+also	RB	O
+changing	VBG	O
+hands	NNS
+at	IN
+</Support Example>
+
+<Support Example Score=5.79915366790951>
+rise	VB	O
+about	IN	B
+4	CD	I
+%	NN
+this	DT
+</Support Example>
+
+<Support Example Score=5.76442616038379>
+to	TO	O
+be	VB	O
+undermined	VBN	O
+by	IN
+exchange	NN
+</Support Example>
+
+<Support Example Score=5.76253328480759>
+to	TO	O
+increase	VB	O
+rates	NNS	B
+to	TO
+16	CD
+</Support Example>
+
+<Support Example Score=5.75989620767756>
+or	CC	O
+slightly	RB	O
+more	JJR	O
+than	IN
+the	DT
+</Support Example>
+
+<Support Example Score=5.73650013817531>
+about	IN	B
+4	CD	I
+%	NN	I
+this	DT
+year	NN
+</Support Example>
+
+<Support Example Score=5.73160007918504>
+rail-traffic	JJ	I
+levels	NNS	I
+and	CC	O
+keen	JJ
+competition	NN
+</Support Example>
+
+<Support Example Score=5.73108899459047>
+A.P.	NNP	I
+Green	NNP	I
+official	NN	I
+declined	VBD
+to	TO
+</Support Example>
+
+<Support Example Score=5.72712238582704>
+,	,	O
+up	IN	O
+20	CD	B
+cents	NNS
+.	.
+</Support Example>
+
+<Support Example Score=5.71465732368645>
+proposed	VBD	O
+to	TO	O
+acquire	VB	O
+A.P.	NNP
+Green	NNP
+</Support Example>
+
+<Support Example Score=5.67510990733263>
+new	JJ	I
+policy	NN	I
+measures	NNS	I
+in	IN
+his	PRP$
+</Support Example>
+
+<Support Example Score=5.66794628197951>
+company	NN	I
+at	IN	O
+about	RB	B
+$	$
+106.6	CD
+</Support Example>
+
+<Support Example Score=5.6636967699023>
+,	,	O
+discounted	VBD	O
+away	RB	O
+a	DT
+4.7	CD
+</Support Example>
+
+<Support Example Score=5.64739320230656>
+upon	IN	O
+obtaining	VBG	O
+satisfactory	JJ	B
+financing	NN
+.	.
+</Support Example>
+
+<Support Example Score=5.64002756352991>
+York	NNP	I
+trading	NN	I
+day	NN	I
+,	,
+the	DT
+</Support Example>
+
+<Support Example Score=5.61549687623686>
+decade	NN	I
+because	IN	O
+of	IN	O
+competition	NN
+spurred	VBN
+</Support Example>
+
+<Support Example Score=5.60841563483429>
+has	VBZ	O
+2,664,098	CD	B
+shares	NNS	I
+outstanding	JJ
+.	.
+</Support Example>
+
+<Support Example Score=5.58700913465666>
+-1__BOS__	-1__BOS__
+Meanwhile	RB	O
+,	,	O
+overall	JJ
+evidence	NN
+</Support Example>
+
+<Support Example Score=5.5754813430372>
+exchange	NN	I
+,	,	O
+which	WDT	B
+has	VBZ
+preoccupied	VBN
+</Support Example>
+
+<Support Example Score=5.56838560685762>
+transport	NN	I
+to	TO	O
+reduce	VB	O
+costs	NNS
+in	IN
+</Support Example>
+
+<Support Example Score=5.52759442555796>
+$	$	I
+35	CD	I
+billion	CD	I
+from	IN
+their	PRP$
+</Support Example>
+
+<Support Example Score=5.52439838361663>
+also	RB	O
+changing	VBG	O
+hands	NNS	B
+at	IN
+142.43	CD
+</Support Example>
+
+<Support Example Score=5.51650755211007>
+to	TO	O
+``	``	O
+stabilize	VB	O
+.	.
+''	''
+</Support Example>
+
+<Support Example Score=5.50951303988311>
+companies	NNS	I
+have	VBP	O
+announced	VBN	O
+rate	NN
+increases	NNS
+</Support Example>
+
+<Support Example Score=5.5093274396641>
+had	VBN	O
+such	JJ	B
+a	DT	I
+dramatic	JJ
+and	CC
+</Support Example>
+
+<Support Example Score=5.49870029660524>
+'ll	MD	O
+see	VB	O
+carriers	NNS	B
+try	VB
+to	TO
+</Support Example>
+
+<Support Example Score=5.49174478147163>
+and	CC	O
+maybe	RB	O
+faster	RBR	O
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=5.48801839677056>
+quarter	NN	I
+of	IN	O
+1988	CD	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=5.4841707857202>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+Shippers	NNS
+are	VBP
+</Support Example>
+
+<Support Example Score=5.47231464866604>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Economists	NNS	B
+suggested	VBD
+that	IN
+</Support Example>
+
+<Support Example Score=5.45313454866845>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Friday	NNP	B
+'s	POS
+Market	NNP
+</Support Example>
+
+<Support Example Score=5.4496987891113>
+currently	RB	O
+has	VBZ	O
+2,664,098	CD	B
+shares	NNS
+outstanding	JJ
+</Support Example>
+
+<Support Example Score=5.44560224550955>
+,	,	O
+``	``	O
+No	DT	B
+one	PRP
+will	MD
+</Support Example>
+
+<Support Example Score=5.43070279514025>
+prepared	VBN	O
+to	TO	O
+increase	VB	O
+interest	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=5.41857082086707>
+Gerard	NNP	B
+McCullough	NNP	I
+,	,	O
+lecturer	NN
+in	IN
+</Support Example>
+
+<Support Example Score=5.41301402307863>
+$	$	B
+1.875	CD	I
+,	,	O
+in	IN
+national	JJ
+</Support Example>
+
+<Support Example Score=5.40166575571358>
+Meanwhile	RB	O
+,	,	O
+overall	JJ	B
+evidence	NN
+on	IN
+</Support Example>
+
+<Support Example Score=5.39282729020603>
+-1__BOS__	-1__BOS__
+Only	RB	B
+10	CD	I
+%	NN
+of	IN
+</Support Example>
+
+<Support Example Score=5.36738235105136>
+the	DT	B
+pound	NN	I
+,	,	O
+economists	NNS
+and	CC
+</Support Example>
+
+<Support Example Score=5.34073951333662>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+In	IN	O
+early	JJ
+trading	NN
+</Support Example>
+
+<Support Example Score=5.33686520723944>
+increase	VB	O
+interest	NN	B
+rates	NNS	I
+again	RB
+if	IN
+</Support Example>
+
+<Support Example Score=5.33003808242727>
+to	TO	O
+freight	VB	B
+transport	NN	I
+to	TO
+reduce	VB
+</Support Example>
+
+<Support Example Score=5.32444705379565>
+as	IN	O
+inflation	NN	B
+and	CC	O
+maybe	RB
+faster	RBR
+</Support Example>
+
+<Support Example Score=5.32295792095528>
+out	IN	O
+,	,	O
+turning	VBG	O
+upward	RB
+and	CC
+</Support Example>
+
+<Support Example Score=5.31622088343891>
+to	TO	O
+or	CC	O
+slightly	RB	O
+more	JJR
+than	IN
+</Support Example>
+
+<Support Example Score=5.31075037081626>
+move	VB	O
+up	IN	O
+''	''	O
+at	IN
+a	DT
+</Support Example>
+
+<Support Example Score=5.30470763576696>
+to	TO	O
+show	VB	O
+a	DT	B
+very	RB
+marked	VBN
+</Support Example>
+
+<Support Example Score=5.28459915841991>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+In	IN	O
+European	JJ
+trading	NN
+</Support Example>
+
+<Support Example Score=5.2306641093203>
+light	NN	I
+2.4	CD	I
+million	CD	I
+ounces	NNS
+.	.
+</Support Example>
+
+<Support Example Score=5.22776152266686>
+reckon	VBP	O
+underlying	VBG	B
+support	NN	I
+for	IN
+sterling	NN
+</Support Example>
+
+<Support Example Score=5.21165836622648>
+to	TO	O
+see	VB	O
+real	JJ	B
+freight-rate	JJ
+increases	NNS
+</Support Example>
+
+<Support Example Score=5.19108623720797>
+increase	NN	I
+implemented	VBD	O
+last	JJ	B
+April	NNP
+.	.
+</Support Example>
+
+<Support Example Score=5.18859171015838>
+partnership	NN	I
+is	VBZ	O
+Westwood	NNP	B
+Brick	NNP
+Lime	NNP
+</Support Example>
+
+<Support Example Score=5.18204275422998>
+Westwood	NNP	B
+Group	NNP	I
+Inc	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=5.17789083071806>
+,	,	O
+said	VBD	O
+there	EX	B
+is	VBZ
+no	DT
+</Support Example>
+
+<Support Example Score=5.16333480088264>
+'s	VBZ	O
+still	RB	O
+a	DT	B
+lot	NN
+of	IN
+</Support Example>
+
+<Support Example Score=5.1594325047778>
+falls	VBZ	O
+much	JJ	B
+below	IN	O
+2.90	CD
+marks	NNS
+</Support Example>
+
+<Support Example Score=5.15522925723628>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Certainly	RB	O
+,	,
+the	DT
+</Support Example>
+
+<Support Example Score=5.14777893773317>
+to	TO	O
+fill	VB	O
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=5.14001213939367>
+he	PRP	B
+reminded	VBD	O
+his	PRP$	B
+audience	NN
+that	IN
+</Support Example>
+
+<Support Example Score=5.13328969563196>
+holds	VBZ	O
+233,000	CD	B
+A.P.	NNP	I
+Green	NNP
+common	JJ
+</Support Example>
+
+<Support Example Score=5.13318233931212>
+advance	VB	O
+much	JJ	B
+because	IN	O
+investors	NNS
+will	MD
+</Support Example>
+
+<Support Example Score=5.11378097298566>
+''	''	O
+but	CC	O
+suggestions	NNS	B
+that	IN
+much	NN
+</Support Example>
+
+<Support Example Score=5.10997298302441>
+-1__BOS__	-1__BOS__
+Consolidated	NNP	B
+Freightways	NNP	I
+plans	VBZ
+to	TO
+</Support Example>
+
+<Support Example Score=5.09950844373297>
+-1__BOS__	-1__BOS__
+``	``	O
+Shippers	NNS	B
+wo	MD
+n't	RB
+</Support Example>
+
+<Support Example Score=5.0960165678633>
+billion	CD	I
+-LRB-	(	I
+$	$	I
+3.2	CD
+billion	CD
+</Support Example>
+
+<Support Example Score=5.08846104863581>
+'s	POS	B
+near-record	JJ	I
+deficits	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=5.07989905677971>
+Cambridge	NNP	B
+,	,	O
+Mass.	NNP	B
+,	,
+said	VBD
+</Support Example>
+
+<Support Example Score=5.07671097800238>
+of	IN	O
+GNP	NNP	B
+in	IN	O
+1981	CD
+.	.
+</Support Example>
+
+<Support Example Score=5.07646162702578>
+-1__BOS__	-1__BOS__
+You	PRP	B
+'ll	MD	O
+see	VB
+carriers	NNS
+</Support Example>
+
+<Support Example Score=5.06515131932336>
+billion	CD	I
+,	,	O
+or	CC	O
+about	IN
+6.4	CD
+</Support Example>
+
+<Support Example Score=5.06458446333601>
+there	EX	B
+is	VBZ	O
+little	JJ	B
+holding	NN
+sterling	NN
+</Support Example>
+
+<Support Example Score=5.05644455640458>
+a	DT	B
+close	NN	I
+eye	NN	I
+out	IN
+for	IN
+</Support Example>
+
+<Support Example Score=5.04834251107135>
+Calif.	NNP	I
+,	,	I
+less-than-truckload	JJ	I
+carrier	NN
+,	,
+</Support Example>
+
+<Support Example Score=5.03784389955628>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+This	DT	B
+compares	VBZ
+with	IN
+</Support Example>
+
+<Support Example Score=5.03219431011998>
+shippers	NNS	I
+say	VBP	O
+they	PRP	B
+expect	VBP
+freight	NN
+</Support Example>
+
+<Support Example Score=5.00785821688567>
+,	,	O
+up	IN	O
+from	IN	O
+141.70	CD
+yen	NN
+</Support Example>
+
+<Support Example Score=4.9612156785682>
+August	NNP	I
+'s	POS	B
+near-record	JJ	I
+deficits	NNS
+.	.
+</Support Example>
+
+<Support Example Score=4.96077013471278>
+,	,	O
+said	VBD	O
+``	``	O
+We	PRP
+'ve	VBP
+</Support Example>
+
+<Support Example Score=4.9602899888751>
+to	TO	O
+bargain	VB	O
+for	IN	O
+transportation	NN
+.	.
+</Support Example>
+
+<Support Example Score=4.93809346401972>
+and	CC	I
+capital	NN	I
+goods	NNS	I
+inflows	NNS
+.	.
+</Support Example>
+
+<Support Example Score=4.92240243142124>
+Inc.	NNP	I
+,	,	O
+Cambridge	NNP	B
+,	,
+Mass.	NNP
+</Support Example>
+
+<Support Example Score=4.91023446272158>
+,	,	O
+Mass.	NNP	B
+,	,	O
+said	VBD
+``	``
+</Support Example>
+
+<Support Example Score=4.90208353036077>
+to	TO	O
+distance	VB	O
+itself	PRP	B
+from	IN
+the	DT
+</Support Example>
+
+<Support Example Score=4.87933963771795>
+a	DT	I
+dramatic	JJ	I
+and	CC	I
+broad-based	JJ
+upturn	NN
+</Support Example>
+
+<Support Example Score=4.87439081427539>
+only	RB	B
+#	#	I
+1.8	CD	I
+billion	CD
+in	IN
+</Support Example>
+
+<Support Example Score=4.86760738148262>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Analysts	NNS	B
+agree	VBP
+there	EX
+</Support Example>
+
+<Support Example Score=4.8581637918659>
+the	DT	B
+economy	NN	I
+``	``	O
+is	VBZ
+still	RB
+</Support Example>
+
+<Support Example Score=4.85778818575295>
+the	DT	B
+inefficiency	NN	I
+squeezed	VBN	O
+out	IN
+of	IN
+</Support Example>
+
+<Support Example Score=4.85122439304617>
+Consolidated	NNP	B
+Freightways	NNP	I
+plans	VBZ	O
+to	TO
+raise	VB
+</Support Example>
+
+<Support Example Score=4.84676957728888>
+-1__BOS__	-1__BOS__
+In	IN	O
+Tokyo	NNP	B
+on	IN
+Monday	NNP
+</Support Example>
+
+<Support Example Score=4.84225059375067>
+economists	NNS	B
+and	CC	O
+foreign	JJ	B
+exchange	NN
+market	NN
+</Support Example>
+
+<Support Example Score=4.83452456923973>
+shift	VB	O
+its	PRP$	B
+focus	NN	I
+back	RB
+to	TO
+</Support Example>
+
+<Support Example Score=4.82967957155296>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+The	DT	B
+$	$
+40-a-share	JJ
+</Support Example>
+
+<Support Example Score=4.82347977106085>
+is	VBZ	O
+another	DT	B
+bad	JJ	I
+trade	NN
+number	NN
+</Support Example>
+
+<Support Example Score=4.82305163285602>
+to	TO	O
+look	VB	O
+for	IN	O
+transportation-cost	JJ
+savings	NNS
+</Support Example>
+
+<Support Example Score=4.82232245008442>
+,	,	O
+including	VBG	O
+30,000	CD	B
+shares	NNS
+bought	VBD
+</Support Example>
+
+<Support Example Score=4.82209862906277>
+at	IN	O
+least	JJS	O
+as	RB	O
+fast	RB
+as	IN
+</Support Example>
+
+<Support Example Score=4.7919805070362>
+warn	VBP	O
+,	,	O
+any	DT	B
+further	JJ
+drop	NN
+</Support Example>
+
+<Support Example Score=4.78916044076895>
+Consolidated	NNP	B
+Freightways	NNP	I
+Inc.	NNP	I
+,	,
+a	DT
+</Support Example>
+
+<Support Example Score=4.77245321438858>
+That	DT	B
+'s	VBZ	O
+a	DT	B
+big	JJ
+change	NN
+</Support Example>
+
+<Support Example Score=4.75612385115617>
+Kuhns	NNP	I
+and	CC	I
+Robert	NNP	I
+MacDonald	NNP
+control	NN
+</Support Example>
+
+<Support Example Score=4.74263046033728>
+carriers	NNS	B
+replace	VBP	O
+equipment	NN	B
+,	,
+pay	VB
+</Support Example>
+
+<Support Example Score=4.74042326919167>
+,	,	O
+are	VBP	O
+bottoming	VBG	O
+out	IN
+,	,
+</Support Example>
+
+<Support Example Score=4.72664169200927>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Shippers	NNS	B
+surveyed	VBN
+recently	RB
+</Support Example>
+
+<Support Example Score=4.72173325029577>
+it	PRP	B
+boosted	VBD	O
+its	PRP$	B
+stake	NN
+in	IN
+</Support Example>
+
+<Support Example Score=4.7020687146645>
+Shippers	NNS	B
+are	VBP	O
+saying	VBG	O
+`	``
+the	DT
+</Support Example>
+
+<Support Example Score=4.70196859959453>
+Co.	NNP	I
+,	,	O
+said	VBD	O
+there	EX
+is	VBZ
+</Support Example>
+
+<Support Example Score=4.70098078302528>
+The	DT	B
+$	$	I
+40-a-share	JJ	I
+proposal	NN
+values	VBZ
+</Support Example>
+
+<Support Example Score=4.69517821411151>
+want	VB	O
+to	TO	O
+see	VB	O
+further	JJ
+evidence	NN
+</Support Example>
+
+<Support Example Score=4.69128534292857>
+for	IN	O
+$	$	B
+40	CD	I
+a	DT
+share	NN
+</Support Example>
+
+<Support Example Score=4.67784795202751>
+to	TO	O
+fuel	VB	O
+inflation	NN	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=4.66421735716152>
+rates	NNS	I
+to	TO	O
+16	CD	B
+%	NN
+from	IN
+</Support Example>
+
+<Support Example Score=4.65852479431646>
+dollar	NN	I
+was	VBD	O
+quoted	VBN	O
+at	IN
+1.8578	CD
+</Support Example>
+
+<Support Example Score=4.65399839468157>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Its	PRP$	B
+stock	NN
+closed	VBD
+</Support Example>
+
+<Support Example Score=4.6523255285827>
+show	VBP	O
+that	DT	O
+spending	NN	B
+rose	VBD
+0.1	CD
+</Support Example>
+
+<Support Example Score=4.63939068170128>
+250	CD	I
+shippers	NNS	I
+polled	VBN	O
+expected	VBN
+their	PRP$
+</Support Example>
+
+<Support Example Score=4.6354460320729>
+to	TO	O
+decrease	VB	O
+,	,	O
+compared	VBN
+with	IN
+</Support Example>
+
+<Support Example Score=4.61981266785631>
+its	PRP$	B
+focus	NN	I
+back	RB	O
+to	TO
+economic	JJ
+</Support Example>
+
+<Support Example Score=4.60630514084993>
+polled	VBN	O
+expected	VBN	O
+their	PRP$	B
+freight-transport	JJ
+costs	NNS
+</Support Example>
+
+<Support Example Score=4.60046150620393>
+has	VBZ	O
+made	VBN	O
+it	PRP	B
+clear	JJ
+that	IN
+</Support Example>
+
+<Support Example Score=4.58627154058635>
+$	$	I
+106.6	CD	I
+million	CD	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=4.58493402607142>
+they	PRP	B
+expect	VBP	O
+freight	NN	B
+rates	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=4.56267911419181>
+35	CD	I
+billion	CD	I
+from	IN	O
+their	PRP$
+annual	JJ
+</Support Example>
+
+<Support Example Score=4.5533132389549>
+Green	NNP	I
+currently	RB	O
+has	VBZ	O
+2,664,098	CD
+shares	NNS
+</Support Example>
+
+<Support Example Score=4.52509334830737>
+to	TO	O
+only	RB	B
+#	#	I
+1.8	CD
+billion	CD
+</Support Example>
+
+<Support Example Score=4.52171663270568>
+-1__BOS__	-1__BOS__
+East	NNP	B
+Rock	NNP	I
+also	RB
+said	VBD
+</Support Example>
+
+<Support Example Score=4.51378371402354>
+more	JJR	B
+for	IN	O
+labor	NN	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=4.4841234877837>
+upward	RB	O
+and	CC	O
+threatening	VBG	O
+to	TO
+fuel	VB
+</Support Example>
+
+<Support Example Score=4.48343159474951>
+,	,	O
+up	IN	O
+from	IN	O
+Friday	NNP
+'s	POS
+</Support Example>
+
+<Support Example Score=4.48086907249235>
+current	JJ	I
+account	NN	I
+deficit	NN	I
+will	MD
+narrow	VB
+</Support Example>
+
+<Support Example Score=4.47782007803242>
+the	DT	B
+250	CD	I
+shippers	NNS	I
+polled	VBN
+expected	VBN
+</Support Example>
+
+<Support Example Score=4.47103670396586>
+-1__BOS__	-1__BOS__
+Estimated	VBN	B
+volume	NN	I
+was	VBD
+a	DT
+</Support Example>
+
+<Support Example Score=4.46290602297347>
+Monday	NNP	B
+,	,	O
+gold	NN	B
+was	VBD
+quoted	VBN
+</Support Example>
+
+<Support Example Score=4.46281526644512>
+higher	JJR	B
+fuel	NN	I
+costs	NNS	I
+and	CC
+pay	VB
+</Support Example>
+
+<Support Example Score=4.46031468421575>
+see	VB	O
+real	JJ	B
+freight-rate	JJ	I
+increases	NNS
+as	IN
+</Support Example>
+
+<Support Example Score=4.45506121079422>
+are	VBP	O
+saying	VBG	O
+`	``	O
+the	DT
+party	NN
+</Support Example>
+
+<Support Example Score=4.43792993348485>
+Jones	NNP	I
+Industrial	NNP	I
+Average	NNP	I
+plunged	VBD
+more	JJR
+</Support Example>
+
+<Support Example Score=4.43486069502824>
+discounted	VBD	O
+away	RB	O
+a	DT	B
+4.7	CD
+%	NN
+</Support Example>
+
+<Support Example Score=4.42382603417709>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+That	DT	B
+'s	VBZ
+a	DT
+</Support Example>
+
+<Support Example Score=4.42036740321638>
+last	JJ	B
+Thursday	NNP	I
+for	IN	O
+$	$
+35.50	CD
+</Support Example>
+
+<Support Example Score=4.41758590953154>
+,	,	O
+up	IN	O
+$	$	B
+1.875	CD
+,	,
+</Support Example>
+
+<Support Example Score=4.38349104612496>
+when	WRB	O
+freight	NN	B
+haulage	NN	I
+was	VBD
+a	DT
+</Support Example>
+
+<Support Example Score=4.3656934779742>
+``	``	O
+stabilize	VB	O
+.	.	O
+''	''
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=4.36327026803676>
+gap	NN	I
+,	,	O
+warns	VBZ	O
+that	IN
+even	RB
+</Support Example>
+
+<Support Example Score=4.34253416280175>
+sharp	JJ	I
+dive	NN	I
+if	IN	O
+trade	NN
+figures	NNS
+</Support Example>
+
+<Support Example Score=4.32491308848933>
+should	MD	O
+reduce	VB	O
+fears	NNS	B
+of	IN
+more	JJR
+</Support Example>
+
+<Support Example Score=4.31073660428889>
+expenditure	NN	I
+data	NNS	I
+released	VBD	O
+Friday	NNP
+do	VBP
+</Support Example>
+
+<Support Example Score=4.29873968322818>
+foreign	JJ	B
+exchange	NN	I
+market	NN	I
+analysts	NNS
+say	VBP
+</Support Example>
+
+<Support Example Score=4.29149531218723>
+he	PRP	B
+remains	VBZ	O
+fairly	RB	O
+pessimistic	JJ
+about	IN
+</Support Example>
+
+<Support Example Score=4.27285061470715>
+first	JJ	I
+quarter	NN	I
+and	CC	O
+a	DT
+5.4	CD
+</Support Example>
+
+<Support Example Score=4.26900381422371>
+$	$	B
+366.50	CD	I
+an	DT	B
+ounce	NN
+.	.
+</Support Example>
+
+<Support Example Score=4.25971120351775>
+MacDonald	NNP	I
+control	NN	O
+East	NNP	B
+Rock	NNP
+Partners	NNP
+</Support Example>
+
+<Support Example Score=4.2566360983919>
+,	,	O
+when	WRB	O
+the	DT	B
+Dow	NNP
+Jones	NNP
+</Support Example>
+
+<Support Example Score=4.25422248102895>
+slowing	VBG	O
+that	DT	O
+quickly	RB	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=4.24578515179435>
+Mexico	NNP	I
+,	,	I
+Mo.	NNP	I
+,	,
+maker	NN
+</Support Example>
+
+<Support Example Score=4.24247415895542>
+were	VBD	O
+competing	VBG	O
+fiercely	RB	O
+for	IN
+market	NN
+</Support Example>
+
+<Support Example Score=4.23633780810979>
+already	RB	O
+showing	VBG	O
+some	DT	B
+signs	NNS
+of	IN
+</Support Example>
+
+<Support Example Score=4.2300337524789>
+to	TO	I
+$	$	I
+36.50	CD	I
+a	DT
+share	NN
+</Support Example>
+
+<Support Example Score=4.22098305154335>
+expected	VBN	O
+their	PRP$	B
+freight-transport	JJ	I
+costs	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=4.20847533897305>
+-1__BOS__	-1__BOS__
+Not	RB	B
+everyone	NN	I
+believes	VBZ
+that	IN
+</Support Example>
+
+<Support Example Score=4.20486181851931>
+will	MD	O
+shift	VB	O
+its	PRP$	B
+focus	NN
+back	RB
+</Support Example>
+
+<Support Example Score=4.19719293280517>
+is	VBZ	O
+still	RB	O
+quite	RB	O
+strong	JJ
+,	,
+</Support Example>
+
+<Support Example Score=4.19157368044726>
+Mansion	NNP	I
+House	NNP	I
+speech	NN	I
+last	JJ
+Thursday	NNP
+</Support Example>
+
+<Support Example Score=4.18680566211395>
+warns	VBZ	O
+that	IN	O
+even	RB	O
+if	IN
+the	DT
+</Support Example>
+
+<Support Example Score=4.18666807281027>
+Simon	NNP	B
+Briscoe	NNP	I
+,	,	O
+U.K.	NNP
+economist	NN
+</Support Example>
+
+<Support Example Score=4.17655245929752>
+carriers	NNS	I
+were	VBD	O
+competing	VBG	O
+fiercely	RB
+for	IN
+</Support Example>
+
+<Support Example Score=4.17485552001431>
+Park	NNP	I
+,	,	I
+Calif.	NNP	I
+,	,
+less-than-truckload	JJ
+</Support Example>
+
+<Support Example Score=4.17214837968041>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+U.K.	JJ	B
+base	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=4.17064071310167>
+take	VB	O
+place	NN	B
+and	CC	O
+that	DT
+sterling	NN
+</Support Example>
+
+<Support Example Score=4.16033375535517>
+is	VBZ	O
+also	RB	O
+contingent	JJ	O
+upon	IN
+obtaining	VBG
+</Support Example>
+
+<Support Example Score=4.15136277>
+see	VB	O
+carriers	NNS	B
+try	VB	O
+to	TO
+recoup	VB
+</Support Example>
+
+<Support Example Score=4.14769878426738>
+1.5940	CD	I
+and	CC	O
+2.9429	CD	B
+marks	NNS
+late	JJ
+</Support Example>
+
+<Support Example Score=4.13528276164822>
+for	IN	O
+freight	NN	B
+transport	NN	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=4.13467924384274>
+was	VBD	O
+quoted	VBN	O
+at	IN	O
+$	$
+366.50	CD
+</Support Example>
+
+<Support Example Score=4.1283821412011>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+You	PRP	B
+'ll	MD
+see	VB
+</Support Example>
+
+<Support Example Score=4.11074149143372>
+by	IN	O
+deregulation	NN	B
+,	,	O
+are	VBP
+bottoming	VBG
+</Support Example>
+
+<Support Example Score=4.1060727421381>
+expect	VBP	O
+their	PRP$	B
+freight-transport	JJ	I
+,	,
+storage	NN
+</Support Example>
+
+<Support Example Score=4.09686981141017>
+and	CC	O
+tightened	VBD	B
+demand	NN	I
+for	IN
+freight	NN
+</Support Example>
+
+<Support Example Score=4.0963988138262>
+time	NN	I
+,	,	O
+he	PRP	B
+remains	VBZ
+fairly	RB
+</Support Example>
+
+<Support Example Score=4.09582556660831>
+have	VBP	O
+announced	VBN	O
+similar	JJ	B
+increases	NNS
+.	.
+</Support Example>
+
+<Support Example Score=4.08271106791485>
+The	DT	B
+dollar	NN	I
+posted	VBD	O
+gains	NNS
+in	IN
+</Support Example>
+
+<Support Example Score=4.04361108285667>
+much	JJ	B
+because	IN	O
+investors	NNS	B
+will	MD
+want	VB
+</Support Example>
+
+<Support Example Score=4.02558243494948>
+August	NNP	I
+deficit	NN	I
+and	CC	O
+the	DT
+#	#
+</Support Example>
+
+<Support Example Score=4.01919486856637>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+At	IN	O
+the	DT
+same	JJ
+</Support Example>
+
+<Support Example Score=4.01501987562528>
+forced	VBN	O
+to	TO	O
+increase	VB	O
+base	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=3.99834066391897>
+in	IN	O
+the	DT	B
+coming	VBG	I
+week	NN
+the	DT
+</Support Example>
+
+<Support Example Score=3.99642408561125>
+-1__BOS__	-1__BOS__
+``	``	O
+If	IN	O
+there	EX
+is	VBZ
+</Support Example>
+
+<Support Example Score=3.99569316272055>
+more	RBR	O
+competitive	JJ	O
+abroad	RB	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.98744710534182>
+year	NN	I
+,	,	O
+reflecting	VBG	O
+higher	JJR
+costs	NNS
+</Support Example>
+
+<Support Example Score=3.96494076155322>
+Green	NNP	I
+Industries	NNP	I
+Inc.	NNP	I
+for	IN
+$	$
+</Support Example>
+
+<Support Example Score=3.96261516491422>
+in	IN	O
+perceived	VBN	B
+transportation	NN	I
+rates	NNS
+,	,
+</Support Example>
+
+<Support Example Score=3.95263887158565>
+a	DT	B
+lack	NN	I
+of	IN	O
+confidence	NN
+in	IN
+</Support Example>
+
+<Support Example Score=3.950316032097>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Consolidated	NNP	B
+Freightways	NNP
+plans	VBZ
+</Support Example>
+
+<Support Example Score=3.94856791261451>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+East	NNP	B
+Rock	NNP
+Partners	NNP
+</Support Example>
+
+<Support Example Score=3.94523348066709>
+,	,	O
+up	IN	O
+from	IN	O
+1.8470	CD
+marks	NNS
+</Support Example>
+
+<Support Example Score=3.93677509149361>
+Limited	NNP	I
+Partnership	NNP	I
+said	VBD	O
+it	PRP
+proposed	VBD
+</Support Example>
+
+<Support Example Score=3.92809222337742>
+product	NN	I
+,	,	O
+down	RB	O
+from	IN
+8	CD
+</Support Example>
+
+<Support Example Score=3.92292808479835>
+since	IN	O
+transportation	NN	B
+deregulation	NN	I
+in	IN
+1980	CD
+</Support Example>
+
+<Support Example Score=3.91630457376467>
+$	$	I
+3.2	CD	I
+billion	CD	I
+-RRB-	)
+deficit	NN
+</Support Example>
+
+<Support Example Score=3.90984148269496>
+by	IN	O
+weakening	VBG	B
+rail-traffic	JJ	I
+levels	NNS
+and	CC
+</Support Example>
+
+<Support Example Score=3.90722212685152>
+-1__BOS__	-1__BOS__
+Shippers	NNS	B
+surveyed	VBN	O
+recently	RB
+by	IN
+</Support Example>
+
+<Support Example Score=3.90163617934445>
+-1__BOS__	-1__BOS__
+And	CC	O
+,	,	O
+they	PRP
+warn	VBP
+</Support Example>
+
+<Support Example Score=3.89725584433071>
+further	JJ	I
+decline	NN	I
+and	CC	O
+ensure	VB
+that	IN
+</Support Example>
+
+<Support Example Score=3.88848036261805>
+-1__BOS__	-1__BOS__
+A.P.	NNP	B
+Green	NNP	I
+currently	RB
+has	VBZ
+</Support Example>
+
+<Support Example Score=3.88560011416526>
+the	DT	B
+trade	NN	I
+figures	NNS	I
+range	VBP
+widely	RB
+</Support Example>
+
+<Support Example Score=3.87818960246504>
+goods	NNS	I
+should	MD	O
+reduce	VB	O
+fears	NNS
+of	IN
+</Support Example>
+
+<Support Example Score=3.85108237089839>
+and	CC	I
+truck	NN	I
+,	,	O
+''	''
+said	VBD
+</Support Example>
+
+<Support Example Score=3.84933789305295>
+pressure	NN	B
+,	,	O
+''	''	O
+noted	VBD
+Simon	NNP
+</Support Example>
+
+<Support Example Score=3.84843599386106>
+data	NNS	I
+show	VBP	O
+the	DT	B
+economy	NN
+``	``
+</Support Example>
+
+<Support Example Score=3.84716290373387>
+Thursday	NNP	B
+,	,	O
+he	PRP	B
+reminded	VBD
+his	PRP$
+</Support Example>
+
+<Support Example Score=3.82482803122801>
+spending	NN	B
+rose	VBD	O
+0.1	CD	B
+%	NN
+in	IN
+</Support Example>
+
+<Support Example Score=3.82148049129672>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+There	EX
+'s	VBZ
+</Support Example>
+
+<Support Example Score=3.81872065211373>
+threatening	VBG	O
+to	TO	O
+fuel	VB	O
+inflation	NN
+.	.
+</Support Example>
+
+<Support Example Score=3.80702210497798>
+deregulation	NN	I
+in	IN	O
+1980	CD	B
+that	IN
+we	PRP
+</Support Example>
+
+<Support Example Score=3.78136768200298>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+The	DT	B
+sole	JJ
+limited	JJ
+</Support Example>
+
+<Support Example Score=3.77196189296311>
+bottoming	VBG	O
+out	IN	O
+,	,	O
+turning	VBG
+upward	RB
+</Support Example>
+
+<Support Example Score=3.75596992095717>
+costs	NNS	I
+to	TO	O
+decrease	VB	O
+,	,
+compared	VBN
+</Support Example>
+
+<Support Example Score=3.75532152832448>
+-1__BOS__	-1__BOS__
+Currency	NN	B
+analysts	NNS	I
+predict	VBP
+that	IN
+</Support Example>
+
+<Support Example Score=3.75365805742352>
+,	,	O
+but	CC	O
+few	JJ	B
+economists	NNS
+expect	VBP
+</Support Example>
+
+<Support Example Score=3.74526439781201>
+U.S.	NNP	B
+Federal	NNP	I
+Reserve	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.74458746280674>
+monetary	JJ	B
+policy	NN	I
+remains	VBZ	O
+unchanged	JJ
+.	.
+</Support Example>
+
+<Support Example Score=3.74236811132565>
+are	VBP	O
+over	IN	O
+for	IN	O
+shippers	NNS
+.	.
+</Support Example>
+
+<Support Example Score=3.74109446368966>
+annual	JJ	I
+,	,	I
+inter-city	JJ	I
+truck	NN
+and	CC
+</Support Example>
+
+<Support Example Score=3.73502628440838>
+than	IN	O
+consumer	NN	B
+goods	NNS	I
+should	MD
+reduce	VB
+</Support Example>
+
+<Support Example Score=3.73350605213114>
+-1__BOS__	-1__BOS__
+Analysts	NNS	B
+agree	VBP	O
+there	EX
+is	VBZ
+</Support Example>
+
+<Support Example Score=3.72504675456059>
+about	RB	B
+$	$	I
+106.6	CD	I
+million	CD
+.	.
+</Support Example>
+
+<Support Example Score=3.72090321830947>
+years	NNS	I
+when	WRB	O
+freight	NN	B
+haulage	NN
+was	VBD
+</Support Example>
+
+<Support Example Score=3.71977923636424>
+restrain	VB	O
+inflation	NN	B
+and	CC	O
+make	VB
+U.S.	NNP
+</Support Example>
+
+<Support Example Score=3.70632309322002>
+,	,	O
+they	PRP	B
+warn	VBP	O
+,	,
+any	DT
+</Support Example>
+
+<Support Example Score=3.70609988411855>
+approval	NN	I
+is	VBZ	O
+also	RB	O
+contingent	JJ
+upon	IN
+</Support Example>
+
+<Support Example Score=3.70557924578297>
+base	NN	B
+rates	NNS	I
+to	TO	O
+16	CD
+%	NN
+</Support Example>
+
+<Support Example Score=3.6973421918745>
+,	,	O
+East	NNP	B
+Rock	NNP	I
+said	VBD
+the	DT
+</Support Example>
+
+<Support Example Score=3.68518488316864>
+the	DT	B
+inflation	NN	I
+rate	NN	I
+,	,
+''	''
+</Support Example>
+
+<Support Example Score=3.68114682342605>
+Mr.	NNP	B
+Lawson	NNP	I
+warned	VBD	O
+that	IN
+a	DT
+</Support Example>
+
+<Support Example Score=3.6659224382032>
+But	CC	O
+consumer	NN	B
+expenditure	NN	I
+data	NNS
+released	VBD
+</Support Example>
+
+<Support Example Score=3.66492715666738>
+concerns	NNS	B
+about	IN	O
+equities	NNS	B
+abated	VBN
+.	.
+</Support Example>
+
+<Support Example Score=3.66319348932976>
+-1__BOS__	-1__BOS__
+Its	PRP$	B
+stock	NN	I
+closed	VBD
+at	IN
+</Support Example>
+
+<Support Example Score=3.65617650986701>
+$	$	B
+38	CD	I
+,	,	O
+up	IN
+$	$
+</Support Example>
+
+<Support Example Score=3.64486518953238>
+lot	NN	I
+of	IN	O
+pressure	NN	B
+,	,
+''	''
+</Support Example>
+
+<Support Example Score=3.6392222169922>
+Industrial	NNP	I
+Average	NNP	I
+plunged	VBD	O
+more	JJR
+than	IN
+</Support Example>
+
+<Support Example Score=3.62761457642585>
+Exchange	NNP	I
+Commission	NNP	I
+,	,	O
+said	VBD
+the	DT
+</Support Example>
+
+<Support Example Score=3.62699758244793>
+Brick	NNP	I
+and	CC	O
+Westwood	NNP	B
+Group	NNP
+are	VBP
+</Support Example>
+
+<Support Example Score=3.62482034394437>
+August	NNP	B
+'s	POS	B
+unexpected	JJ	I
+decline	NN
+,	,
+</Support Example>
+
+<Support Example Score=3.62209008286017>
+year	NN	I
+or	CC	O
+early	JJ	B
+next	JJ
+year	NN
+</Support Example>
+
+<Support Example Score=3.61755820215682>
+Dillow	NNP	I
+,	,	O
+senior	JJ	B
+U.K.	NNP
+economist	NN
+</Support Example>
+
+<Support Example Score=3.61496769462693>
+,	,	O
+''	''	O
+noted	VBD	O
+Simon	NNP
+Briscoe	NNP
+</Support Example>
+
+<Support Example Score=3.61407459457957>
+in	IN	O
+New	NNP	B
+York	NNP	I
+,	,
+gold	NN
+</Support Example>
+
+<Support Example Score=3.60816293594401>
+5.4	CD	I
+%	NN	I
+increase	NN	I
+from	IN
+the	DT
+</Support Example>
+
+<Support Example Score=3.60432026723378>
+for	IN	O
+$	$	B
+35.50	CD	I
+to	TO
+$	$
+</Support Example>
+
+<Support Example Score=3.6022285246458>
+recoup	VB	O
+some	DT	B
+of	IN	O
+the	DT
+price	NN
+</Support Example>
+
+<Support Example Score=3.59317948871393>
+-1__BOS__	-1__BOS__
+The	DT	B
+carriers	NNS	I
+were	VBD
+competing	VBG
+</Support Example>
+
+<Support Example Score=3.58632333279764>
+later	RB	O
+than	IN	O
+Oct.	NNP	B
+31	CD
+.	.
+</Support Example>
+
+<Support Example Score=3.58389391303826>
+said	VBD	O
+``	``	O
+We	PRP	B
+'ve	VBP
+gotten	VBN
+</Support Example>
+
+<Support Example Score=3.58007712305749>
+-1__BOS__	-1__BOS__
+An	DT	B
+A.P.	NNP	I
+Green	NNP
+official	NN
+</Support Example>
+
+<Support Example Score=3.57830804350148>
+competition	NN	B
+spurred	VBN	O
+by	IN	O
+deregulation	NN
+,	,
+</Support Example>
+
+<Support Example Score=3.5751726122135>
+for	IN	O
+trading	NN	B
+at	IN	O
+141.95	CD
+yen	NN
+</Support Example>
+
+<Support Example Score=3.5742984781622>
+U.K.	JJ	B
+base	NN	I
+rates	NNS	I
+are	VBP
+at	IN
+</Support Example>
+
+<Support Example Score=3.57301746371552>
+their	PRP$	B
+current	JJ	I
+15	CD	I
+%	NN
+level	NN
+</Support Example>
+
+<Support Example Score=3.56475442045987>
+deregulation	NN	B
+,	,	O
+are	VBP	O
+bottoming	VBG
+out	IN
+</Support Example>
+
+<Support Example Score=3.56403911799796>
+Partners	NNP	I
+Limited	NNP	I
+Partnership	NNP	I
+said	VBD
+it	PRP
+</Support Example>
+
+<Support Example Score=3.56148922761928>
+strong	JJ	O
+,	,	O
+''	''	O
+but	CC
+suggestions	NNS
+</Support Example>
+
+<Support Example Score=3.54389264763985>
+exchange	NN	I
+market	NN	I
+will	MD	O
+shift	VB
+its	PRP$
+</Support Example>
+
+<Support Example Score=3.53832930521478>
+to	TO	O
+both	DT	O
+ensure	VB	O
+that	IN
+a	DT
+</Support Example>
+
+<Support Example Score=3.52405783678019>
+are	VBP	O
+at	IN	O
+their	PRP$	B
+highest	JJS
+level	NN
+</Support Example>
+
+<Support Example Score=3.52368893266374>
+reminded	VBD	O
+his	PRP$	B
+audience	NN	I
+that	IN
+the	DT
+</Support Example>
+
+<Support Example Score=3.52333276345082>
+since	IN	O
+Oct.	NNP	B
+13	CD	I
+,	,
+when	WRB
+</Support Example>
+
+<Support Example Score=3.52247296456243>
+air-freight	NN	I
+companies	NNS	I
+have	VBP	O
+announced	VBN
+rate	NN
+</Support Example>
+
+<Support Example Score=3.51947158060565>
+Inc.	NNP	I
+for	IN	O
+$	$	B
+40	CD
+a	DT
+</Support Example>
+
+<Support Example Score=3.5172230715976>
+rates	NNS	I
+,	,	O
+declining	VBG	O
+for	IN
+most	RBS
+</Support Example>
+
+<Support Example Score=3.51589801701725>
+-1__BOS__	-1__BOS__
+However	RB	O
+,	,	O
+Mr.	NNP
+Dillow	NNP
+</Support Example>
+
+<Support Example Score=3.49497781883373>
+and	CC	I
+distribution	NN	I
+costs	NNS	I
+to	TO
+rise	VB
+</Support Example>
+
+<Support Example Score=3.49445250849805>
+the	DT	B
+Commodity	NNP	I
+Exchange	NNP	I
+in	IN
+New	NNP
+</Support Example>
+
+<Support Example Score=3.48046740440501>
+a	DT	B
+rate	NN	I
+``	``	O
+close	RB
+to	TO
+</Support Example>
+
+<Support Example Score=3.47527636067076>
+freight-transport	JJ	I
+system	NN	I
+,	,	O
+rising	VBG
+costs	NNS
+</Support Example>
+
+<Support Example Score=3.47323032354175>
+-1__BOS__	-1__BOS__
+The	DT	B
+sole	JJ	I
+limited	JJ
+partner	NN
+</Support Example>
+
+<Support Example Score=3.47213475670073>
+week	NN	I
+the	DT	B
+foreign	JJ	I
+exchange	NN
+market	NN
+</Support Example>
+
+<Support Example Score=3.47077818753286>
+,	,	O
+pay	VB	O
+higher	JJR	B
+fuel	NN
+costs	NNS
+</Support Example>
+
+<Support Example Score=3.46587203364563>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Less-than-truckload	JJ	B
+companies	NNS
+,	,
+</Support Example>
+
+<Support Example Score=3.46049869342665>
+-1__BOS__	-1__BOS__
+``	``	O
+Demand	NN	B
+has	VBZ
+caught	VBN
+</Support Example>
+
+<Support Example Score=3.44489708393394>
+'s	POS	B
+promise	NN	I
+that	IN	O
+rates	NNS
+will	MD
+</Support Example>
+
+<Support Example Score=3.44475218458182>
+cut	VBP	O
+about	RB	B
+$	$	I
+35	CD
+billion	CD
+</Support Example>
+
+<Support Example Score=3.44320758992454>
+Mo.	NNP	I
+,	,	I
+maker	NN	I
+of	IN
+refractory	JJ
+</Support Example>
+
+<Support Example Score=3.44184305578474>
+,	,	O
+overall	JJ	B
+evidence	NN	I
+on	IN
+the	DT
+</Support Example>
+
+<Support Example Score=3.42263272712287>
+shippers	NNS	I
+polled	VBN	O
+expected	VBN	O
+their	PRP$
+freight-transport	JJ
+</Support Example>
+
+<Support Example Score=3.41268854881262>
+Midland	NNP	B
+Bank	NNP	I
+PLC	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.40957852259026>
+-1__BOS__	-1__BOS__
+``	``	O
+The	DT	B
+risks	NNS
+for	IN
+</Support Example>
+
+<Support Example Score=3.40870136063343>
+Nigel	NNP	O
+Lawson	NNP	O
+'s	POS	B
+restated	VBN
+commitment	NN
+</Support Example>
+
+<Support Example Score=3.40755109334035>
+There	EX	B
+'s	VBZ	O
+still	RB	O
+a	DT
+lot	NN
+</Support Example>
+
+<Support Example Score=3.40633420150771>
+we	PRP	B
+have	VBP	O
+had	VBN	O
+such	JJ
+a	DT
+</Support Example>
+
+<Support Example Score=3.39125062229824>
+deficit	NN	I
+and	CC	O
+the	DT	B
+#	#
+2.2	CD
+</Support Example>
+
+<Support Example Score=3.38722060669652>
+chancellor	NN	I
+'s	POS	B
+failure	NN	I
+to	TO
+announce	VB
+</Support Example>
+
+<Support Example Score=3.38572872630878>
+for	IN	O
+sterling	NN	B
+has	VBZ	O
+been	VBN
+eroded	VBN
+</Support Example>
+
+<Support Example Score=3.37182032891995>
+said	VBD	O
+rate	NN	B
+discounting	NN	I
+in	IN
+that	DT
+</Support Example>
+
+<Support Example Score=3.35013181979083>
+1.3	CD	I
+billion	CD	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=3.34508755222867>
+pound	NN	I
+is	VBZ	O
+widely	RB	O
+expected	VBN
+to	TO
+</Support Example>
+
+<Support Example Score=3.33814586526149>
+'s	POS	B
+restated	VBN	I
+commitment	NN	I
+to	TO
+a	DT
+</Support Example>
+
+<Support Example Score=3.33184682323304>
+close	RB	O
+to	TO	O
+or	CC	O
+slightly	RB
+more	JJR
+</Support Example>
+
+<Support Example Score=3.33097460205683>
+It	PRP	B
+now	RB	O
+holds	VBZ	O
+233,000	CD
+A.P.	NNP
+</Support Example>
+
+<Support Example Score=3.32646262920085>
+discounting	NN	I
+in	IN	O
+that	DT	B
+industry	NN
+has	VBZ
+</Support Example>
+
+<Support Example Score=3.31182089164288>
+by	IN	O
+no	DT	O
+later	RB	O
+than	IN
+Oct.	NNP
+</Support Example>
+
+<Support Example Score=3.3044899311012>
+,	,	O
+he	PRP	B
+noted	VBD	O
+,	,
+``	``
+</Support Example>
+
+<Support Example Score=3.30307349878923>
+Mr.	NNP	B
+Lawson	NNP	I
+'s	POS	B
+promise	NN
+that	IN
+</Support Example>
+
+<Support Example Score=3.29098867468138>
+13	CD	I
+,	,	O
+when	WRB	O
+the	DT
+Dow	NNP
+</Support Example>
+
+<Support Example Score=3.28913974288951>
+4.7	CD	I
+%	NN	I
+rate	NN	I
+increase	NN
+implemented	VBD
+</Support Example>
+
+<Support Example Score=3.28339248489984>
+Westwood	NNP	B
+Brick	NNP	I
+Lime	NNP	I
+Inc.	NNP
+,	,
+</Support Example>
+
+<Support Example Score=3.27710390658857>
+Nomura	NNP	B
+Research	NNP	I
+Institute	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.27120455743768>
+Du	NNP	B
+Pont	NNP	I
+Co	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.25708029628763>
+No	DT	B
+one	PRP	I
+will	MD	O
+want	VB
+to	TO
+</Support Example>
+
+<Support Example Score=3.23926529510944>
+government	NN	I
+'s	POS	B
+popularity	NN	I
+could	MD
+swiftly	RB
+</Support Example>
+
+<Support Example Score=3.23884839767033>
+In	IN	O
+his	PRP$	B
+Mansion	NNP	I
+House	NNP
+speech	NN
+</Support Example>
+
+<Support Example Score=3.22651704394782>
+pressure	NN	B
+on	IN	O
+rates	NNS	B
+in	IN
+both	DT
+</Support Example>
+
+<Support Example Score=3.22507930812637>
+rate	NN	I
+weakness	NN	I
+.	.	O
+''	''
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.22482314449881>
+including	VBG	O
+30,000	CD	B
+shares	NNS	I
+bought	VBD
+last	JJ
+</Support Example>
+
+<Support Example Score=3.22397732709846>
+given	VBN	O
+continued	VBD	B
+high	JJ	I
+consumer	NN
+and	CC
+</Support Example>
+
+<Support Example Score=3.21997123403494>
+,	,	O
+a	DT	B
+Menlo	NNP	I
+Park	NNP
+,	,
+</Support Example>
+
+<Support Example Score=3.21216244553135>
+government	NN	I
+``	``	O
+can	MD	O
+not	RB
+allow	VB
+</Support Example>
+
+<Support Example Score=3.21002326764134>
+could	MD	O
+be	VB	O
+an	DT	B
+awful	JJ
+lot	NN
+</Support Example>
+
+<Support Example Score=3.19638394076104>
+-1__BOS__	-1__BOS__
+In	IN	O
+European	JJ	B
+trading	NN
+it	PRP
+</Support Example>
+
+<Support Example Score=3.19412625533802>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Foreign	JJ	B
+exchange	NN
+dealers	NNS
+</Support Example>
+
+<Support Example Score=3.18342728573773>
+East	NNP	B
+Rock	NNP	I
+Partners	NNP	I
+Limited	NNP
+Partnership	NNP
+</Support Example>
+
+<Support Example Score=3.18222416740995>
+current	JJ	I
+account	NN	I
+reported	VBD	O
+for	IN
+August	NNP
+</Support Example>
+
+<Support Example Score=3.15935620311339>
+Joshi	NNP	I
+,	,	O
+European	JJ	B
+economist	NN
+at	IN
+</Support Example>
+
+<Support Example Score=3.15501151819272>
+exports	NNS	B
+after	IN	O
+August	NNP	B
+'s	POS
+unexpected	JJ
+</Support Example>
+
+<Support Example Score=3.15022735011964>
+will	MD	O
+be	VB	O
+pushed	VBN	O
+higher	JJR
+if	IN
+</Support Example>
+
+<Support Example Score=3.14901646218044>
+other	JJ	O
+than	IN	O
+Mr.	NNP	B
+Lawson	NNP
+'s	POS
+</Support Example>
+
+<Support Example Score=3.13514766029326>
+'s	POS	O
+over	IN	O
+,	,	O
+'	''
+''	''
+</Support Example>
+
+<Support Example Score=3.12354302657783>
+economists	NNS	I
+expect	VBP	O
+the	DT	B
+data	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=3.11990312915491>
+of	IN	O
+October	NNP	B
+1988	CD	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=3.11170853818769>
+itself	PRP	B
+to	TO	O
+boost	VB	O
+exports	NNS
+.	.
+</Support Example>
+
+<Support Example Score=3.10868327509326>
+Brothers	NNPS	I
+&	CC	I
+Co.	NNP	I
+,	,
+said	VBD
+</Support Example>
+
+<Support Example Score=3.1062730734695>
+the	DT	B
+Dow	NNP	I
+Jones	NNP	I
+Industrial	NNP
+Average	NNP
+</Support Example>
+
+<Support Example Score=3.10305636918024>
+data	NNS	I
+released	VBD	O
+Friday	NNP	B
+do	VBP
+n't	RB
+</Support Example>
+
+<Support Example Score=3.08358731000798>
+remains	VBZ	O
+fairly	RB	O
+pessimistic	JJ	O
+about	IN
+the	DT
+</Support Example>
+
+<Support Example Score=3.08186138391823>
+marks	NNS	I
+from	IN	O
+$	$	B
+1.5940	CD
+and	CC
+</Support Example>
+
+<Support Example Score=3.07846290005168>
+New	NNP	B
+York-based	JJ	I
+John	NNP	I
+Kuhns	NNP
+and	CC
+</Support Example>
+
+<Support Example Score=3.07387949466682>
+,	,	I
+maker	NN	I
+of	IN	O
+refractory	JJ
+products	NNS
+</Support Example>
+
+<Support Example Score=3.05148928875053>
+``	``	O
+This	DT	B
+is	VBZ	O
+the	DT
+first	JJ
+</Support Example>
+
+<Support Example Score=3.0428051844062>
+cutting	VBG	I
+that	WDT	B
+occurred	VBD	O
+previously	RB
+.	.
+</Support Example>
+
+<Support Example Score=3.03941664270558>
+for	IN	O
+U.S.	NNP	B
+productivity	NN	I
+,	,
+helping	VBG
+</Support Example>
+
+<Support Example Score=3.0386335268464>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Carriers	NNP	B
+could	MD
+use	VB
+</Support Example>
+
+<Support Example Score=3.02903010750922>
+Dow	NNP	I
+Jones	NNP	I
+Industrial	NNP	I
+Average	NNP
+plunged	VBD
+</Support Example>
+
+<Support Example Score=3.02112369410269>
+lecturer	NN	B
+in	IN	O
+transportation	NN	B
+at	IN
+Massachusetts	NNP
+</Support Example>
+
+<Support Example Score=3.01431379147382>
+there	EX	B
+is	VBZ	O
+another	DT	B
+bad	JJ
+trade	NN
+</Support Example>
+
+<Support Example Score=3.00202356947579>
+chancellor	NN	I
+has	VBZ	O
+made	VBN	O
+it	PRP
+clear	JJ
+</Support Example>
+
+<Support Example Score=3.00199314033885>
+U.K.	NNP	I
+economy	NN	I
+is	VBZ	O
+slowing	VBG
+that	DT
+</Support Example>
+
+<Support Example Score=2.98829377224403>
+from	IN	O
+their	PRP$	B
+current	JJ	I
+15	CD
+%	NN
+</Support Example>
+
+<Support Example Score=2.98796638406232>
+two	CD	I
+competitors	NNS	I
+have	VBP	O
+announced	VBN
+similar	JJ
+</Support Example>
+
+<Support Example Score=2.97699073040884>
+for	IN	O
+freight	NN	B
+from	IN	O
+trucks	NNS
+.	.
+</Support Example>
+
+<Support Example Score=2.97539160432692>
+Green	NNP	I
+to	TO	O
+8.7	CD	B
+%	NN
+.	.
+</Support Example>
+
+<Support Example Score=2.97385072348204>
+speech	NN	I
+last	JJ	B
+Thursday	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=2.97084739339039>
+,	,	O
+'	''	O
+''	''	O
+said	VBD
+Mr.	NNP
+</Support Example>
+
+<Support Example Score=2.9529672036432>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+The	DT	B
+figures	NNS
+show	VBP
+</Support Example>
+
+<Support Example Score=2.95182930436163>
+to	TO	O
+be	VB	O
+restrained	VBN	O
+by	IN
+weakening	VBG
+</Support Example>
+
+<Support Example Score=2.9516631794814>
+on	IN	O
+services	NNS	B
+rather	RB	O
+than	IN
+consumer	NN
+</Support Example>
+
+<Support Example Score=2.94196068101877>
+in	IN	O
+Mr.	NNP	B
+Lawson	NNP	I
+'s	POS
+promise	NN
+</Support Example>
+
+<Support Example Score=2.94146970285871>
+speech	NN	I
+,	,	O
+Mr.	NNP	B
+Lawson	NNP
+warned	VBD
+</Support Example>
+
+<Support Example Score=2.92466529770613>
+stock	NN	I
+exchange	NN	I
+,	,	O
+which	WDT
+has	VBZ
+</Support Example>
+
+<Support Example Score=2.92399507575701>
+at	IN	B
+least	JJS	I
+two	CD	I
+competitors	NNS
+have	VBP
+</Support Example>
+
+<Support Example Score=2.91698110760099>
+railroads	NNS	B
+and	CC	I
+trucking	NN	I
+companies	NNS
+that	WDT
+</Support Example>
+
+<Support Example Score=2.91454111884473>
+marks	NNS	I
+late	JJ	B
+Thursday	NNP	I
+in	IN
+New	NNP
+</Support Example>
+
+<Support Example Score=2.89622965459714>
+in	IN	O
+1980	CD	B
+that	IN	O
+we	PRP
+have	VBP
+</Support Example>
+
+<Support Example Score=2.89614630216988>
+levels	NNS	I
+and	CC	O
+keen	JJ	B
+competition	NN
+for	IN
+</Support Example>
+
+<Support Example Score=2.88897176091573>
+change	NN	I
+from	IN	O
+recent	JJ	B
+years	NNS
+when	WRB
+</Support Example>
+
+<Support Example Score=2.88564354982678>
+Sterling	NNP	B
+was	VBD	O
+already	RB	O
+showing	VBG
+some	DT
+</Support Example>
+
+<Support Example Score=2.87453397709927>
+all	PDT	B
+the	DT	I
+benefits	NNS	I
+of	IN
+deregulation	NN
+</Support Example>
+
+<Support Example Score=2.87376874945168>
+trading	NN	I
+as	IN	O
+concerns	NNS	B
+about	IN
+equities	NNS
+</Support Example>
+
+<Support Example Score=2.87008890807679>
+38	CD	I
+,	,	O
+up	IN	O
+$	$
+1.875	CD
+</Support Example>
+
+<Support Example Score=2.85143425698584>
+Rock	NNP	I
+Partners	NNP	I
+Limited	NNP	I
+Partnership	NNP
+said	VBD
+</Support Example>
+
+<Support Example Score=2.8446811372553>
+fundamentals	NNS	I
+,	,	O
+keeping	VBG	O
+a	DT
+close	NN
+</Support Example>
+
+<Support Example Score=2.84381139250234>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+In	IN	O
+his	PRP$
+Mansion	NNP
+</Support Example>
+
+<Support Example Score=2.84008317955794>
+2.9495	CD	B
+marks	NNS	I
+from	IN	O
+$	$
+1.5940	CD
+</Support Example>
+
+<Support Example Score=2.83784291990001>
+-1__BOS__	-1__BOS__
+In	IN	O
+his	PRP$	B
+Mansion	NNP
+House	NNP
+</Support Example>
+
+<Support Example Score=2.83296524509894>
+starting	VBG	O
+to	TO	O
+see	VB	O
+real	JJ
+freight-rate	JJ
+</Support Example>
+
+<Support Example Score=2.83281278388844>
+wo	MD	O
+n't	RB	O
+be	VB	O
+able	JJ
+to	TO
+</Support Example>
+
+<Support Example Score=2.82685134945639>
+Nevertheless	RB	O
+,	,	O
+he	PRP	B
+noted	VBD
+,	,
+</Support Example>
+
+<Support Example Score=2.82406788700355>
+Oct.	NNP	I
+19	CD	I
+letter	NN	I
+to	TO
+A.P.	NNP
+</Support Example>
+
+<Support Example Score=2.8206157232344>
+suggestions	NNS	B
+that	IN	O
+much	NN	B
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=2.79863818263989>
+higher	JJR	B
+freight	NN	I
+rates	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=2.79776071025258>
+haulage	NN	I
+was	VBD	O
+a	DT	B
+bright	JJ
+spot	NN
+</Support Example>
+
+<Support Example Score=2.79621379962554>
+You	PRP	B
+'ll	MD	O
+see	VB	O
+carriers	NNS
+try	VB
+</Support Example>
+
+<Support Example Score=2.79557355253332>
+is	VBZ	O
+no	DT	B
+sign	NN	I
+that	IN
+Britain	NNP
+</Support Example>
+
+<Support Example Score=2.79193777379639>
+expect	VBP	O
+freight	NN	B
+rates	NNS	I
+to	TO
+rise	VB
+</Support Example>
+
+<Support Example Score=2.78551820155711>
+consumer	NN	B
+goods	NNS	I
+should	MD	O
+reduce	VB
+fears	NNS
+</Support Example>
+
+<Support Example Score=2.78318422502295>
+to	TO	O
+be	VB	O
+reflected	VBN	O
+directly	RB
+in	IN
+</Support Example>
+
+<Support Example Score=2.77097356959712>
+,	,	O
+the	DT	B
+sole	JJ	I
+general	JJ
+partner	NN
+</Support Example>
+
+<Support Example Score=2.77012851698199>
+Westwood	NNP	B
+Group	NNP	I
+are	VBP	O
+based	VBN
+in	IN
+</Support Example>
+
+<Support Example Score=2.74216094294956>
+U.S.	NNP	I
+currency	NN	I
+opened	VBD	O
+for	IN
+trading	NN
+</Support Example>
+
+<Support Example Score=2.73973945770338>
+make	VB	O
+U.S.	NNP	B
+industry	NN	I
+more	RBR
+competitive	JJ
+</Support Example>
+
+<Support Example Score=2.71098620197799>
+bad	JJ	I
+trade	NN	I
+figure	NN	I
+are	VBP
+very	RB
+</Support Example>
+
+<Support Example Score=2.71097473012355>
+16	CD	B
+%	NN	I
+,	,	O
+both	DT
+to	TO
+</Support Example>
+
+<Support Example Score=2.70848301912386>
+$	$	B
+40	CD	I
+a	DT	B
+share	NN
+.	.
+</Support Example>
+
+<Support Example Score=2.70803202488523>
+begun	VBN	O
+to	TO	O
+distance	VB	O
+itself	PRP
+from	IN
+</Support Example>
+
+<Support Example Score=2.70776748850236>
+sterling	NN	B
+,	,	O
+the	DT	B
+currency	NN
+wo	MD
+</Support Example>
+
+<Support Example Score=2.70140108452995>
+by	IN	O
+industry	NN	B
+could	MD	O
+lead	VB
+to	TO
+</Support Example>
+
+<Support Example Score=2.70071238826025>
+Industries	NNP	I
+Inc.	NNP	I
+for	IN	O
+$	$
+40	CD
+</Support Example>
+
+<Support Example Score=2.69453833819415>
+-1__BOS__	-1__BOS__
+Economists	NNS	B
+suggested	VBD	O
+that	IN
+if	IN
+</Support Example>
+
+<Support Example Score=2.69429810511237>
+announced	VBN	O
+rate	NN	B
+increases	NNS	I
+,	,
+scheduled	VBN
+</Support Example>
+
+<Support Example Score=2.6936503214379>
+``	``	O
+There	EX	B
+'s	VBZ	O
+still	RB
+a	DT
+</Support Example>
+
+<Support Example Score=2.6760524799503>
+perceived	VBN	B
+transportation	NN	I
+rates	NNS	I
+,	,
+''	''
+</Support Example>
+
+<Support Example Score=2.67570391069153>
+Mass.	NNP	B
+,	,	O
+said	VBD	O
+``	``
+We	PRP
+</Support Example>
+
+<Support Example Score=2.67542724599563>
+trade	NN	I
+figures	NNS	I
+are	VBP	O
+bullish	JJ
+for	IN
+</Support Example>
+
+<Support Example Score=2.67518603588261>
+the	DT	B
+New	NNP	I
+York	NNP	I
+trading	NN
+day	NN
+</Support Example>
+
+<Support Example Score=2.67464222463303>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+The	DT
+risks	NNS
+</Support Example>
+
+<Support Example Score=2.67016073038507>
+the	DT	B
+government	NN	I
+``	``	O
+can	MD
+not	RB
+</Support Example>
+
+<Support Example Score=2.66840670691695>
+director	NN	B
+of	IN	O
+logistics	NNS	B
+at	IN
+Du	NNP
+</Support Example>
+
+<Support Example Score=2.66661382165238>
+Sanjay	NNP	B
+Joshi	NNP	I
+,	,	O
+European	JJ
+economist	NN
+</Support Example>
+
+<Support Example Score=2.66586336941432>
+increase	VB	O
+rates	NNS	B
+to	TO	O
+16	CD
+%	NN
+</Support Example>
+
+<Support Example Score=2.66485076470838>
+The	DT	B
+figures	NNS	I
+show	VBP	O
+that	DT
+spending	NN
+</Support Example>
+
+<Support Example Score=2.64371548428817>
+storage	NN	I
+and	CC	I
+distribution	NN	I
+costs	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=2.64304861689276>
+his	PRP$	B
+Mansion	NNP	I
+House	NNP	I
+speech	NN
+last	JJ
+</Support Example>
+
+<Support Example Score=2.64263154834196>
+sign	NN	I
+that	IN	O
+Britain	NNP	B
+'s	POS
+manufacturing	NN
+</Support Example>
+
+<Support Example Score=2.63459702989478>
+-1__BOS__	-1__BOS__
+``	``	O
+This	DT	B
+is	VBZ
+the	DT
+</Support Example>
+
+<Support Example Score=2.63365771595135>
+,	,	O
+Mr.	NNP	B
+Dillow	NNP	I
+said	VBD
+he	PRP
+</Support Example>
+
+<Support Example Score=2.62514735092954>
+a	DT	B
+merger	NN	I
+agreement	NN	I
+by	IN
+no	DT
+</Support Example>
+
+<Support Example Score=2.62401205597951>
+1.875	CD	I
+,	,	O
+in	IN	O
+national	JJ
+over-the-counter	JJ
+</Support Example>
+
+<Support Example Score=2.62373479091436>
+increase	VB	O
+base	NN	B
+rates	NNS	I
+to	TO
+16	CD
+</Support Example>
+
+<Support Example Score=2.61298537841604>
+this	DT	I
+year	NN	I
+or	CC	O
+early	JJ
+next	JJ
+</Support Example>
+
+<Support Example Score=2.6111724459807>
+who	WP	B
+had	VBD	O
+looked	VBN	O
+to	TO
+freight	VB
+</Support Example>
+
+<Support Example Score=2.61033191474265>
+earlier	RBR	B
+this	DT	I
+month	NN	I
+takes	VBZ
+effect	NN
+</Support Example>
+
+<Support Example Score=2.60621445198836>
+further	JJ	I
+slowdown	NN	I
+can	MD	O
+be	VB
+expected	VBN
+</Support Example>
+
+<Support Example Score=2.60620107175063>
+company	NN	I
+is	VBZ	O
+a	DT	B
+Mexico	NNP
+,	,
+</Support Example>
+
+<Support Example Score=2.60380236020985>
+his	PRP$	B
+Mansion	NNP	I
+House	NNP	I
+speech	NN
+,	,
+</Support Example>
+
+<Support Example Score=2.59875373175994>
+for	IN	O
+offsetting	VBG	O
+cost	NN	B
+increases	NNS
+in	IN
+</Support Example>
+
+<Support Example Score=2.59152510730615>
+#	#	I
+2	CD	I
+billion	CD	I
+-LRB-	(
+$	$
+</Support Example>
+
+<Support Example Score=2.59104707691843>
+is	VBZ	O
+Westwood	NNP	B
+Brick	NNP	I
+Lime	NNP
+Inc.	NNP
+</Support Example>
+
+<Support Example Score=2.59025817375618>
+that	IN	O
+it	PRP	B
+boosted	VBD	O
+its	PRP$
+stake	NN
+</Support Example>
+
+<Support Example Score=2.58856554906883>
+has	VBZ	O
+begun	VBN	O
+to	TO	O
+``	``
+stabilize	VB
+</Support Example>
+
+<Support Example Score=2.58572785830565>
+-1__BOS__	-1__BOS__
+U.K.	JJ	B
+base	NN	I
+rates	NNS
+are	VBP
+</Support Example>
+
+<Support Example Score=2.57386746221367>
+in	IN	O
+Hong	NNP	B
+Kong	NNP	I
+Monday	NNP
+,	,
+</Support Example>
+
+<Support Example Score=2.57017362844014>
+proposal	NN	I
+values	VBZ	O
+the	DT	B
+company	NN
+at	IN
+</Support Example>
+
+<Support Example Score=2.56751605505783>
+-1__BOS__	-1__BOS__
+Freight	NN	B
+rates	NNS	I
+,	,
+declining	VBG
+</Support Example>
+
+<Support Example Score=2.5627774313684>
+awful	JJ	I
+lot	NN	I
+of	IN	O
+pressure	NN
+,	,
+</Support Example>
+
+<Support Example Score=2.55173311742653>
+,	,	O
+which	WDT	B
+carry	VBP	O
+the	DT
+freight	NN
+</Support Example>
+
+<Support Example Score=2.5494532960028>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+The	DT	B
+U.S.	NNP
+currency	NN
+</Support Example>
+
+<Support Example Score=2.54314222642428>
+and	CC	O
+make	VB	O
+U.S.	NNP	B
+industry	NN
+more	RBR
+</Support Example>
+
+<Support Example Score=2.53764857369351>
+Friday	NNP	B
+do	VBP	O
+n't	RB	O
+suggest	VB
+that	IN
+</Support Example>
+
+<Support Example Score=2.52001184241297>
+economist	NN	I
+at	IN	O
+Baring	NNP	B
+Brothers	NNPS
+&	CC
+</Support Example>
+
+<Support Example Score=2.50689792399548>
+but	CC	O
+suggestions	NNS	B
+that	IN	O
+much	NN
+of	IN
+</Support Example>
+
+<Support Example Score=2.50570894948024>
+each	DT	B
+truck	NN	I
+trailer	NN	I
+,	,
+discounted	VBD
+</Support Example>
+
+<Support Example Score=2.50338258737173>
+State	NNP	I
+University	NNP	I
+said	VBD	O
+they	PRP
+expect	VBP
+</Support Example>
+
+<Support Example Score=2.50316004454814>
+GNP	NNP	B
+in	IN	O
+1981	CD	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=2.50274840364013>
+if	IN	O
+trade	NN	B
+figures	NNS	I
+for	IN
+September	NNP
+</Support Example>
+
+<Support Example Score=2.48796319639703>
+settled	VBD	O
+at	IN	O
+$	$	B
+367.30	CD
+an	DT
+</Support Example>
+
+<Support Example Score=2.48458822986459>
+and	CC	I
+air-freight	NN	I
+companies	NNS	I
+have	VBP
+announced	VBN
+</Support Example>
+
+<Support Example Score=2.48395548798528>
+%	NN	I
+who	WP	B
+had	VBD	O
+looked	VBN
+to	TO
+</Support Example>
+
+<Support Example Score=2.48296743157528>
+and	CC	I
+rail	NN	I
+costs	NNS	I
+,	,
+to	TO
+</Support Example>
+
+<Support Example Score=2.47895216629211>
+However	RB	O
+,	,	O
+Mr.	NNP	B
+Dillow	NNP
+said	VBD
+</Support Example>
+
+<Support Example Score=2.45473343725151>
+30,000	CD	B
+shares	NNS	I
+bought	VBD	O
+last	JJ
+Thursday	NNP
+</Support Example>
+
+<Support Example Score=2.44657991251224>
+''	''	O
+noted	VBD	O
+Simon	NNP	B
+Briscoe	NNP
+,	,
+</Support Example>
+
+<Support Example Score=2.44501060555466>
+increases	NNS	I
+are	VBP	O
+likely	JJ	O
+to	TO
+be	VB
+</Support Example>
+
+<Support Example Score=2.44366183076739>
+The	DT	B
+U.S.	NNP	I
+currency	NN	I
+was	VBD
+also	RB
+</Support Example>
+
+<Support Example Score=2.43357064103554>
+fall	NN	I
+or	CC	O
+early	JJ	B
+next	JJ
+year	NN
+</Support Example>
+
+<Support Example Score=2.42633849029539>
+We	PRP	B
+'ve	VBP	O
+gotten	VBN	O
+all	PDT
+the	DT
+</Support Example>
+
+<Support Example Score=2.42523706384189>
+'s	POS	B
+failure	NN	I
+to	TO	O
+announce	VB
+any	DT
+</Support Example>
+
+<Support Example Score=2.42262018225296>
+rate	NN	I
+increase	NN	I
+implemented	VBD	O
+last	JJ
+April	NNP
+</Support Example>
+
+<Support Example Score=2.42170886305389>
+106.6	CD	I
+million	CD	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=2.42114689599485>
+volume	NN	I
+was	VBD	O
+a	DT	B
+light	NN
+2.4	CD
+</Support Example>
+
+<Support Example Score=2.40106291731958>
+figures	NNS	I
+range	VBP	O
+widely	RB	O
+,	,
+but	CC
+</Support Example>
+
+<Support Example Score=2.3947463623879>
+Ohio	NNP	B
+State	NNP	I
+in	IN	O
+Columbus	NNP
+.	.
+</Support Example>
+
+<Support Example Score=2.39118157442519>
+to	TO	O
+raise	VB	O
+its	PRP$	B
+rates	NNS
+5.3	CD
+</Support Example>
+
+<Support Example Score=2.38914180638199>
+If	IN	O
+there	EX	B
+is	VBZ	O
+another	DT
+bad	JJ
+</Support Example>
+
+<Support Example Score=2.38767933585835>
+delivery	NN	I
+settled	VBD	O
+at	IN	O
+$	$
+367.30	CD
+</Support Example>
+
+<Support Example Score=2.38562444411915>
+fuel	NN	I
+costs	NNS	I
+and	CC	O
+pay	VB
+more	JJR
+</Support Example>
+
+<Support Example Score=2.38057679111374>
+much	JJ	B
+below	IN	O
+2.90	CD	B
+marks	NNS
+,	,
+</Support Example>
+
+<Support Example Score=2.37805281014583>
+stock	NN	I
+closed	VBD	O
+at	IN	O
+$	$
+38	CD
+</Support Example>
+
+<Support Example Score=2.37124873351239>
+to	TO	O
+see	VB	O
+further	JJ	B
+evidence	NN
+of	IN
+</Support Example>
+
+<Support Example Score=2.35343445637195>
+because	IN	O
+of	IN	O
+competition	NN	B
+spurred	VBN
+by	IN
+</Support Example>
+
+<Support Example Score=2.35199096508727>
+that	WDT	B
+occurred	VBD	O
+previously	RB	O
+.	.
+''	''
+</Support Example>
+
+<Support Example Score=2.33918275528302>
+equipment	NN	I
+more	RBR	O
+efficiently	RB	O
+,	,
+leading	VBG
+</Support Example>
+
+<Support Example Score=2.33743824597835>
+shares	NNS	I
+bought	VBD	O
+last	JJ	B
+Thursday	NNP
+for	IN
+</Support Example>
+
+<Support Example Score=2.3310813587168>
+and	CC	I
+trucking	NN	I
+companies	NNS	I
+that	WDT
+began	VBD
+</Support Example>
+
+<Support Example Score=2.32660048064006>
+2.2	CD	I
+billion	CD	I
+gap	NN	I
+registered	VBN
+in	IN
+</Support Example>
+
+<Support Example Score=2.32079567684098>
+Lawson	NNP	I
+'s	POS	B
+promise	NN	I
+Friday	NNP
+.	.
+</Support Example>
+
+<Support Example Score=2.31914902465169>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Robert	NNP	B
+Delaney	NNP
+,	,
+</Support Example>
+
+<Support Example Score=2.31820844805101>
+to	TO	O
+acquire	VB	O
+A.P.	NNP	B
+Green	NNP
+Industries	NNP
+</Support Example>
+
+<Support Example Score=2.30529966888348>
+Massachusetts	NNP	B
+Institute	NNP	I
+of	IN	O
+Technology	NNP
+.	.
+</Support Example>
+
+<Support Example Score=2.30437060302456>
+inflation	NN	B
+and	CC	O
+maybe	RB	O
+faster	RBR
+in	IN
+</Support Example>
+
+<Support Example Score=2.30104359486458>
+there	EX	B
+is	VBZ	O
+no	DT	B
+sign	NN
+that	IN
+</Support Example>
+
+<Support Example Score=2.30083213592226>
+said	VBD	O
+Gerard	NNP	B
+McCullough	NNP	I
+,	,
+lecturer	NN
+</Support Example>
+
+<Support Example Score=2.29271731535616>
+Estimated	VBN	B
+volume	NN	I
+was	VBD	O
+a	DT
+light	NN
+</Support Example>
+
+<Support Example Score=2.28787047883841>
+or	CC	O
+about	IN	B
+6.4	CD	I
+%	NN
+of	IN
+</Support Example>
+
+<Support Example Score=2.28394167089514>
+Green	NNP	I
+official	NN	I
+declined	VBD	O
+to	TO
+comment	VB
+</Support Example>
+
+<Support Example Score=2.2762593593578>
+said	VBD	O
+Clifford	NNP	B
+Sayre	NNP	I
+,	,
+director	NN
+</Support Example>
+
+<Support Example Score=2.27618828785479>
+in	IN	O
+exports	NNS	B
+after	IN	O
+August	NNP
+'s	POS
+</Support Example>
+
+<Support Example Score=2.26850125140102>
+services	NNS	B
+rather	RB	O
+than	IN	O
+consumer	NN
+goods	NNS
+</Support Example>
+
+<Support Example Score=2.26633919275092>
+could	MD	O
+use	VB	O
+their	PRP$	B
+equipment	NN
+more	RBR
+</Support Example>
+
+<Support Example Score=2.26542227026714>
+reflecting	VBG	O
+higher	JJR	B
+costs	NNS	I
+and	CC
+tightened	VBD
+</Support Example>
+
+<Support Example Score=2.26394302888378>
+Commission	NNP	I
+,	,	O
+said	VBD	O
+the	DT
+approval	NN
+</Support Example>
+
+<Support Example Score=2.26204815404859>
+as	IN	O
+concerns	NNS	B
+about	IN	O
+equities	NNS
+abated	VBN
+</Support Example>
+
+<Support Example Score=2.26083730862683>
+Mr.	NNP	B
+Dillow	NNP	I
+said	VBD	O
+he	PRP
+believes	VBZ
+</Support Example>
+
+<Support Example Score=2.25942519798494>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Sterling	NNP	B
+was	VBD
+already	RB
+</Support Example>
+
+<Support Example Score=2.25155710383204>
+that	IN	O
+we	PRP	B
+have	VBP	O
+had	VBN
+such	JJ
+</Support Example>
+
+<Support Example Score=2.24644289815018>
+transforming	VBG	O
+itself	PRP	B
+to	TO	O
+boost	VB
+exports	NNS
+</Support Example>
+
+<Support Example Score=2.2433997435008>
+industry	NN	I
+is	VBZ	O
+transforming	VBG	O
+itself	PRP
+to	TO
+</Support Example>
+
+<Support Example Score=2.2381656801477>
+commitment	NN	I
+to	TO	O
+a	DT	B
+firm	NN
+monetary	JJ
+</Support Example>
+
+<Support Example Score=2.2348950129452>
+showing	VBG	O
+some	DT	B
+signs	NNS	I
+of	IN
+a	DT
+</Support Example>
+
+<Support Example Score=2.23208570112142>
+outlook	NN	I
+for	IN	O
+imports	NNS	B
+,	,
+given	VBN
+</Support Example>
+
+<Support Example Score=2.2298462487498>
+and	CC	O
+rates	NNS	B
+are	VBP	O
+starting	VBG
+to	TO
+</Support Example>
+
+<Support Example Score=2.22256829480374>
+a	DT	B
+lot	NN	I
+of	IN	O
+pressure	NN
+on	IN
+</Support Example>
+
+<Support Example Score=2.22023754598412>
+volatile	JJ	I
+stock	NN	I
+exchange	NN	I
+,	,
+which	WDT
+</Support Example>
+
+<Support Example Score=2.20857786092182>
+in	IN	O
+national	JJ	B
+over-the-counter	JJ	I
+trading	NN
+.	.
+</Support Example>
+
+<Support Example Score=2.19266050904101>
+-1__BOS__	-1__BOS__
+Shippers	NNS	B
+cut	VBP	O
+about	RB
+$	$
+</Support Example>
+
+<Support Example Score=2.19211060585909>
+look	VB	O
+for	IN	O
+transportation-cost	JJ	B
+savings	NNS
+as	IN
+</Support Example>
+
+<Support Example Score=2.19085689112683>
+-1__BOS__	-1__BOS__
+Major	JJ	B
+shippers	NNS	I
+say	VBP
+they	PRP
+</Support Example>
+
+<Support Example Score=2.18731730031504>
+Oct.	NNP	B
+13	CD	I
+,	,	O
+when	WRB
+the	DT
+</Support Example>
+
+<Support Example Score=2.17460327057828>
+He	PRP	B
+reckons	VBZ	O
+the	DT	B
+current	JJ
+account	NN
+</Support Example>
+
+<Support Example Score=2.17375584528051>
+``	``	O
+If	IN	O
+there	EX	B
+is	VBZ
+another	DT
+</Support Example>
+
+<Support Example Score=2.17228098010443>
+carriers	NNS	B
+try	VB	O
+to	TO	O
+recoup	VB
+some	DT
+</Support Example>
+
+<Support Example Score=2.16597200052757>
+rates	NNS	I
+5.3	CD	B
+%	NN	I
+late	JJ
+this	DT
+</Support Example>
+
+<Support Example Score=2.15754813356154>
+truck	NN	I
+trailer	NN	I
+,	,	O
+discounted	VBD
+away	RB
+</Support Example>
+
+<Support Example Score=2.15739026809768>
+spending	NN	I
+went	VBD	O
+on	IN	O
+services	NNS
+rather	RB
+</Support Example>
+
+<Support Example Score=2.15111867974133>
+there	EX	B
+could	MD	O
+be	VB	O
+an	DT
+awful	JJ
+</Support Example>
+
+<Support Example Score=2.14373035364055>
+or	CC	O
+early	JJ	B
+next	JJ	I
+year	NN
+,	,
+</Support Example>
+
+<Support Example Score=2.14214876667687>
+But	CC	O
+analysts	NNS	B
+reckon	VBP	O
+underlying	VBG
+support	NN
+</Support Example>
+
+<Support Example Score=2.14092644843885>
+Freightways	NNP	I
+plans	VBZ	O
+to	TO	O
+raise	VB
+its	PRP$
+</Support Example>
+
+<Support Example Score=2.13771900734595>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+The	DT	B
+August	NNP
+deficit	NN
+</Support Example>
+
+<Support Example Score=2.12949742824927>
+the	DT	B
+sole	JJ	I
+general	JJ	I
+partner	NN
+of	IN
+</Support Example>
+
+<Support Example Score=2.12740895430053>
+last	JJ	B
+April	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=2.12715919094272>
+of	IN	O
+Technology	NNP	B
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=2.12528837262733>
+Carriers	NNP	B
+could	MD	O
+use	VB	O
+their	PRP$
+equipment	NN
+</Support Example>
+
+<Support Example Score=2.11882686034579>
+balance	NN	I
+of	IN	O
+monetary	JJ	B
+policy	NN
+remains	VBZ
+</Support Example>
+
+<Support Example Score=2.1152453270182>
+the	DT	B
+#	#	I
+2	CD	I
+billion	CD
+-LRB-	(
+</Support Example>
+
+<Support Example Score=2.1150851200846>
+interest	NN	B
+rates	NNS	I
+again	RB	O
+if	IN
+necessary	JJ
+</Support Example>
+
+<Support Example Score=2.11015488212952>
+that	IN	O
+the	DT	B
+good	JJ	I
+times	NNS
+are	VBP
+</Support Example>
+
+<Support Example Score=2.10603420311999>
+-1__BOS__	-1__BOS__
+Mr.	NNP	B
+Dillow	NNP	I
+said	VBD
+the	DT
+</Support Example>
+
+<Support Example Score=2.09784299512456>
+pushed	VBN	O
+higher	JJR	O
+if	IN	O
+necessary	JJ
+.	.
+</Support Example>
+
+<Support Example Score=2.09662671386039>
+on	IN	O
+Monday	NNP	B
+,	,	O
+the	DT
+U.S.	NNP
+</Support Example>
+
+<Support Example Score=2.08446340469073>
+reported	VBD	O
+for	IN	O
+August	NNP	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=2.08219730961201>
+sterling	NN	B
+has	VBZ	O
+been	VBN	O
+eroded	VBN
+by	IN
+</Support Example>
+
+<Support Example Score=2.08063548379506>
+said	VBD	O
+it	PRP	B
+proposed	VBD	O
+to	TO
+acquire	VB
+</Support Example>
+
+<Support Example Score=2.06646856308043>
+costs	NNS	I
+are	VBP	O
+likely	JJ	O
+to	TO
+be	VB
+</Support Example>
+
+<Support Example Score=2.06081389804533>
+billion	CD	I
+-RRB-	)	I
+deficit	NN	I
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=2.05844086248187>
+Transport	NN	B
+rates	NNS	I
+wo	MD	O
+n't	RB
+be	VB
+</Support Example>
+
+<Support Example Score=2.05154263127454>
+8	CD	B
+%	NN	I
+of	IN	O
+GNP	NNP
+in	IN
+</Support Example>
+
+<Support Example Score=2.04996007773915>
+''	''	O
+said	VBD	O
+Mr.	NNP	B
+LaLonde	NNP
+.	.
+</Support Example>
+
+<Support Example Score=2.04483229081334>
+,	,	I
+shipping	VBG	I
+and	CC	I
+air-freight	NN
+companies	NNS
+</Support Example>
+
+<Support Example Score=2.03917608730005>
+as	IN	I
+#	#	I
+1.3	CD	I
+billion	CD
+.	.
+</Support Example>
+
+<Support Example Score=2.03893709547889>
+are	VBP	O
+bottoming	VBG	O
+out	IN	O
+,	,
+turning	VBG
+</Support Example>
+
+<Support Example Score=2.03746634542976>
+of	IN	O
+Midland	NNP	B
+Bank	NNP	I
+PLC	NNP
+.	.
+</Support Example>
+
+<Support Example Score=2.03583041596855>
+at	IN	O
+about	RB	B
+$	$	I
+106.6	CD
+million	CD
+</Support Example>
+
+<Support Example Score=2.0339411311775>
+could	MD	O
+lead	VB	O
+to	TO	O
+a	DT
+sharp	JJ
+</Support Example>
+
+<Support Example Score=2.02345914206978>
+use	VB	O
+their	PRP$	B
+equipment	NN	I
+more	RBR
+efficiently	RB
+</Support Example>
+
+<Support Example Score=2.02104727398301>
+last	JJ	I
+rise	NN	I
+in	IN	O
+interest	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=2.01758059514348>
+Its	PRP$	B
+stock	NN	I
+closed	VBD	O
+at	IN
+$	$
+</Support Example>
+
+<Support Example Score=2.01582065013103>
+decrease	VB	O
+,	,	O
+compared	VBN	O
+with	IN
+30	CD
+</Support Example>
+
+<Support Example Score=2.01074966698425>
+highest	JJS	I
+level	NN	I
+in	IN	O
+eight	CD
+years	NNS
+</Support Example>
+
+<Support Example Score=2.00326962462325>
+Not	RB	B
+everyone	NN	I
+believes	VBZ	O
+that	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.98760267119099>
+In	IN	O
+European	JJ	B
+trading	NN	I
+it	PRP
+declined	VBD
+</Support Example>
+
+<Support Example Score=1.97561529695614>
+economy	NN	I
+``	``	O
+is	VBZ	O
+still	RB
+quite	RB
+</Support Example>
+
+<Support Example Score=1.96225399519487>
+Group	NNP	I
+are	VBP	O
+based	VBN	O
+in	IN
+Boston	NNP
+</Support Example>
+
+<Support Example Score=1.95035675086867>
+Chris	NNP	B
+Dillow	NNP	I
+,	,	O
+senior	JJ
+U.K.	NNP
+</Support Example>
+
+<Support Example Score=1.94503101109289>
+fast	RB	O
+as	IN	O
+inflation	NN	B
+and	CC
+maybe	RB
+</Support Example>
+
+<Support Example Score=1.94343561971767>
+University	NNP	I
+said	VBD	O
+they	PRP	B
+expect	VBP
+their	PRP$
+</Support Example>
+
+<Support Example Score=1.94126363627096>
+figures	NNS	I
+for	IN	O
+September	NNP	B
+,	,
+due	JJ
+</Support Example>
+
+<Support Example Score=1.94089106010227>
+the	DT	B
+currency	NN	I
+wo	MD	O
+n't	RB
+advance	VB
+</Support Example>
+
+<Support Example Score=1.93635438309445>
+which	WDT	B
+has	VBZ	O
+preoccupied	VBN	O
+the	DT
+market	NN
+</Support Example>
+
+<Support Example Score=1.93441613016633>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+A.P.	NNP	B
+Green	NNP
+currently	RB
+</Support Example>
+
+<Support Example Score=1.92837277734035>
+less-than-truckload	JJ	I
+carrier	NN	I
+,	,	O
+said	VBD
+rate	NN
+</Support Example>
+
+<Support Example Score=1.92657735255849>
+bad	JJ	I
+trade	NN	I
+number	NN	I
+,	,
+there	EX
+</Support Example>
+
+<Support Example Score=1.91257752806042>
+to	TO	O
+increase	VB	O
+interest	NN	B
+rates	NNS
+again	RB
+</Support Example>
+
+<Support Example Score=1.91221327746518>
+Shippers	NNS	B
+wo	MD	O
+n't	RB	O
+be	VB
+able	JJ
+</Support Example>
+
+<Support Example Score=1.91149911286589>
+And	CC	O
+,	,	O
+they	PRP	B
+warn	VBP
+,	,
+</Support Example>
+
+<Support Example Score=1.89807751703925>
+rising	VBG	B
+costs	NNS	I
+are	VBP	O
+likely	JJ
+to	TO
+</Support Example>
+
+<Support Example Score=1.88834418520441>
+than	IN	O
+Oct.	NNP	B
+31	CD	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=1.88624510103076>
+a	DT	B
+transportation	NN	I
+logistics	NNS	I
+professor	NN
+at	IN
+</Support Example>
+
+<Support Example Score=1.86950966625109>
+of	IN	O
+pressure	NN	B
+on	IN	O
+rates	NNS
+in	IN
+</Support Example>
+
+<Support Example Score=1.86891624006788>
+currency	NN	I
+opened	VBD	O
+for	IN	O
+trading	NN
+at	IN
+</Support Example>
+
+<Support Example Score=1.86707729080619>
+turning	VBG	O
+upward	RB	O
+and	CC	O
+threatening	VBG
+to	TO
+</Support Example>
+
+<Support Example Score=1.86425662521629>
+,	,	O
+there	EX	B
+could	MD	O
+be	VB
+an	DT
+</Support Example>
+
+<Support Example Score=1.85349730336094>
+``	``	O
+We	PRP	B
+'ve	VBP	O
+gotten	VBN
+all	PDT
+</Support Example>
+
+<Support Example Score=1.85332414546079>
+substantial	JJ	I
+slowdown	NN	I
+does	VBZ	O
+take	VB
+place	NN
+</Support Example>
+
+<Support Example Score=1.84677210957498>
+to	TO	O
+restrain	VB	O
+inflation	NN	B
+and	CC
+make	VB
+</Support Example>
+
+<Support Example Score=1.84126335209052>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+An	DT	B
+official	NN
+at	IN
+</Support Example>
+
+<Support Example Score=1.82679861490342>
+'	''	O
+''	''	O
+said	VBD	O
+Mr.	NNP
+LaLonde	NNP
+</Support Example>
+
+<Support Example Score=1.81677716485737>
+,	,	O
+lecturer	NN	B
+in	IN	O
+transportation	NN
+at	IN
+</Support Example>
+
+<Support Example Score=1.81600222574257>
+8.7	CD	B
+%	NN	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.81556416082076>
+restated	VBN	I
+commitment	NN	I
+to	TO	O
+a	DT
+firm	NN
+</Support Example>
+
+<Support Example Score=1.81214874029003>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Sanjay	NNP	B
+Joshi	NNP
+,	,
+</Support Example>
+
+<Support Example Score=1.81010943911544>
+#	#	I
+1.3	CD	I
+billion	CD	I
+current	JJ
+account	NN
+</Support Example>
+
+<Support Example Score=1.80624232645868>
+Dillow	NNP	I
+said	VBD	O
+he	PRP	B
+believes	VBZ
+that	IN
+</Support Example>
+
+<Support Example Score=1.80335966094758>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+On	IN	O
+the	DT
+Commodity	NNP
+</Support Example>
+
+<Support Example Score=1.80281351316346>
+costs	NNS	I
+to	TO	O
+rise	VB	O
+about	IN
+4	CD
+</Support Example>
+
+<Support Example Score=1.79887809704748>
+trade	NN	I
+figures	NNS	I
+range	VBP	O
+widely	RB
+,	,
+</Support Example>
+
+<Support Example Score=1.7944927367121>
+a	DT	B
+freefall	NN	I
+in	IN	O
+sterling	NN
+over	IN
+</Support Example>
+
+<Support Example Score=1.77952223657929>
+#	#	I
+1.8	CD	I
+billion	CD	I
+in	IN
+September	NNP
+</Support Example>
+
+<Support Example Score=1.77936372447946>
+-1__BOS__	-1__BOS__
+An	DT	B
+official	NN	I
+at	IN
+Consolidated	NNP
+</Support Example>
+
+<Support Example Score=1.77378788929516>
+if	IN	O
+necessary	JJ	O
+to	TO	O
+both	DT
+ensure	VB
+</Support Example>
+
+<Support Example Score=1.75500073116781>
+This	DT	B
+is	VBZ	O
+the	DT	B
+first	JJ
+year	NN
+</Support Example>
+
+<Support Example Score=1.7514834910048>
+,	,	O
+he	PRP	B
+reminded	VBD	O
+his	PRP$
+audience	NN
+</Support Example>
+
+<Support Example Score=1.74836682258809>
+2.9429	CD	B
+marks	NNS	I
+late	JJ	B
+Thursday	NNP
+.	.
+</Support Example>
+
+<Support Example Score=1.74799817626621>
+side	NN	I
+,	,	O
+''	''	O
+said	VBD
+Chris	NNP
+</Support Example>
+
+<Support Example Score=1.74676984565173>
+,	,	O
+said	VBD	O
+rate	NN	B
+discounting	NN
+in	IN
+</Support Example>
+
+<Support Example Score=1.7450703046308>
+to	TO	O
+go	VB	O
+into	IN	O
+the	DT
+trade	NN
+</Support Example>
+
+<Support Example Score=1.74389166511404>
+deregulation	NN	B
+in	IN	O
+freight-cost	JJ	B
+reductions	NNS
+.	.
+</Support Example>
+
+<Support Example Score=1.73457818666488>
+a	DT	B
+consultant	NN	I
+at	IN	O
+Arthur	NNP
+D.	NNP
+</Support Example>
+
+<Support Example Score=1.73243381878297>
+%	NN	I
+of	IN	O
+gross	JJ	B
+national	JJ
+product	NN
+</Support Example>
+
+<Support Example Score=1.72436941243696>
+-1__BOS__	-1__BOS__
+Sanjay	NNP	B
+Joshi	NNP	I
+,	,
+European	JJ
+</Support Example>
+
+<Support Example Score=1.72076515783201>
+Shippers	NNS	B
+surveyed	VBN	O
+recently	RB	O
+by	IN
+Ohio	NNP
+</Support Example>
+
+<Support Example Score=1.71947392609186>
+n't	RB	O
+be	VB	O
+an	DT	B
+opportunity	NN
+for	IN
+</Support Example>
+
+<Support Example Score=1.71251409390293>
+New	NNP	I
+York	NNP	I
+trading	NN	I
+day	NN
+,	,
+</Support Example>
+
+<Support Example Score=1.71151868629135>
+this	DT	B
+fall	NN	I
+or	CC	O
+early	JJ
+next	JJ
+</Support Example>
+
+<Support Example Score=1.71151341460241>
+analysts	NNS	I
+say	VBP	O
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.70649746825627>
+begun	VBN	O
+to	TO	O
+``	``	O
+stabilize	VB
+.	.
+</Support Example>
+
+<Support Example Score=1.69555239965036>
+can	MD	O
+be	VB	O
+expected	VBN	O
+as	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.69183920598968>
+to	TO	O
+A.P.	NNP	B
+Green	NNP	I
+'s	POS
+board	NN
+</Support Example>
+
+<Support Example Score=1.69175904988643>
+,	,	O
+European	JJ	B
+economist	NN	I
+at	IN
+Baring	NNP
+</Support Example>
+
+<Support Example Score=1.67624420157315>
+-1__BOS__	-1__BOS__
+The	DT	B
+company	NN	I
+is	VBZ
+a	DT
+</Support Example>
+
+<Support Example Score=1.67446427237148>
+from	IN	O
+their	PRP$	B
+annual	JJ	I
+,	,
+inter-city	JJ
+</Support Example>
+
+<Support Example Score=1.66706740556125>
+Commodity	NNP	I
+Exchange	NNP	I
+in	IN	O
+New	NNP
+York	NNP
+</Support Example>
+
+<Support Example Score=1.66279267625201>
+quoted	VBN	O
+at	IN	O
+$	$	B
+366.50	CD
+an	DT
+</Support Example>
+
+<Support Example Score=1.66024854405188>
+at	IN	O
+their	PRP$	B
+highest	JJS	I
+level	NN
+in	IN
+</Support Example>
+
+<Support Example Score=1.64594355035456>
+,	,	O
+down	RB	O
+from	IN	O
+8	CD
+%	NN
+</Support Example>
+
+<Support Example Score=1.64011341904606>
+rates	NNS	B
+will	MD	O
+be	VB	O
+pushed	VBN
+higher	JJR
+</Support Example>
+
+<Support Example Score=1.62411915882403>
+the	DT	B
+data	NNS	I
+to	TO	O
+show	VB
+a	DT
+</Support Example>
+
+<Support Example Score=1.62393193374669>
+was	VBD	O
+already	RB	O
+showing	VBG	O
+some	DT
+signs	NNS
+</Support Example>
+
+<Support Example Score=1.6238054512102>
+to	TO	O
+$	$	B
+1.5890	CD	I
+and	CC
+2.9495	CD
+</Support Example>
+
+<Support Example Score=1.62057479206493>
+and	CC	O
+Westwood	NNP	B
+Group	NNP	I
+are	VBP
+based	VBN
+</Support Example>
+
+<Support Example Score=1.61241588422357>
+competitors	NNS	I
+have	VBP	O
+announced	VBN	O
+similar	JJ
+increases	NNS
+</Support Example>
+
+<Support Example Score=1.61239020458232>
+,	,	O
+and	CC	O
+rates	NNS	B
+are	VBP
+starting	VBG
+</Support Example>
+
+<Support Example Score=1.61064317645381>
+board	NN	I
+,	,	O
+East	NNP	B
+Rock	NNP
+said	VBD
+</Support Example>
+
+<Support Example Score=1.60875681069759>
+maker	NN	I
+of	IN	O
+refractory	JJ	B
+products	NNS
+.	.
+</Support Example>
+
+<Support Example Score=1.60279513970167>
+be	VB	O
+reflected	VBN	O
+directly	RB	O
+in	IN
+higher	JJR
+</Support Example>
+
+<Support Example Score=1.59657281432272>
+be	VB	O
+undermined	VBN	O
+by	IN	O
+exchange	NN
+rate	NN
+</Support Example>
+
+<Support Example Score=1.59569322721059>
+bargain	VB	O
+for	IN	O
+transportation	NN	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=1.58741368289585>
+,	,	O
+gold	NN	B
+was	VBD	O
+quoted	VBN
+at	IN
+</Support Example>
+
+<Support Example Score=1.58522955832833>
+Only	RB	B
+10	CD	I
+%	NN	I
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.58031081556005>
+but	CC	O
+few	JJ	B
+economists	NNS	I
+expect	VBP
+the	DT
+</Support Example>
+
+<Support Example Score=1.57698463575777>
+predict	VBP	O
+that	IN	O
+in	IN	O
+the	DT
+coming	VBG
+</Support Example>
+
+<Support Example Score=1.57579447817154>
+have	VBP	O
+announced	VBN	O
+rate	NN	B
+increases	NNS
+,	,
+</Support Example>
+
+<Support Example Score=1.56780526759785>
+,	,	O
+Mr.	NNP	B
+Lawson	NNP	I
+warned	VBD
+that	IN
+</Support Example>
+
+<Support Example Score=1.56205133653716>
+which	WDT	B
+carry	VBP	O
+the	DT	B
+freight	NN
+of	IN
+</Support Example>
+
+<Support Example Score=1.55841357926773>
+of	IN	O
+logistics	NNS	B
+at	IN	O
+Du	NNP
+Pont	NNP
+</Support Example>
+
+<Support Example Score=1.55614819206823>
+freight	NN	B
+transportation	NN	I
+,	,	O
+and	CC
+rates	NNS
+</Support Example>
+
+<Support Example Score=1.55140540960892>
+and	CC	O
+threatening	VBG	O
+to	TO	O
+fuel	VB
+inflation	NN
+</Support Example>
+
+<Support Example Score=1.5478244689769>
+first	JJ	I
+year	NN	I
+since	IN	O
+transportation	NN
+deregulation	NN
+</Support Example>
+
+<Support Example Score=1.54451988254995>
+said	VBD	O
+there	EX	B
+is	VBZ	O
+no	DT
+sign	NN
+</Support Example>
+
+<Support Example Score=1.54353456934715>
+directly	RB	O
+in	IN	O
+higher	JJR	B
+freight	NN
+rates	NNS
+</Support Example>
+
+<Support Example Score=1.53728185005276>
+,	,	O
+in	IN	O
+national	JJ	B
+over-the-counter	JJ
+trading	NN
+</Support Example>
+
+<Support Example Score=1.5371619612458>
+the	DT	B
+outlook	NN	I
+for	IN	O
+imports	NNS
+,	,
+</Support Example>
+
+<Support Example Score=1.53575469082705>
+increases	NNS	I
+,	,	O
+scheduled	VBN	O
+for	IN
+this	DT
+</Support Example>
+
+<Support Example Score=1.53543431200532>
+are	VBP	O
+based	VBN	O
+in	IN	O
+Boston	NNP
+.	.
+</Support Example>
+
+<Support Example Score=1.53063649880246>
+level	NN	I
+in	IN	O
+eight	CD	B
+years	NNS
+.	.
+</Support Example>
+
+<Support Example Score=1.52898694102981>
+squeezed	VBN	O
+out	IN	O
+of	IN	O
+the	DT
+freight-transport	JJ
+</Support Example>
+
+<Support Example Score=1.52026833496185>
+freight	NN	B
+from	IN	O
+trucks	NNS	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=1.51954863314394>
+good	JJ	I
+times	NNS	I
+are	VBP	O
+over	IN
+for	IN
+</Support Example>
+
+<Support Example Score=1.5190183933659>
+'s	POS	B
+Tokyo	NNP	I
+close	NN	I
+of	IN
+141.35	CD
+</Support Example>
+
+<Support Example Score=1.51494944912514>
+efficiently	RB	O
+,	,	O
+leading	VBG	O
+to	TO
+overcapacity	NN
+</Support Example>
+
+<Support Example Score=1.5059592445843>
+economy	NN	I
+is	VBZ	O
+slowing	VBG	O
+that	DT
+quickly	RB
+</Support Example>
+
+<Support Example Score=1.50360230100568>
+,	,	O
+due	JJ	O
+for	IN	O
+release	NN
+tomorrow	NN
+</Support Example>
+
+<Support Example Score=1.50251083928678>
+Britain	NNP	B
+'s	POS	B
+manufacturing	NN	I
+industry	NN
+is	VBZ
+</Support Example>
+
+<Support Example Score=1.50070097896352>
+senior	JJ	B
+U.K.	NNP	I
+economist	NN	I
+at	IN
+Nomura	NNP
+</Support Example>
+
+<Support Example Score=1.49681830985519>
+raise	VB	O
+its	PRP$	B
+rates	NNS	I
+5.3	CD
+%	NN
+</Support Example>
+
+<Support Example Score=1.49512725544784>
+3.8	CD	B
+%	NN	I
+from	IN	O
+a	DT
+year	NN
+</Support Example>
+
+<Support Example Score=1.49356305892074>
+for	IN	O
+August	NNP	B
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.4791796859408>
+that	WDT	B
+began	VBD	O
+in	IN	O
+1980	CD
+enabled	VBD
+</Support Example>
+
+<Support Example Score=1.47862061501036>
+least	JJS	I
+two	CD	I
+competitors	NNS	I
+have	VBP
+announced	VBN
+</Support Example>
+
+<Support Example Score=1.47544833889742>
+current	JJ	B
+delivery	NN	I
+settled	VBD	O
+at	IN
+$	$
+</Support Example>
+
+<Support Example Score=1.47051859904038>
+-LRB-	(	I
+$	$	I
+3.2	CD	I
+billion	CD
+-RRB-	)
+</Support Example>
+
+<Support Example Score=1.46155999599484>
+Friday	NNP	B
+'s	POS	B
+Market	NNP	I
+Activity	NN
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=1.45954042803964>
+Inc.	NNP	I
+,	,	O
+a	DT	B
+Menlo	NNP
+Park	NNP
+</Support Example>
+
+<Support Example Score=1.45706558244895>
+-1__BOS__	-1__BOS__
+The	DT	B
+U.S.	NNP	I
+currency	NN
+was	VBD
+</Support Example>
+
+<Support Example Score=1.45602999993936>
+that	IN	O
+rates	NNS	B
+will	MD	O
+be	VB
+pushed	VBN
+</Support Example>
+
+<Support Example Score=1.45535984289512>
+quarter	NN	I
+and	CC	O
+a	DT	B
+5.4	CD
+%	NN
+</Support Example>
+
+<Support Example Score=1.45146241221886>
+said	VBD	O
+he	PRP	B
+believes	VBZ	O
+that	IN
+a	DT
+</Support Example>
+
+<Support Example Score=1.44579524739905>
+tightened	VBD	B
+demand	NN	I
+for	IN	O
+freight	NN
+transport	NN
+</Support Example>
+
+<Support Example Score=1.4444486879012>
+and	CC	I
+Robert	NNP	I
+MacDonald	NNP	I
+control	NN
+East	NNP
+</Support Example>
+
+<Support Example Score=1.4361466673677>
+truck	NN	I
+,	,	O
+''	''	O
+said	VBD
+Gerard	NNP
+</Support Example>
+
+<Support Example Score=1.43173616588681>
+rate	NN	I
+,	,	O
+''	''	O
+said	VBD
+Clifford	NNP
+</Support Example>
+
+<Support Example Score=1.41334719281816>
+,	,	O
+fail	VB	O
+to	TO	O
+show	VB
+a	DT
+</Support Example>
+
+<Support Example Score=1.41150245943396>
+in	IN	O
+other	JJ	B
+segments	NNS	I
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.41046166386327>
+freight-rate	JJ	I
+increases	NNS	I
+as	IN	O
+carriers	NNS
+replace	VBP
+</Support Example>
+
+<Support Example Score=1.40808031893391>
+Arthur	NNP	B
+D.	NNP	I
+Little	NNP	I
+Inc.	NNP
+,	,
+</Support Example>
+
+<Support Example Score=1.40800774486711>
+manufacturing	NN	I
+industry	NN	I
+is	VBZ	O
+transforming	VBG
+itself	PRP
+</Support Example>
+
+<Support Example Score=1.40726280804427>
+underlying	VBG	B
+support	NN	I
+for	IN	O
+sterling	NN
+has	VBZ
+</Support Example>
+
+<Support Example Score=1.40662400291144>
+filing	NN	I
+that	IN	O
+it	PRP	B
+boosted	VBD
+its	PRP$
+</Support Example>
+
+<Support Example Score=1.40437174248867>
+freight	VB	B
+transport	NN	I
+to	TO	O
+reduce	VB
+costs	NNS
+</Support Example>
+
+<Support Example Score=1.40029107885339>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Shippers	NNS	B
+cut	VBP
+about	RB
+</Support Example>
+
+<Support Example Score=1.39826724013738>
+the	DT	B
+U.K.	NNP	I
+economy	NN	I
+is	VBZ
+slowing	VBG
+</Support Example>
+
+<Support Example Score=1.39352560178216>
+of	IN	O
+the	DT	B
+250	CD	I
+shippers	NNS
+polled	VBN
+</Support Example>
+
+<Support Example Score=1.38396837606112>
+in	IN	O
+interest	NN	B
+rates	NNS	I
+earlier	RBR
+this	DT
+</Support Example>
+
+<Support Example Score=1.37934846504987>
+,	,	O
+which	WDT	B
+has	VBZ	O
+preoccupied	VBN
+the	DT
+</Support Example>
+
+<Support Example Score=1.37077838363896>
+Now	RB	O
+we	PRP	B
+are	VBP	O
+starting	VBG
+to	TO
+</Support Example>
+
+<Support Example Score=1.36981104380134>
+as	RB	O
+fast	RB	O
+as	IN	O
+inflation	NN
+and	CC
+</Support Example>
+
+<Support Example Score=1.36962008773202>
+freight-transport	JJ	I
+costs	NNS	I
+to	TO	O
+decrease	VB
+,	,
+</Support Example>
+
+<Support Example Score=1.3656447410398>
+very	RB	I
+marked	VBN	I
+improvement	NN	I
+from	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.36352672270194>
+The	DT	B
+carriers	NNS	I
+were	VBD	O
+competing	VBG
+fiercely	RB
+</Support Example>
+
+<Support Example Score=1.36190079957871>
+,	,	O
+any	DT	B
+further	JJ	I
+drop	NN
+in	IN
+</Support Example>
+
+<Support Example Score=1.35562613578283>
+%	NN	I
+from	IN	O
+their	PRP$	B
+current	JJ
+15	CD
+</Support Example>
+
+<Support Example Score=1.34648654359146>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Freight	NN	B
+rates	NNS
+,	,
+</Support Example>
+
+<Support Example Score=1.34348584378399>
+This	DT	B
+has	VBZ	O
+increased	VBN	O
+the	DT
+risk	NN
+</Support Example>
+
+<Support Example Score=1.33533948760688>
+trading	NN	I
+it	PRP	B
+declined	VBD	O
+to	TO
+$	$
+</Support Example>
+
+<Support Example Score=1.33394781785828>
+the	DT	I
+benefits	NNS	I
+of	IN	O
+deregulation	NN
+in	IN
+</Support Example>
+
+<Support Example Score=1.33050018533329>
+values	VBZ	O
+the	DT	B
+company	NN	I
+at	IN
+about	RB
+</Support Example>
+
+<Support Example Score=1.33017168577761>
+trailer	NN	I
+,	,	O
+discounted	VBD	O
+away	RB
+a	DT
+</Support Example>
+
+<Support Example Score=1.32843238476281>
+in	IN	O
+transportation	NN	B
+at	IN	O
+Massachusetts	NNP
+Institute	NNP
+</Support Example>
+
+<Support Example Score=1.32665734544948>
+rates	NNS	I
+,	,	O
+''	''	O
+said	VBD
+Bernard	NNP
+</Support Example>
+
+<Support Example Score=1.31771208231453>
+York-based	JJ	I
+John	NNP	I
+Kuhns	NNP	I
+and	CC
+Robert	NNP
+</Support Example>
+
+<Support Example Score=1.31209454391835>
+dive	NN	I
+if	IN	O
+trade	NN	B
+figures	NNS
+for	IN
+</Support Example>
+
+<Support Example Score=1.29648747779331>
+gold	NN	B
+for	IN	O
+current	JJ	B
+delivery	NN
+settled	VBD
+</Support Example>
+
+<Support Example Score=1.29583183052503>
+late	JJ	B
+Thursday	NNP	I
+in	IN	O
+New	NNP
+York	NNP
+</Support Example>
+
+<Support Example Score=1.29189027715436>
+as	IN	O
+they	PRP	B
+have	VBP	O
+for	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.28915893928696>
+stockbuilding	VBG	I
+by	IN	O
+industry	NN	B
+could	MD
+lead	VB
+</Support Example>
+
+<Support Example Score=1.28580745322778>
+of	IN	O
+more	JJR	B
+import	NN	I
+rises	NNS
+.	.
+</Support Example>
+
+<Support Example Score=1.27635347612815>
+Certainly	RB	O
+,	,	O
+the	DT	B
+chancellor	NN
+has	VBZ
+</Support Example>
+
+<Support Example Score=1.27463679567187>
+try	VB	O
+to	TO	O
+recoup	VB	O
+some	DT
+of	IN
+</Support Example>
+
+<Support Example Score=1.27133412991417>
+subject	NN	O
+to	TO	O
+the	DT	B
+signing	NN
+of	IN
+</Support Example>
+
+<Support Example Score=1.26478382628>
+to	TO	O
+reduce	VB	O
+costs	NNS	B
+in	IN
+past	JJ
+</Support Example>
+
+<Support Example Score=1.26090300300088>
+at	IN	O
+$	$	B
+366.50	CD	I
+an	DT
+ounce	NN
+</Support Example>
+
+<Support Example Score=1.25156494938528>
+in	IN	O
+higher	JJR	B
+freight	NN	I
+rates	NNS
+.	.
+</Support Example>
+
+<Support Example Score=1.24773599500418>
+East	NNP	B
+Rock	NNP	I
+said	VBD	O
+the	DT
+offer	NN
+</Support Example>
+
+<Support Example Score=1.24008905878741>
+said	VBD	O
+they	PRP	B
+expect	VBP	O
+their	PRP$
+freight-transport	JJ
+</Support Example>
+
+<Support Example Score=1.23591054452242>
+improvement	NN	I
+from	IN	O
+July	NNP	B
+and	CC
+August	NNP
+</Support Example>
+
+<Support Example Score=1.22314491700529>
+in	IN	O
+Boston	NNP	B
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.22303484027558>
+currency	NN	I
+was	VBD	O
+also	RB	O
+changing	VBG
+hands	NNS
+</Support Example>
+
+<Support Example Score=1.22086312035584>
+rose	VBD	O
+0.1	CD	B
+%	NN	I
+in	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.21884746089461>
+for	IN	O
+transportation-cost	JJ	B
+savings	NNS	I
+as	IN
+they	PRP
+</Support Example>
+
+<Support Example Score=1.21824031244619>
+the	DT	B
+#	#	I
+2.3	CD	I
+billion	CD
+deficit	NN
+</Support Example>
+
+<Support Example Score=1.217532681397>
+40-a-share	JJ	I
+proposal	NN	I
+values	VBZ	O
+the	DT
+company	NN
+</Support Example>
+
+<Support Example Score=1.21602831843523>
+the	DT	B
+last	JJ	I
+eight	CD	I
+or	CC
+nine	CD
+</Support Example>
+
+<Support Example Score=1.20917922300143>
+supply	NN	I
+of	IN	O
+certain	JJ	B
+types	NNS
+of	IN
+</Support Example>
+
+<Support Example Score=1.20906824639729>
+-1__BOS__	-1__BOS__
+Mr.	NNP	B
+Briscoe	NNP	I
+,	,
+who	WP
+</Support Example>
+
+<Support Example Score=1.20259372819629>
+late	JJ	B
+this	DT	I
+year	NN	I
+or	CC
+early	JJ
+</Support Example>
+
+<Support Example Score=1.19978080389497>
+account	NN	I
+deficit	NN	I
+will	MD	O
+narrow	VB
+to	TO
+</Support Example>
+
+<Support Example Score=1.19878423280812>
+suggested	VBD	O
+that	IN	O
+if	IN	O
+the	DT
+pound	NN
+</Support Example>
+
+<Support Example Score=1.19826350933108>
+up	IN	O
+from	IN	O
+Friday	NNP	B
+'s	POS
+Tokyo	NNP
+</Support Example>
+
+<Support Example Score=1.19710627517367>
+Briscoe	NNP	I
+,	,	O
+U.K.	NNP	B
+economist	NN
+for	IN
+</Support Example>
+
+<Support Example Score=1.19507257592189>
+monetary	JJ	B
+policy	NN	I
+to	TO	O
+be	VB
+undermined	VBN
+</Support Example>
+
+<Support Example Score=1.19269319590688>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+If	IN
+there	EX
+</Support Example>
+
+<Support Example Score=1.18948998306131>
+Major	JJ	B
+shippers	NNS	I
+say	VBP	O
+they	PRP
+expect	VBP
+</Support Example>
+
+<Support Example Score=1.18890556613137>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+This	DT	B
+has	VBZ
+increased	VBN
+</Support Example>
+
+<Support Example Score=1.18327165643954>
+the	DT	B
+spending	NN	I
+went	VBD	O
+on	IN
+services	NNS
+</Support Example>
+
+<Support Example Score=1.18207899427339>
+will	MD	O
+want	VB	O
+to	TO	O
+see	VB
+further	JJ
+</Support Example>
+
+<Support Example Score=1.17473300081838>
+in	IN	O
+Columbus	NNP	B
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.17434909019045>
+few	JJ	B
+economists	NNS	I
+expect	VBP	O
+the	DT
+data	NNS
+</Support Example>
+
+<Support Example Score=1.17379532277609>
+current	JJ	I
+account	NN	I
+gap	NN	I
+,	,
+warns	VBZ
+</Support Example>
+
+<Support Example Score=1.16481704477739>
+gap	NN	I
+registered	VBN	O
+in	IN	O
+July	NNP
+are	VBP
+</Support Example>
+
+<Support Example Score=1.15765118615332>
+fairly	RB	O
+pessimistic	JJ	O
+about	IN	O
+the	DT
+outlook	NN
+</Support Example>
+
+<Support Example Score=1.15690043365647>
+at	IN	O
+$	$	B
+367.30	CD	I
+an	DT
+ounce	NN
+</Support Example>
+
+<Support Example Score=1.15452541581849>
+common	JJ	I
+shares	NNS	I
+,	,	O
+including	VBG
+30,000	CD
+</Support Example>
+
+<Support Example Score=1.15347581276913>
+saying	VBG	O
+`	``	O
+the	DT	B
+party	NN
+'s	POS
+</Support Example>
+
+<Support Example Score=1.14666479514281>
+quiet	JJ	B
+trading	NN	I
+as	IN	O
+concerns	NNS
+about	IN
+</Support Example>
+
+<Support Example Score=1.14366202199608>
+#	#	I
+2.2	CD	I
+billion	CD	I
+gap	NN
+registered	VBN
+</Support Example>
+
+<Support Example Score=1.14103153819016>
+up	IN	O
+$	$	B
+1.875	CD	I
+,	,
+in	IN
+</Support Example>
+
+<Support Example Score=1.1401847881649>
+bought	VBD	O
+last	JJ	B
+Thursday	NNP	I
+for	IN
+$	$
+</Support Example>
+
+<Support Example Score=1.12945081967436>
+control	NN	O
+East	NNP	B
+Rock	NNP	I
+Partners	NNP
+Inc.	NNP
+</Support Example>
+
+<Support Example Score=1.12549233489661>
+obtaining	VBG	O
+satisfactory	JJ	B
+financing	NN	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=1.12138655281731>
+forecasts	VBZ	O
+a	DT	B
+#	#	I
+1.3	CD
+billion	CD
+</Support Example>
+
+<Support Example Score=1.11666338622072>
+base	NN	I
+rates	NNS	I
+are	VBP	O
+at	IN
+their	PRP$
+</Support Example>
+
+<Support Example Score=1.11281862905852>
+Friday	NNP	B
+'s	POS	B
+Tokyo	NNP	I
+close	NN
+of	IN
+</Support Example>
+
+<Support Example Score=1.10956592498728>
+to	TO	O
+about	RB	B
+$	$	I
+150	CD
+billion	CD
+</Support Example>
+
+<Support Example Score=1.10927363312994>
+party	NN	I
+'s	POS	O
+over	IN	O
+,	,
+'	''
+</Support Example>
+
+<Support Example Score=1.10773306947308>
+previously	RB	O
+.	.	O
+''	''	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.10465807848312>
+Thursday	NNP	I
+for	IN	O
+$	$	B
+35.50	CD
+to	TO
+</Support Example>
+
+<Support Example Score=1.08521225746005>
+of	IN	O
+Westwood	NNP	B
+Group	NNP	I
+Inc	NNP
+.	.
+</Support Example>
+
+<Support Example Score=1.08399431371487>
+,	,	O
+''	''	O
+said	VBD	O
+Clifford	NNP
+Sayre	NNP
+</Support Example>
+
+<Support Example Score=1.08163520058617>
+they	PRP	B
+warn	VBP	O
+,	,	O
+any	DT
+further	JJ
+</Support Example>
+
+<Support Example Score=1.08033520498698>
+see	VB	O
+further	JJ	B
+evidence	NN	I
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=1.07961328836484>
+-1__BOS__	-1__BOS__
+He	PRP	B
+reckons	VBZ	O
+the	DT
+current	JJ
+</Support Example>
+
+<Support Example Score=1.06728940860257>
+the	DT	B
+#	#	I
+2.2	CD	I
+billion	CD
+gap	NN
+</Support Example>
+
+<Support Example Score=1.06610740339071>
+the	DT	B
+market	NN	I
+since	IN	O
+Oct.	NNP
+13	CD
+</Support Example>
+
+<Support Example Score=1.06063153063316>
+,	,	O
+''	''	O
+said	VBD	O
+Gerard	NNP
+McCullough	NNP
+</Support Example>
+
+<Support Example Score=1.05911216162307>
+shipping	VBG	I
+and	CC	I
+air-freight	NN	I
+companies	NNS
+have	VBP
+</Support Example>
+
+<Support Example Score=1.05848803813383>
+transportation	NN	B
+at	IN	O
+Massachusetts	NNP	B
+Institute	NNP
+of	IN
+</Support Example>
+
+<Support Example Score=1.05347819580205>
+could	MD	O
+narrow	VB	O
+to	TO	O
+as	RB
+little	JJ
+</Support Example>
+
+<Support Example Score=1.05098139633938>
+of	IN	O
+1988	CD	B
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=1.04653835075013>
+,	,	O
+declining	VBG	O
+for	IN	O
+most	RBS
+of	IN
+</Support Example>
+
+<Support Example Score=1.04569559025493>
+consumer	NN	I
+and	CC	I
+capital	NN	I
+goods	NNS
+inflows	NNS
+</Support Example>
+
+<Support Example Score=1.04541712692054>
+competition	NN	I
+for	IN	O
+freight	NN	B
+from	IN
+trucks	NNS
+</Support Example>
+
+<Support Example Score=1.04248160668774>
+Securities	NNP	I
+and	CC	I
+Exchange	NNP	I
+Commission	NNP
+,	,
+</Support Example>
+
+<Support Example Score=1.0403896118835>
+``	``	O
+is	VBZ	O
+still	RB	O
+quite	RB
+strong	JJ
+</Support Example>
+
+<Support Example Score=1.03684418674305>
+of	IN	O
+gross	JJ	B
+national	JJ	I
+product	NN
+,	,
+</Support Example>
+
+<Support Example Score=1.03395613167002>
+day	NN	I
+,	,	O
+the	DT	B
+dollar	NN
+was	VBD
+</Support Example>
+
+<Support Example Score=1.03035760049221>
+Exchange	NNP	I
+in	IN	O
+New	NNP	B
+York	NNP
+,	,
+</Support Example>
+
+<Support Example Score=1.02773097900649>
+risks	NNS	I
+for	IN	O
+sterling	NN	B
+of	IN
+a	DT
+</Support Example>
+
+<Support Example Score=1.0244427863057>
+and	CC	O
+2.9495	CD	B
+marks	NNS	I
+from	IN
+$	$
+</Support Example>
+
+<Support Example Score=1.02215789947435>
+for	IN	O
+most	RBS	B
+of	IN	O
+the	DT
+decade	NN
+</Support Example>
+
+<Support Example Score=1.02061084324474>
+,	,	O
+senior	JJ	B
+U.K.	NNP	I
+economist	NN
+at	IN
+</Support Example>
+
+<Support Example Score=1.015824970443>
+gross	JJ	B
+national	JJ	I
+product	NN	I
+,	,
+down	RB
+</Support Example>
+
+<Support Example Score=1.00201745296245>
+overcapacity	NN	B
+they	PRP	B
+were	VBD	O
+eager	JJ
+to	TO
+</Support Example>
+
+<Support Example Score=0.99966217212508>
+their	PRP$	B
+highest	JJS	I
+level	NN	I
+in	IN
+eight	CD
+</Support Example>
+
+<Support Example Score=0.988630378348494>
+firm	NN	I
+monetary	JJ	I
+policy	NN	I
+has	VBZ
+helped	VBN
+</Support Example>
+
+<Support Example Score=0.987361589608499>
+focus	NN	I
+back	RB	O
+to	TO	O
+economic	JJ
+fundamentals	NNS
+</Support Example>
+
+<Support Example Score=0.980607342891919>
+equities	NNS	B
+abated	VBN	O
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.980109121021239>
+up	IN	O
+from	IN	O
+141.70	CD	B
+yen	NN
+in	IN
+</Support Example>
+
+<Support Example Score=0.973124128822669>
+to	TO	O
+comment	VB	O
+on	IN	O
+the	DT
+filing	NN
+</Support Example>
+
+<Support Example Score=0.971504106532428>
+-1__BOS__	-1__BOS__
+``	``	O
+Shippers	NNS	B
+are	VBP
+saying	VBG
+</Support Example>
+
+<Support Example Score=0.96524372763314>
+fears	NNS	B
+of	IN	O
+more	JJR	B
+import	NN
+rises	NNS
+</Support Example>
+
+<Support Example Score=0.9642744090261>
+no	DT	O
+later	RB	O
+than	IN	O
+Oct.	NNP
+31	CD
+</Support Example>
+
+<Support Example Score=0.961663329573287>
+and	CC	O
+2.9429	CD	B
+marks	NNS	I
+late	JJ
+Thursday	NNP
+</Support Example>
+
+<Support Example Score=0.951229547241676>
+for	IN	O
+current	JJ	B
+delivery	NN	I
+settled	VBD
+at	IN
+</Support Example>
+
+<Support Example Score=0.94527404144248>
+Inc.	NNP	I
+,	,	O
+an	DT	B
+indirect	JJ
+subsidiary	NN
+</Support Example>
+
+<Support Example Score=0.944375496031648>
+range	VBP	O
+widely	RB	O
+,	,	O
+but	CC
+few	JJ
+</Support Example>
+
+<Support Example Score=0.943034248699522>
+market	NN	I
+will	MD	O
+shift	VB	O
+its	PRP$
+focus	NN
+</Support Example>
+
+<Support Example Score=0.942171641287599>
+in	IN	O
+raw	JJ	B
+material	NN	I
+stockbuilding	VBG
+by	IN
+</Support Example>
+
+<Support Example Score=0.939515719365491>
+noted	VBD	O
+,	,	O
+``	``	O
+No	DT
+one	PRP
+</Support Example>
+
+<Support Example Score=0.937336197398755>
+will	MD	O
+narrow	VB	O
+to	TO	O
+only	RB
+#	#
+</Support Example>
+
+<Support Example Score=0.933661586880722>
+the	DT	B
+chancellor	NN	I
+has	VBZ	O
+made	VBN
+it	PRP
+</Support Example>
+
+<Support Example Score=0.932867693435563>
+monetary	JJ	I
+policy	NN	I
+has	VBZ	O
+helped	VBN
+to	TO
+</Support Example>
+
+<Support Example Score=0.928555388712669>
+declined	VBD	O
+to	TO	O
+comment	VB	O
+on	IN
+the	DT
+</Support Example>
+
+<Support Example Score=0.927205331247529>
+will	MD	O
+want	VB	O
+to	TO	O
+go	VB
+into	IN
+</Support Example>
+
+<Support Example Score=0.925583872693788>
+from	IN	O
+recent	JJ	B
+years	NNS	I
+when	WRB
+freight	NN
+</Support Example>
+
+<Support Example Score=0.923491054860881>
+market	NN	I
+since	IN	O
+Oct.	NNP	B
+13	CD
+,	,
+</Support Example>
+
+<Support Example Score=0.92291065179802>
+measures	NNS	I
+in	IN	O
+his	PRP$	B
+Mansion	NNP
+House	NNP
+</Support Example>
+
+<Support Example Score=0.920430212081485>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+``	``	O
+This	DT
+is	VBZ
+</Support Example>
+
+<Support Example Score=0.91935338817996>
+next	JJ	I
+year	NN	I
+,	,	O
+and	CC
+at	IN
+</Support Example>
+
+<Support Example Score=0.895585073402215>
+-1__BOS__	-1__BOS__
+East	NNP	B
+Rock	NNP	I
+Partners	NNP
+Limited	NNP
+</Support Example>
+
+<Support Example Score=0.892953506776641>
+European	JJ	B
+economist	NN	I
+at	IN	O
+Baring	NNP
+Brothers	NNPS
+</Support Example>
+
+<Support Example Score=0.891834548038768>
+because	IN	O
+investors	NNS	B
+will	MD	O
+want	VB
+to	TO
+</Support Example>
+
+<Support Example Score=0.885234730265593>
+,	,	O
+the	DT	B
+dollar	NN	I
+was	VBD
+quoted	VBN
+</Support Example>
+
+<Support Example Score=0.879729949421597>
+-2__BOS__	-2__BOS__
+-1__BOS__	-1__BOS__
+Mr.	NNP	B
+Dillow	NNP
+said	VBD
+</Support Example>
+
+<Support Example Score=0.878756671344608>
+account	NN	I
+reported	VBD	O
+for	IN	O
+August	NNP
+.	.
+</Support Example>
+
+<Support Example Score=0.877809449512469>
+also	RB	O
+contingent	JJ	O
+upon	IN	O
+obtaining	VBG
+satisfactory	JJ
+</Support Example>
+
+<Support Example Score=0.873635008239021>
+are	VBP	O
+topped	VBN	O
+only	RB	O
+by	IN
+the	DT
+</Support Example>
+
+<Support Example Score=0.865617440783895>
+below	IN	O
+2.90	CD	B
+marks	NNS	I
+,	,
+the	DT
+</Support Example>
+
+<Support Example Score=0.863829334769896>
+in	IN	O
+A.P.	NNP	B
+Green	NNP	I
+to	TO
+8.7	CD
+</Support Example>
+
+<Support Example Score=0.862407364153359>
+Midland	NNP	B
+Montagu	NNP	I
+,	,	O
+a	DT
+unit	NN
+</Support Example>
+
+<Support Example Score=0.858818535418082>
+``	``	O
+Demand	NN	B
+has	VBZ	O
+caught	VBN
+up	IN
+</Support Example>
+
+<Support Example Score=0.851621855331379>
+Railroad-rate	JJ	B
+increases	NNS	I
+are	VBP	O
+likely	JJ
+to	TO
+</Support Example>
+
+<Support Example Score=0.850142718128542>
+enabled	VBD	O
+shippers	NNS	B
+to	TO	O
+bargain	VB
+for	IN
+</Support Example>
+
+<Support Example Score=0.845957831688782>
+substantial	JJ	I
+improvement	NN	I
+from	IN	O
+July	NNP
+and	CC
+</Support Example>
+
+<Support Example Score=0.842868524824331>
+in	IN	O
+the	DT	B
+next	JJ	I
+few	JJ
+years	NNS
+</Support Example>
+
+<Support Example Score=0.8387913153094>
+-1__BOS__	-1__BOS__
+Nevertheless	RB	O
+,	,	O
+he	PRP
+noted	VBD
+</Support Example>
+
+<Support Example Score=0.838264905372287>
+-1__BOS__	-1__BOS__
+Railroad-rate	JJ	B
+increases	NNS	I
+are	VBP
+likely	JJ
+</Support Example>
+
+<Support Example Score=0.836999128374168>
+expected	VBN	O
+to	TO	O
+take	VB	O
+another	DT
+sharp	JJ
+</Support Example>
+
+<Support Example Score=0.82349613036249>
+The	DT	B
+sole	JJ	I
+limited	JJ	I
+partner	NN
+of	IN
+</Support Example>
+
+<Support Example Score=0.816716785790349>
+of	IN	O
+freight	NN	B
+transportation	NN	I
+,	,
+and	CC
+</Support Example>
+
+<Support Example Score=0.810157231535608>
+pay	VB	O
+higher	JJR	B
+fuel	NN	I
+costs	NNS
+and	CC
+</Support Example>
+
+<Support Example Score=0.805649018701372>
+decline	NN	I
+,	,	O
+the	DT	B
+deficit	NN
+could	MD
+</Support Example>
+
+<Support Example Score=0.805246188922708>
+House	NNP	I
+speech	NN	I
+,	,	O
+Mr.	NNP
+Lawson	NNP
+</Support Example>
+
+<Support Example Score=0.791725385156716>
+keen	JJ	B
+competition	NN	I
+for	IN	O
+freight	NN
+from	IN
+</Support Example>
+
+<Support Example Score=0.768865417418886>
+freight	NN	I
+of	IN	O
+several	JJ	B
+shippers	NNS
+in	IN
+</Support Example>
+
+<Support Example Score=0.767434011081913>
+to	TO	O
+16	CD	B
+%	NN	I
+,	,
+both	DT
+</Support Example>
+
+<Support Example Score=0.767151580993802>
+increases	NNS	I
+as	IN	O
+carriers	NNS	B
+replace	VBP
+equipment	NN
+</Support Example>
+
+<Support Example Score=0.76686034317476>
+easing	NN	I
+by	IN	O
+U.S.	NNP	B
+Federal	NNP
+Reserve	NNP
+</Support Example>
+
+<Support Example Score=0.765873792034122>
+Partnership	NNP	I
+said	VBD	O
+it	PRP	B
+proposed	VBD
+to	TO
+</Support Example>
+
+<Support Example Score=0.757060581862743>
+increases	NNS	I
+in	IN	O
+other	JJ	B
+segments	NNS
+of	IN
+</Support Example>
+
+<Support Example Score=0.754643197610632>
+away	RB	O
+a	DT	B
+4.7	CD	I
+%	NN
+rate	NN
+</Support Example>
+
+<Support Example Score=0.753618126159352>
+$	$	I
+150	CD	I
+billion	CD	I
+,	,
+or	CC
+</Support Example>
+
+<Support Example Score=0.753111930415314>
+Monday	NNP	B
+,	,	O
+the	DT	B
+U.S.	NNP
+currency	NN
+</Support Example>
+
+<Support Example Score=0.749397327437977>
+of	IN	O
+monetary	JJ	B
+policy	NN	I
+to	TO
+be	VB
+</Support Example>
+
+<Support Example Score=0.746684251940779>
+an	DT	B
+ounce	NN	I
+,	,	O
+up	IN
+20	CD
+</Support Example>
+
+<Support Example Score=0.743037897555837>
+the	DT	B
+economy	NN	I
+.	.	O
+''	''
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.742142406386365>
+over	IN	O
+the	DT	B
+past	JJ	I
+week	NN
+.	.
+</Support Example>
+
+<Support Example Score=0.741002678135417>
+billion	CD	I
+in	IN	O
+September	NNP	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.737986822065465>
+``	``	O
+Shippers	NNS	B
+wo	MD	O
+n't	RB
+be	VB
+</Support Example>
+
+<Support Example Score=0.737089432504302>
+-1__BOS__	-1__BOS__
+Foreign	JJ	B
+exchange	NN	I
+dealers	NNS
+said	VBD
+</Support Example>
+
+<Support Example Score=0.735644133400107>
+fairly	RB	O
+clouded	VBN	O
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.725960031432414>
+''	''	O
+said	VBD	O
+Gerard	NNP	B
+McCullough	NNP
+,	,
+</Support Example>
+
+<Support Example Score=0.714243330734565>
+-1__BOS__	-1__BOS__
+Less-than-truckload	JJ	B
+companies	NNS	I
+,	,
+which	WDT
+</Support Example>
+
+<Support Example Score=0.712782857526494>
+''	''	O
+said	VBD	O
+Clifford	NNP	B
+Sayre	NNP
+,	,
+</Support Example>
+
+<Support Example Score=0.712294560645025>
+by	IN	O
+U.S.	NNP	B
+Federal	NNP	I
+Reserve	NNP
+.	.
+</Support Example>
+
+<Support Example Score=0.71186223001938>
+But	CC	O
+with	IN	O
+much	NN	B
+of	IN
+the	DT
+</Support Example>
+
+<Support Example Score=0.711377204085297>
+began	VBD	O
+in	IN	O
+1980	CD	B
+enabled	VBD
+shippers	NNS
+</Support Example>
+
+<Support Example Score=0.707416608900495>
+to	TO	O
+economic	JJ	B
+fundamentals	NNS	I
+,	,
+keeping	VBG
+</Support Example>
+
+<Support Example Score=0.707067546573504>
+recently	RB	O
+by	IN	O
+Ohio	NNP	B
+State	NNP
+University	NNP
+</Support Example>
+
+<Support Example Score=0.696721643845961>
+Partners	NNP	I
+L.P	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.692933108581948>
+,	,	O
+U.K.	NNP	B
+economist	NN	I
+for	IN
+Midland	NNP
+</Support Example>
+
+<Support Example Score=0.692786288433983>
+freefall	NN	I
+in	IN	O
+sterling	NN	B
+over	IN
+the	DT
+</Support Example>
+
+<Support Example Score=0.691406345458157>
+with	IN	O
+30	CD	B
+%	NN	I
+who	WP
+had	VBD
+</Support Example>
+
+<Support Example Score=0.685702264375508>
+least	JJS	I
+some	DT	I
+rebound	NN	I
+in	IN
+exports	NNS
+</Support Example>
+
+<Support Example Score=0.681863154573935>
+he	PRP	B
+noted	VBD	O
+,	,	O
+``	``
+No	DT
+</Support Example>
+
+<Support Example Score=0.671347608817392>
+2.4	CD	I
+million	CD	I
+ounces	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.670111679710318>
+,	,	O
+the	DT	B
+chancellor	NN	I
+has	VBZ
+made	VBN
+</Support Example>
+
+<Support Example Score=0.666926488688694>
+said	VBD	O
+Bernard	NNP	B
+LaLonde	NNP	I
+,	,
+a	DT
+</Support Example>
+
+<Support Example Score=0.660818713693856>
+will	MD	O
+be	VB	O
+forced	VBN	O
+to	TO
+increase	VB
+</Support Example>
+
+<Support Example Score=0.658624023708739>
+July	NNP	B
+are	VBP	O
+topped	VBN	O
+only	RB
+by	IN
+</Support Example>
+
+<Support Example Score=0.654513420449376>
+a	DT	B
+share	NN	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.654455188810285>
+'s	POS	B
+unexpected	JJ	I
+decline	NN	I
+,	,
+the	DT
+</Support Example>
+
+<Support Example Score=0.649928272878418>
+big	JJ	I
+change	NN	I
+from	IN	O
+recent	JJ
+years	NNS
+</Support Example>
+
+<Support Example Score=0.646260049031815>
+compared	VBN	O
+with	IN	O
+30	CD	B
+%	NN
+who	WP
+</Support Example>
+
+<Support Example Score=0.64108487252515>
+being	VBG	O
+forced	VBN	O
+to	TO	O
+increase	VB
+base	NN
+</Support Example>
+
+<Support Example Score=0.640325581708012>
+for	IN	O
+Midland	NNP	B
+Montagu	NNP	I
+,	,
+a	DT
+</Support Example>
+
+<Support Example Score=0.638795417961251>
+-1__BOS__	-1__BOS__
+Robert	NNP	B
+Delaney	NNP	I
+,	,
+a	DT
+</Support Example>
+
+<Support Example Score=0.635106500436789>
+,	,	O
+attached	VBN	O
+to	TO	O
+a	DT
+filing	NN
+</Support Example>
+
+<Support Example Score=0.628661225123164>
+367.30	CD	I
+an	DT	B
+ounce	NN	I
+,	,
+up	IN
+</Support Example>
+
+<Support Example Score=0.625021947125379>
+announce	VB	O
+any	DT	B
+new	JJ	I
+policy	NN
+measures	NNS
+</Support Example>
+
+<Support Example Score=0.612469135331421>
+shippers	NNS	B
+to	TO	O
+bargain	VB	O
+for	IN
+transportation	NN
+</Support Example>
+
+<Support Example Score=0.612190212087917>
+Bernard	NNP	B
+LaLonde	NNP	I
+,	,	O
+a	DT
+transportation	NN
+</Support Example>
+
+<Support Example Score=0.608959467321284>
+plans	VBZ	O
+to	TO	O
+raise	VB	O
+its	PRP$
+rates	NNS
+</Support Example>
+
+<Support Example Score=0.608675186603092>
+6.4	CD	I
+%	NN	I
+of	IN	O
+gross	JJ
+national	JJ
+</Support Example>
+
+<Support Example Score=0.607373154227296>
+be	VB	O
+an	DT	B
+opportunity	NN	I
+for	IN
+offsetting	VBG
+</Support Example>
+
+<Support Example Score=0.606661373648497>
+that	IN	O
+a	DT	B
+further	JJ	I
+slowdown	NN
+can	MD
+</Support Example>
+
+<Support Example Score=0.605689771111696>
+,	,	O
+''	''	O
+said	VBD	O
+Chris	NNP
+Dillow	NNP
+</Support Example>
+
+<Support Example Score=0.597632694521165>
+to	TO	O
+a	DT	B
+firm	NN	I
+monetary	JJ
+policy	NN
+</Support Example>
+
+<Support Example Score=0.594005650404036>
+,	,	O
+scheduled	VBN	O
+for	IN	O
+this	DT
+fall	NN
+</Support Example>
+
+<Support Example Score=0.592630587072426>
+from	IN	O
+1.8470	CD	B
+marks	NNS	I
+late	JJ
+Thursday	NNP
+</Support Example>
+
+<Support Example Score=0.5891279503478>
+the	DT	B
+U.S.	NNP	I
+currency	NN	I
+opened	VBD
+for	IN
+</Support Example>
+
+<Support Example Score=0.58716691339657>
+for	IN	O
+any	DT	B
+signs	NNS	I
+of	IN
+monetary	JJ
+</Support Example>
+
+<Support Example Score=0.583391919477381>
+over	IN	O
+for	IN	O
+shippers	NNS	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.574880216947878>
+U.S.	NNP	I
+currency	NN	I
+was	VBD	O
+also	RB
+changing	VBG
+</Support Example>
+
+<Support Example Score=0.565029290157196>
+implemented	VBD	O
+last	JJ	B
+April	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.560013807394369>
+-1__BOS__	-1__BOS__
+In	IN	O
+early	JJ	B
+trading	NN
+in	IN
+</Support Example>
+
+<Support Example Score=0.554739863435485>
+is	VBZ	O
+the	DT	B
+first	JJ	I
+year	NN
+since	IN
+</Support Example>
+
+<Support Example Score=0.551518213833057>
+for	IN	O
+this	DT	B
+fall	NN	I
+or	CC
+early	JJ
+</Support Example>
+
+<Support Example Score=0.541802228950854>
+of	IN	O
+certain	JJ	B
+types	NNS	I
+of	IN
+freight	NN
+</Support Example>
+
+<Support Example Score=0.532170444607034>
+Oct.	NNP	B
+31	CD	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.531466659465082>
+take	VB	O
+another	DT	B
+sharp	JJ	I
+dive	NN
+if	IN
+</Support Example>
+
+<Support Example Score=0.526945339808287>
+weakening	VBG	B
+rail-traffic	JJ	I
+levels	NNS	I
+and	CC
+keen	JJ
+</Support Example>
+
+<Support Example Score=0.526134534704248>
+about	RB	B
+$	$	I
+150	CD	I
+billion	CD
+,	,
+</Support Example>
+
+<Support Example Score=0.517615997578762>
+In	IN	O
+an	DT	B
+Oct.	NNP	I
+19	CD
+letter	NN
+</Support Example>
+
+<Support Example Score=0.51045043430459>
+``	``	O
+The	DT	B
+risks	NNS	I
+for	IN
+sterling	NN
+</Support Example>
+
+<Support Example Score=0.508794720720405>
+Mr.	NNP	B
+Briscoe	NNP	I
+,	,	O
+who	WP
+also	RB
+</Support Example>
+
+<Support Example Score=0.503119736384199>
+lack	NN	I
+of	IN	O
+confidence	NN	B
+in	IN
+Mr.	NNP
+</Support Example>
+
+<Support Example Score=0.50093878066707>
+,	,	O
+helping	VBG	O
+to	TO	O
+restrain	VB
+inflation	NN
+</Support Example>
+
+<Support Example Score=0.495428742705583>
+spurred	VBN	O
+by	IN	O
+deregulation	NN	B
+,	,
+are	VBP
+</Support Example>
+
+<Support Example Score=0.486579399824497>
+who	WP	B
+also	RB	O
+forecasts	VBZ	O
+a	DT
+#	#
+</Support Example>
+
+<Support Example Score=0.483562716501515>
+the	DT	B
+data	NNS	I
+show	VBP	O
+the	DT
+economy	NN
+</Support Example>
+
+<Support Example Score=0.480712742063342>
+when	WRB	O
+the	DT	B
+Dow	NNP	I
+Jones	NNP
+Industrial	NNP
+</Support Example>
+
+<Support Example Score=0.477753420740491>
+could	MD	O
+swiftly	RB	O
+make	VB	O
+this	DT
+promise	NN
+</Support Example>
+
+<Support Example Score=0.475274791655507>
+rail	NN	I
+and	CC	I
+truck	NN	I
+,	,
+''	''
+</Support Example>
+
+<Support Example Score=0.47346377446957>
+was	VBD	O
+quoted	VBN	O
+at	IN	O
+1.8578	CD
+marks	NNS
+</Support Example>
+
+<Support Example Score=0.471405082142335>
+Lawson	NNP	I
+'s	POS	B
+promise	NN	I
+that	IN
+rates	NNS
+</Support Example>
+
+<Support Example Score=0.470920451364963>
+foreign	JJ	I
+exchange	NN	I
+market	NN	I
+will	MD
+shift	VB
+</Support Example>
+
+<Support Example Score=0.469846056524997>
+eye	NN	I
+out	IN	O
+for	IN	O
+any	DT
+signs	NNS
+</Support Example>
+
+<Support Example Score=0.456971996454522>
+to	TO	O
+8.7	CD	B
+%	NN	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.454842658576142>
+,	,	O
+said	VBD	O
+the	DT	B
+approval	NN
+is	VBZ
+</Support Example>
+
+<Support Example Score=0.451090038621171>
+Institute	NNP	I
+of	IN	O
+Technology	NNP	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.449636921384403>
+-1__BOS__	-1__BOS__
+The	DT	B
+dollar	NN	I
+posted	VBD
+gains	NNS
+</Support Example>
+
+<Support Example Score=0.447937995165221>
+deficit	NN	I
+of	IN	O
+October	NNP	B
+1988	CD
+.	.
+</Support Example>
+
+<Support Example Score=0.443918651888721>
+has	VBZ	O
+increased	VBN	O
+the	DT	B
+risk	NN
+of	IN
+</Support Example>
+
+<Support Example Score=0.421610962551432>
+billion	CD	I
+from	IN	O
+their	PRP$	B
+annual	JJ
+,	,
+</Support Example>
+
+<Support Example Score=0.413273269235099>
+Less-than-truckload	JJ	B
+companies	NNS	I
+,	,	O
+which	WDT
+carry	VBP
+</Support Example>
+
+<Support Example Score=0.408311762090255>
+$	$	I
+40-a-share	JJ	I
+proposal	NN	I
+values	VBZ
+the	DT
+</Support Example>
+
+<Support Example Score=0.406574397525485>
+the	DT	B
+trade	NN	I
+figures	NNS	I
+are	VBP
+bullish	JJ
+</Support Example>
+
+<Support Example Score=0.395520487459397>
+reduction	NN	I
+in	IN	O
+raw	JJ	B
+material	NN
+stockbuilding	VBG
+</Support Example>
+
+<Support Example Score=0.394259108269774>
+real	JJ	B
+freight-rate	JJ	I
+increases	NNS	I
+as	IN
+carriers	NNS
+</Support Example>
+
+<Support Example Score=0.390225535134961>
+a	DT	B
+reduction	NN	I
+in	IN	O
+raw	JJ
+material	NN
+</Support Example>
+
+<Support Example Score=0.386870863262949>
+bullish	JJ	O
+for	IN	O
+sterling	NN	B
+,	,
+the	DT
+</Support Example>
+
+<Support Example Score=0.382487381532375>
+are	VBP	O
+bullish	JJ	O
+for	IN	O
+sterling	NN
+,	,
+</Support Example>
+
+<Support Example Score=0.382285953442304>
+least	JJS	O
+as	RB	O
+fast	RB	O
+as	IN
+inflation	NN
+</Support Example>
+
+<Support Example Score=0.38120111537853>
+rates	NNS	B
+are	VBP	O
+starting	VBG	O
+to	TO
+move	VB
+</Support Example>
+
+<Support Example Score=0.381096415614044>
+,	,	O
+the	DT	B
+deficit	NN	I
+could	MD
+narrow	VB
+</Support Example>
+
+<Support Example Score=0.373594503732337>
+to	TO	O
+a	DT	B
+sharp	JJ	I
+drop	NN
+in	IN
+</Support Example>
+
+<Support Example Score=0.372764609647204>
+a	DT	B
+Menlo	NNP	I
+Park	NNP	I
+,	,
+Calif.	NNP
+</Support Example>
+
+<Support Example Score=0.372353738658083>
+registered	VBN	O
+in	IN	O
+July	NNP	B
+are	VBP
+topped	VBN
+</Support Example>
+
+<Support Example Score=0.367460022720189>
+are	VBP	O
+starting	VBG	O
+to	TO	O
+see	VB
+real	JJ
+</Support Example>
+
+<Support Example Score=0.364160525150247>
+Currency	NN	B
+analysts	NNS	I
+predict	VBP	O
+that	IN
+in	IN
+</Support Example>
+
+<Support Example Score=0.35962586066754>
+in	IN	O
+New	NNP	B
+York	NNP	I
+late	JJ
+Thursday	NNP
+</Support Example>
+
+<Support Example Score=0.355217544212648>
+promise	NN	I
+that	IN	O
+rates	NNS	B
+will	MD
+be	VB
+</Support Example>
+
+<Support Example Score=0.353332011431234>
+economic	JJ	B
+fundamentals	NNS	I
+,	,	O
+keeping	VBG
+a	DT
+</Support Example>
+
+<Support Example Score=0.347368186682895>
+currency	NN	I
+wo	MD	O
+n't	RB	O
+advance	VB
+much	JJ
+</Support Example>
+
+<Support Example Score=0.342616901612094>
+,	,	O
+''	''	O
+said	VBD	O
+Bernard	NNP
+LaLonde	NNP
+</Support Example>
+
+<Support Example Score=0.339555158701486>
+%	NN	I
+of	IN	O
+GNP	NNP	B
+in	IN
+1981	CD
+</Support Example>
+
+<Support Example Score=0.336849774242729>
+also	RB	O
+forecasts	VBZ	O
+a	DT	B
+#	#
+1.3	CD
+</Support Example>
+
+<Support Example Score=0.335649200524675>
+clear	JJ	O
+that	IN	O
+he	PRP	B
+is	VBZ
+prepared	VBN
+</Support Example>
+
+<Support Example Score=0.333030026103839>
+of	IN	O
+monetary	JJ	B
+policy	NN	I
+remains	VBZ
+unchanged	JJ
+</Support Example>
+
+<Support Example Score=0.325709263089331>
+by	IN	O
+Ohio	NNP	B
+State	NNP	I
+University	NNP
+said	VBD
+</Support Example>
+
+<Support Example Score=0.318656475726185>
+than	IN	O
+Mr.	NNP	B
+Lawson	NNP	I
+'s	POS
+promise	NN
+</Support Example>
+
+<Support Example Score=0.316724441533524>
+''	''	O
+said	VBD	O
+Bernard	NNP	B
+LaLonde	NNP
+,	,
+</Support Example>
+
+<Support Example Score=0.314154448592222>
+at	IN	O
+Du	NNP	B
+Pont	NNP	I
+Co	NNP
+.	.
+</Support Example>
+
+<Support Example Score=0.310562775511704>
+about	RB	B
+$	$	I
+35	CD	I
+billion	CD
+from	IN
+</Support Example>
+
+<Support Example Score=0.30851430253653>
+-1__BOS__	-1__BOS__
+The	DT	B
+letter	NN	I
+,	,
+attached	VBN
+</Support Example>
+
+<Support Example Score=0.301090266264948>
+at	IN	O
+Nomura	NNP	B
+Research	NNP	I
+Institute	NNP
+.	.
+</Support Example>
+
+<Support Example Score=0.300319393232305>
+to	TO	O
+move	VB	O
+up	IN	O
+''	''
+at	IN
+</Support Example>
+
+<Support Example Score=0.298846199235075>
+was	VBD	O
+a	DT	B
+bright	JJ	I
+spot	NN
+for	IN
+</Support Example>
+
+<Support Example Score=0.296075348348245>
+rise	NN	I
+in	IN	O
+interest	NN	B
+rates	NNS
+earlier	RBR
+</Support Example>
+
+<Support Example Score=0.293964736526246>
+boosted	VBD	O
+its	PRP$	B
+stake	NN	I
+in	IN
+A.P.	NNP
+</Support Example>
+
+<Support Example Score=0.291580857068801>
+we	PRP	B
+are	VBP	O
+starting	VBG	O
+to	TO
+see	VB
+</Support Example>
+
+<Support Example Score=0.289317073812748>
+the	DT	B
+economy	NN	I
+remains	VBZ	O
+fairly	RB
+clouded	VBN
+</Support Example>
+
+<Support Example Score=0.280317514179247>
+that	IN	O
+the	DT	B
+government	NN	I
+``	``
+can	MD
+</Support Example>
+
+<Support Example Score=0.273969554597512>
+to	TO	O
+16	CD	B
+%	NN	I
+from	IN
+their	PRP$
+</Support Example>
+
+<Support Example Score=0.272779859746421>
+figures	NNS	I
+without	IN	O
+a	DT	B
+flat	JJ
+position	NN
+</Support Example>
+
+<Support Example Score=0.27095706153105>
+is	VBZ	O
+a	DT	B
+Mexico	NNP	I
+,	,
+Mo.	NNP
+</Support Example>
+
+<Support Example Score=0.270825777462394>
+was	VBD	O
+up	IN	O
+3.8	CD	B
+%	NN
+from	IN
+</Support Example>
+
+<Support Example Score=0.270656019899378>
+366.50	CD	I
+an	DT	B
+ounce	NN	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.264844016859808>
+has	VBZ	O
+preoccupied	VBN	O
+the	DT	B
+market	NN
+since	IN
+</Support Example>
+
+<Support Example Score=0.264630513307656>
+D.	NNP	I
+Little	NNP	I
+Inc.	NNP	I
+,	,
+Cambridge	NNP
+</Support Example>
+
+<Support Example Score=0.261045318294762>
+and	CC	I
+Exchange	NNP	I
+Commission	NNP	I
+,	,
+said	VBD
+</Support Example>
+
+<Support Example Score=0.252089103827609>
+closed	VBD	O
+at	IN	O
+$	$	B
+38	CD
+,	,
+</Support Example>
+
+<Support Example Score=0.24765982925369>
+show	VBP	O
+the	DT	B
+economy	NN	I
+``	``
+is	VBZ
+</Support Example>
+
+<Support Example Score=0.24269312868717>
+up	IN	O
+20	CD	B
+cents	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.23437128087781>
+quite	RB	O
+strong	JJ	O
+,	,	O
+''	''
+but	CC
+</Support Example>
+
+<Support Example Score=0.233762373054894>
+rates	NNS	I
+to	TO	O
+rise	VB	O
+at	IN
+least	JJS
+</Support Example>
+
+<Support Example Score=0.230633064683186>
+had	VBD	O
+looked	VBN	O
+to	TO	O
+freight	VB
+transport	NN
+</Support Example>
+
+<Support Example Score=0.228646657835209>
+to	TO	O
+increase	VB	O
+base	NN	B
+rates	NNS
+to	TO
+</Support Example>
+
+<Support Example Score=0.228536160751111>
+down	RB	O
+from	IN	O
+8	CD	B
+%	NN
+of	IN
+</Support Example>
+
+<Support Example Score=0.227498061575171>
+current	JJ	I
+15	CD	I
+%	NN	I
+level	NN
+to	TO
+</Support Example>
+
+<Support Example Score=0.224460272606814>
+helped	VBN	O
+to	TO	O
+prevent	VB	O
+a	DT
+freefall	NN
+</Support Example>
+
+<Support Example Score=0.222198912613317>
+swiftly	RB	O
+make	VB	O
+this	DT	B
+promise	NN
+sound	NN
+</Support Example>
+
+<Support Example Score=0.214626160193575>
+widely	RB	O
+expected	VBN	O
+to	TO	O
+take	VB
+another	DT
+</Support Example>
+
+<Support Example Score=0.213043603996013>
+failure	NN	I
+to	TO	O
+announce	VB	O
+any	DT
+new	JJ
+</Support Example>
+
+<Support Example Score=0.212095569564735>
+,	,	O
+he	PRP	B
+remains	VBZ	O
+fairly	RB
+pessimistic	JJ
+</Support Example>
+
+<Support Example Score=0.207293423163316>
+freight-transport	JJ	I
+,	,	I
+storage	NN	I
+and	CC
+distribution	NN
+</Support Example>
+
+<Support Example Score=0.204712544768685>
+noted	VBD	O
+Simon	NNP	B
+Briscoe	NNP	I
+,	,
+U.K.	NNP
+</Support Example>
+
+<Support Example Score=0.204061480749071>
+opened	VBD	O
+for	IN	O
+trading	NN	B
+at	IN
+141.95	CD
+</Support Example>
+
+<Support Example Score=0.197088284906822>
+marks	NNS	I
+late	JJ	B
+Thursday	NNP	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.189028787692678>
+An	DT	B
+A.P.	NNP	I
+Green	NNP	I
+official	NN
+declined	VBD
+</Support Example>
+
+<Support Example Score=0.184681044494956>
+The	DT	B
+deregulation	NN	I
+of	IN	O
+railroads	NNS
+and	CC
+</Support Example>
+
+<Support Example Score=0.183703328563295>
+has	VBZ	O
+been	VBN	O
+eroded	VBN	O
+by	IN
+the	DT
+</Support Example>
+
+<Support Example Score=0.178326301608321>
+logistics	NNS	B
+at	IN	O
+Du	NNP	B
+Pont	NNP
+Co	NNP
+</Support Example>
+
+<Support Example Score=0.176085025733719>
+'s	VBZ	O
+a	DT	B
+big	JJ	I
+change	NN
+from	IN
+</Support Example>
+
+<Support Example Score=0.170908235046368>
+remains	VBZ	O
+fairly	RB	O
+clouded	VBN	O
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.170741025111122>
+wo	MD	O
+n't	RB	O
+advance	VB	O
+much	JJ
+because	IN
+</Support Example>
+
+<Support Example Score=0.169800993404496>
+continued	VBD	B
+high	JJ	I
+consumer	NN	I
+and	CC
+capital	NN
+</Support Example>
+
+<Support Example Score=0.169668482441982>
+the	DT	B
+filing	NN	I
+that	IN	O
+it	PRP
+boosted	VBD
+</Support Example>
+
+<Support Example Score=0.169659645969108>
+late	JJ	B
+Thursday	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.169382841800391>
+based	VBN	O
+in	IN	O
+Boston	NNP	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.165124158968086>
+a	DT	B
+unit	NN	I
+of	IN	O
+Midland	NNP
+Bank	NNP
+</Support Example>
+
+<Support Example Score=0.162911285823169>
+in	IN	O
+eight	CD	B
+years	NNS	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.155683585585608>
+Lime	NNP	I
+Inc.	NNP	I
+,	,	O
+an	DT
+indirect	JJ
+</Support Example>
+
+<Support Example Score=0.150040779184159>
+quoted	VBN	O
+at	IN	O
+1.8578	CD	B
+marks	NNS
+,	,
+</Support Example>
+
+<Support Example Score=0.148601523703872>
+close	NN	I
+of	IN	O
+141.35	CD	B
+yen	NN
+.	.
+</Support Example>
+
+<Support Example Score=0.146784021083879>
+lead	VB	O
+to	TO	O
+a	DT	B
+sharp	JJ
+drop	NN
+</Support Example>
+
+<Support Example Score=0.146757409019345>
+its	PRP$	B
+stake	NN	I
+in	IN	O
+A.P.	NNP
+Green	NNP
+</Support Example>
+
+<Support Example Score=0.14205871529628>
+Tokyo	NNP	B
+on	IN	O
+Monday	NNP	B
+,	,
+the	DT
+</Support Example>
+
+<Support Example Score=0.139344863789884>
+trade	NN	I
+figure	NN	I
+are	VBP	O
+very	RB
+heavily	RB
+</Support Example>
+
+<Support Example Score=0.138400534074861>
+%	NN	I
+this	DT	B
+year	NN	I
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.137833681576195>
+deregulation	NN	I
+of	IN	O
+railroads	NNS	B
+and	CC
+trucking	NN
+</Support Example>
+
+<Support Example Score=0.134434759340464>
+Dillow	NNP	I
+said	VBD	O
+the	DT	B
+data	NNS
+show	VBP
+</Support Example>
+
+<Support Example Score=0.134003269106658>
+State	NNP	I
+in	IN	O
+Columbus	NNP	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.133066977829505>
+costs	NNS	B
+in	IN	O
+past	JJ	B
+years	NNS
+.	.
+</Support Example>
+
+<Support Example Score=0.132433652918748>
+freight	NN	B
+haulage	NN	I
+was	VBD	O
+a	DT
+bright	JJ
+</Support Example>
+
+<Support Example Score=0.124266465990309>
+''	''	O
+said	VBD	O
+Chris	NNP	B
+Dillow	NNP
+,	,
+</Support Example>
+
+<Support Example Score=0.123725620719516>
+sterling	NN	B
+does	VBZ	O
+n't	RB	O
+decline	VB
+further	JJ
+</Support Example>
+
+<Support Example Score=0.119910414855909>
+be	VB	O
+an	DT	B
+awful	JJ	I
+lot	NN
+of	IN
+</Support Example>
+
+<Support Example Score=0.118884301885963>
+benefits	NNS	I
+of	IN	O
+deregulation	NN	B
+in	IN
+freight-cost	JJ
+</Support Example>
+
+<Support Example Score=0.11685793231175>
+said	VBD	O
+the	DT	B
+approval	NN	I
+is	VBZ
+also	RB
+</Support Example>
+
+<Support Example Score=0.114127747031374>
+October	NNP	B
+1988	CD	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.111739233341561>
+rather	RB	O
+than	IN	O
+consumer	NN	B
+goods	NNS
+should	MD
+</Support Example>
+
+<Support Example Score=0.107335152665217>
+the	DT	B
+foreign	JJ	I
+exchange	NN	I
+market	NN
+will	MD
+</Support Example>
+
+<Support Example Score=0.106290222542048>
+are	VBP	O
+starting	VBG	O
+to	TO	O
+move	VB
+up	IN
+</Support Example>
+
+<Support Example Score=0.105170609411974>
+of	IN	O
+deregulation	NN	B
+in	IN	O
+freight-cost	JJ
+reductions	NNS
+</Support Example>
+
+<Support Example Score=0.0954489620538634>
+government	NN	I
+being	VBG	O
+forced	VBN	O
+to	TO
+increase	VB
+</Support Example>
+
+<Support Example Score=0.0929736432895975>
+,	,	O
+the	DT	B
+government	NN	I
+will	MD
+be	VB
+</Support Example>
+
+<Support Example Score=0.084258947277172>
+same	JJ	I
+time	NN	I
+,	,	O
+he	PRP
+remains	VBZ
+</Support Example>
+
+<Support Example Score=0.0808440726062512>
+of	IN	O
+monetary	JJ	B
+easing	NN	I
+by	IN
+U.S.	NNP
+</Support Example>
+
+<Support Example Score=0.0777507136840536>
+16	CD	B
+%	NN	I
+from	IN	O
+their	PRP$
+current	JJ
+</Support Example>
+
+<Support Example Score=0.0774533067032005>
+for	IN	O
+the	DT	B
+trade	NN	I
+figures	NNS
+range	VBP
+</Support Example>
+
+<Support Example Score=0.0721256725108197>
+Pont	NNP	I
+Co	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.0679485492330426>
+Group	NNP	I
+Inc	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.0663159123531637>
+moment	NN	I
+other	JJ	O
+than	IN	O
+Mr.	NNP
+Lawson	NNP
+</Support Example>
+
+<Support Example Score=0.0624128357808915>
+up	IN	O
+3.8	CD	B
+%	NN	I
+from	IN
+a	DT
+</Support Example>
+
+<Support Example Score=0.0581701736823882>
+Federal	NNP	I
+Reserve	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.0543199170753911>
+the	DT	B
+pound	NN	I
+falls	VBZ	O
+much	JJ
+below	IN
+</Support Example>
+
+<Support Example Score=0.0531639549331899>
+Bank	NNP	I
+PLC	NNP	I
+.	.	O
++1__EOS__	+1__EOS__
++2__EOS__	+2__EOS__
+</Support Example>
+
+<Support Example Score=0.0515910719954766>
+drop	NN	I
+in	IN	O
+imports	NNS	B
+.	.
++1__EOS__	+1__EOS__
+</Support Example>
+
+<Support Example Score=0.0509556113255094>
+next	JJ	I
+year	NN	I
+,	,	O
+reflecting	VBG
+higher	JJR
+</Support Example>
+
+<Support Example Score=0.0506108466874372>
+carry	VBP	O
+the	DT	B
+freight	NN	I
+of	IN
+several	JJ
+</Support Example>
+
+<Support Example Score=0.0463710611620005>
+early	JJ	B
+next	JJ	I
+year	NN	I
+,	,
+reflecting	VBG
+</Support Example>
+
+<Support Example Score=0.0398134790479802>
+truck	NN	I
+and	CC	I
+rail	NN	I
+costs	NNS
+,	,
+</Support Example>
+
+<Support Example Score=0.0372256077753614>
+said	VBD	O
+Chris	NNP	B
+Dillow	NNP	I
+,	,
+senior	JJ
+</Support Example>
+
+<Support Example Score=0.0309507849085436>
+%	NN	I
+of	IN	O
+the	DT	B
+250	CD
+shippers	NNS
+</Support Example>
+
+<Support Example Score=0.0279252436924714>
+`	``	O
+the	DT	B
+party	NN	I
+'s	POS
+over	IN
+</Support Example>
+
+<Support Example Score=0.0223893505287307>
+the	DT	B
+government	NN	I
+will	MD	O
+be	VB
+forced	VBN
+</Support Example>
+
+<Support Example Score=0.0181934940692247>
+-1__BOS__	-1__BOS__
+On	IN	O
+the	DT	B
+Commodity	NNP
+Exchange	NNP
+</Support Example>
+
+<Support Example Score=0.0144043412912226>
+rate	NN	I
+``	``	O
+close	RB	O
+to	TO
+or	CC
+</Support Example>
+
+<Support Example Score=0.00937998398385087>
+believes	VBZ	O
+that	IN	O
+the	DT	B
+good	JJ
+times	NNS
+</Support Example>
+
