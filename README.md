@@ -6,7 +6,7 @@ The dataset can be found in the data/Gold_Data_Telugu folder. The code for repro
 
 Steps to reproduce LSTM-CRF results:
 
-1. Download fastText pre-trained vectors for Telugu from https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md and put them in a folder called vectors in the data directory (ie. in data/vectors).
+1. Download fastText pre-trained word vectors for Telugu from https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md and put them in a folder called vectors in the data directory (ie. in data/vectors).
 
 2. Run the build_data.py file which generates the vocabulary and the directory structure
 
