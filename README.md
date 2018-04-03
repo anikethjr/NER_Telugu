@@ -6,13 +6,15 @@ The dataset can be found in the data/Gold_Data_Telugu folder. The code for repro
 
 Steps to reproduce LSTM-CRF results:
 
-1. Run the build_data.py file which generates the vocabulary and the directory structure
+1. Download fastText pre-trained vectors for Telugu from https://github.com/facebookresearch/fastText/blob/master/pretrained-vectors.md and put them in a folder called vectors in the data directory (ie. in data/vectors).
 
-2. Train the model by running train.py
+2. Run the build_data.py file which generates the vocabulary and the directory structure
 
-3. Get the model's predictions on the test set by executing predict_test.py
+3. Train the model by running train.py
 
-4. Run the evaluation script in the conll_evaluation folder by executing "perl conll < ../data/LSTM-CRF/predictions/predictions_9-no-dev.txt". The values of the various metrics will be displayed.
+4. Get the model's predictions on the test set by executing predict_test.py
+
+5. Run the evaluation script in the conll_evaluation folder by executing "perl conll < ../data/LSTM-CRF/predictions/predictions_9-no-dev.txt". The values of the various metrics will be displayed.
 
 Steps to reproduce YamCha results:
 
