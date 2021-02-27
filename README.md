@@ -1,6 +1,16 @@
 # Named Entity Recognition for Telugu using LSTM-CRF
 
-The code for the paper titled "Named Entity Recognition for Telugu using LSTM-CRF".
+The code for the paper titled \href[http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html]["Named Entity Recognition for Telugu using LSTM-CRF"]. Please cite this paper if you use this code:
+
+```bibtex
+@inproceedings{reddy2018named,
+  title={Named Entity Recognition for Telugu using LSTM-CRF},
+  author={Reddy, Aniketh Janardhan and Adusumilli, Monica and Gorla, Sai Kiranmai and Neti, Lalita Bhanu Murthy and Malapati, Aruna},
+  booktitle={WILDRE4--4th Workshop on Indian Language Data: Resources and Evaluation},
+  pages={6},
+  year={2018}
+}
+```
 
 The dataset can be found in the data/Gold_Data_Telugu folder. The code for reproducing the results is in the lstmcrf folder.
 
