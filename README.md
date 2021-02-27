@@ -1,6 +1,6 @@
 # Named Entity Recognition for Telugu using LSTM-CRF
 
-The code for the paper titled \href[http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html]["Named Entity Recognition for Telugu using LSTM-CRF"]. Please cite this paper if you use this code:
+The code for the paper titled ["Named Entity Recognition for Telugu using LSTM-CRF"](http://lrec-conf.org/workshops/lrec2018/W11/summaries/2_W11.html). Please cite this paper if you use this code:
 
 ```bibtex
 @inproceedings{reddy2018named,
