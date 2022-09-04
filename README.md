@@ -54,4 +54,4 @@ Steps to reproduce CRF++ results:
 
 6. Run the evaluation script in the conll_evaluation folder by executing "perl conll < ../data/CRF++/results9_IOB.data". The values of the various metrics will be displayed.
 
-Most of the LSTM-CRF code is derived from (https://github.com/guillaumegenthial/sequence_tagging)[https://github.com/guillaumegenthial/sequence_tagging].
+Most of the LSTM-CRF code is derived from https://github.com/guillaumegenthial/sequence_tagging.
