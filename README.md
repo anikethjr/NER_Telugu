@@ -53,3 +53,5 @@ Steps to reproduce CRF++ results:
 5. To get the predictions of the model of the test set, run "./crf_test -m model ../data/Gold_Data_Telugu/test_sentences_9_IOB.txt > ../data/CRF++/results9_IOB.data"
 
 6. Run the evaluation script in the conll_evaluation folder by executing "perl conll < ../data/CRF++/results9_IOB.data". The values of the various metrics will be displayed.
+
+Most of the LSTM-CRF code is derived from (https://github.com/guillaumegenthial/sequence_tagging)[https://github.com/guillaumegenthial/sequence_tagging].
